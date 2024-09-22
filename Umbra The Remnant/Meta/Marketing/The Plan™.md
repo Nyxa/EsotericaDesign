@@ -7,7 +7,7 @@
 - Steam (Demo/Early Access)
 - Ideally, have a website not only for the game, but also for Esoterica, where we make our mission and passion about games very clear.
 
-### The Quadrifold Gates Strategy
+### The "Quadrifold Gates" Strategy
 #### Demo
 ***
 - Whenever it's finished and reasonably polished, release a demo of Lumina for free on Steam.

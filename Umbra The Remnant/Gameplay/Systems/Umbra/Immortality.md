@@ -1,0 +1,1 @@
+[[Umbra]] can *not* die; when her health is depleted, she reforms at the *nearest* [[Save]] point.

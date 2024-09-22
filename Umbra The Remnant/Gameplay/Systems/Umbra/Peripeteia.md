@@ -1,0 +1,1 @@
+Upon being defeated, [[Umbra]] fuses with [[Nox]] in an all-or-nothing move, entering her second phase and regaining half her health, but becoming unable to heal for the remainder of the fight. Dying in this state forcibly [Rewinds](Rewind.md) her to her latest [[Save]].

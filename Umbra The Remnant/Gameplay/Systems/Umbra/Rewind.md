@@ -1,0 +1,1 @@
+When [[Umbra]] is defeated by an enemy of [[Anomaly]] rank or higher, she cannot properly reform. To combat this, she's given a special [[Injector]] by [[Akira]], which allows her to rewind time to one of two specific points; either the latest phase of the current bossfight, or the *latest* [[Save]].

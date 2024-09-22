@@ -1,4 +1,6 @@
 {
   "showLineNumber": false,
-  "attachmentFolderPath": "_Assets"
+  "attachmentFolderPath": "_Assets",
+  "newFileLocation": "current",
+  "useMarkdownLinks": true
 }

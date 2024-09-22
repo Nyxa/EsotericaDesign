@@ -1,0 +1,3 @@
+Certain enemies do not die upon being defeated. They simply go into an immobilized state, and Umbra then has the choice to spare them. Some enemies may have a questline which becomes available only after sparing them. Some enemies may kill themselves even if you attempt to spare them.
+
+The symbol/text for the finishing blow will include a "question mark" to indicate that the player has a choice, in this scenario.
