@@ -1,0 +1,1 @@
+The Hourglass is a special kind of [Fetish](Fetish.md) Injector which gets absorbed by [[Umbra]]. As such, it is both a Fetish and 

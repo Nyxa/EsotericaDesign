@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "870c3fee8e61d3d5",
+            "id": "5ae6146e22c3eff5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gameplay/Systems/Umbra/Mercy.md",
+                "file": "Gameplay/Systems/Umbra/Injectors.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gameplay/Systems/Umbra/Mercy.md",
+                "file": "Gameplay/Systems/Umbra/Injectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gameplay/Systems/Umbra/Mercy.md",
+                "file": "Gameplay/Systems/Umbra/Injectors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gameplay/Systems/Umbra/Mercy.md"
+                "file": "Gameplay/Systems/Umbra/Injectors.md"
               }
             }
           }
@@ -146,18 +146,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "870c3fee8e61d3d5",
+  "active": "5ae6146e22c3eff5",
   "lastOpenFiles": [
+    "Lore/Injector.md",
+    "Gameplay/Systems/Umbra/Injectors.md",
+    "Gameplay/Systems/Umbra/Injector/Stigmata.md",
+    "Gameplay/Systems/Umbra/Injector/Soulbrand.md",
+    "Gameplay/Systems/Umbra/Injector/Fetish.md",
+    "Gameplay/Systems/Umbra/Injector.md",
+    "Gameplay/Systems/Umbra/Injector/Circuit.md",
+    "Meta/Workflow.md",
+    "Gameplay/Systems/Umbra/The Hourglass.md",
+    "Characters/Umbra.md",
     "Gameplay/Systems/Umbra/Glaive Throw.md",
     "Gameplay/Systems/Umbra/Immortality.md",
     "Gameplay/Systems/Umbra/Mercy.md",
-    "Gameplay/Systems/Umbra/Peripeteia.md",
     "Gameplay/Systems/Umbra/Rewind.md",
+    "Lore/Nahvael.md",
+    "Gameplay/Systems/Umbra/Moxie.md",
+    "Gameplay/Systems/Umbra/Amalgamate.md",
     "Gameplay/Systems/Umbra/Deathblow.md",
     "Gameplay/Systems/Umbra/Droplet Absorb.md",
-    "Gameplay/Systems/Umbra/Injector/Skill.md",
-    "Gameplay/Systems/Umbra/Injector/Energy.md",
-    "Gameplay/Systems/Umbra/Injector/Stigmata.md",
     "Gameplay/Systems/Umbra",
     "Gameplay/Systems/Umbra/Injector",
     "Gameplay/Regions/Lumina/4. Notable Miscellanea.md",
@@ -165,20 +174,11 @@
     "Gameplay/Systems/Player",
     "2024-09-22.md",
     "Untitled.canvas",
-    "Meta/Workflow.md",
     "Gameplay/Regions/Mt. Edivius/3. Enemies.md",
     "Gameplay/Regions/Mt. Edivius/2. NPC.md",
     "Gameplay/Regions/Mt. Edivius/1. Overview.md",
     "Gameplay/Regions/Mt. Edivius/4. Notable Miscellanea.md",
     "Gameplay/Regions/Malicis/3. Enemies.md",
-    "Gameplay/Regions/Malicis/2. NPC.md",
-    "Gameplay/Regions/Malicis/1. Overview.md",
-    "Gameplay/Regions/Malicis/4. Notable Miscellanea.md",
-    "Gameplay/Regions/Lumina/3. Enemies - Copy.md",
-    "Gameplay/Regions/Lumina/2. NPC - Copy.md",
-    "Gameplay/Regions/Lumina/1. Overview - Copy.md",
-    "Gameplay/Regions/Lumina/4. Notable Miscellanea - Copy.md",
-    "Gameplay/Regions/Exulas/3. Enemies.md",
     "Gameplay/Regions/Mt. Edivius/NPCs",
     "Gameplay/Regions/Mt. Edivius/Enemies",
     "Gameplay/Regions/Malicis/NPCs",
