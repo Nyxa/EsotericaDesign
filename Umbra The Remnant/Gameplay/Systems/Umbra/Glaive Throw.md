@@ -1,1 +1,0 @@
-[[Umbra]] can throw her weapon, and it can attach to shit and then she can reel it or herself for platforming or crowd control.
