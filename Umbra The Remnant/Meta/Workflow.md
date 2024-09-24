@@ -1,16 +1,13 @@
 ### General
-***
 Things between `backquotes` are placeholders meant to be replaced with a proper item name.
 Things inside Curly Braces {**CB**} denote an abbreviation that will be used from here on out.
 Important qualifiers *will* be italicized.
 **Names** may be bolded in order to draw attention to them, or distinguish them from similar words.
 
 ### Gameplay
-***
 The **Gameplay** section includes information on gameplay systems & mechanics, boss fights, explorable areas, interactable entities, and useable items. Each of these categories is sorted into their own subdirectory, which each have their own subdirectories and slightly different workflow.
 
 #### Regions
-***
 The **Regions** subsection is divided by subfolders for each explorable region within the game. It does *not* include regions which are part of the lore/history of [[Eiare]] but cannot be visited in-game.
 
 Each **Region** folder has two relevant folders: **Points of Interest** and **Subregions**. They also all contain four different files: **Overview**, **NPC**, **Enemies**, and **Notable Miscellanea**. What each of these are for is outlined below.
