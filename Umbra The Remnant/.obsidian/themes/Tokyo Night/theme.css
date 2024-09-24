@@ -300,8 +300,8 @@ body.h3-divider-on :is(.markdown-preview-sizer>div>h3, .markdown-rendered>h3, .H
   width: 100%;
   right: 0px;
   opacity: 0.5;
-  bottom: 0;
-  background-image: linear-gradient(to left, var(--h3-color) 30%, transparent 70%);
+  bottom: 10px;
+  background-image: linear-gradient(to left, var(--h3-color) 0%, transparent 50%);
 }
 
 body.h4-divider-on :is(.markdown-preview-sizer>div>h4, .markdown-rendered>h4, .HyperMD-header-4)::after {

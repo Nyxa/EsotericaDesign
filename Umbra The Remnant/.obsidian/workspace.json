@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narrative/Antithesis/Act VI ~ Clockwork Château.md",
+                "file": "Meta/Ideas/Region Drafts.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 484.51103591918945
+    "width": 200
   },
   "right": {
     "id": "54e53a07588f83e2",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/Antithesis/Act VI ~ Clockwork Château.md",
+                "file": "Meta/Ideas/Region Drafts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/Antithesis/Act VI ~ Clockwork Château.md",
+                "file": "Meta/Ideas/Region Drafts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/Antithesis/Act VI ~ Clockwork Château.md"
+                "file": "Meta/Ideas/Region Drafts.md"
               }
             }
           }
@@ -148,7 +148,10 @@
   },
   "active": "5ae6146e22c3eff5",
   "lastOpenFiles": [
+    "Meta/Ideas/Megadump.md",
+    "Meta/Ideas/Region Drafts.md",
     "Gameplay/Systems/Player/Combat.md",
+    "Narrative/Antithesis/Act VI ~ Clockwork Château.md",
     "Gameplay/Systems/Player/Exploration.md",
     "Gameplay/Systems/Player/Glaive Throw.md",
     "Gameplay/Systems/Player/Immortality.md",
@@ -160,10 +163,8 @@
     "Narrative/Antithesis/Act III ~ Malicis' Miasma.md",
     "Narrative/Antithesis/Act IV ~ Elvira, the Sunken Capital.md",
     "Narrative/Antithesis/Act V ~ Avalia's Pristine Castle.md",
-    "Narrative/Antithesis/Act VI ~ Clockwork Château.md",
     "Narrative/Daughter of Eiare/Act II ~ Devil, Goddess, Beast.md",
     "Narrative/Golden Heart, Azulite Soul/Act I ~ The Last Orator.md",
-    "Meta/Ideas/Dummy.md",
     "Narrative/The Eighth Sephyr/The Eighth Sephyr.md",
     "Narrative/Little Artificer/Act I ~ A Bitsy Request.md",
     "Narrative/Daughter of Eiare/Act III ~ Horizon.md",
@@ -175,7 +176,6 @@
     "_Assets/Pasted image 20240924060620.png",
     "_Assets/Pasted image 20240924060601.png",
     "Meta/Workflow.md",
-    "Lore/Injector.md",
     "Gameplay/Systems/Player",
     "Gameplay/Systems/Umbra/Injector",
     "Gameplay/Systems",
