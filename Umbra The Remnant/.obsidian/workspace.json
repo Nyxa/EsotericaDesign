@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Umbra.md",
+                "file": "Narrative/Antithesis/Act VI ~ Clockwork Château.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Umbra.md",
+                "file": "Narrative/Antithesis/Act VI ~ Clockwork Château.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Umbra.md",
+                "file": "Narrative/Antithesis/Act VI ~ Clockwork Château.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Umbra.md"
+                "file": "Narrative/Antithesis/Act VI ~ Clockwork Château.md"
               }
             }
           }
@@ -148,6 +148,12 @@
   },
   "active": "5ae6146e22c3eff5",
   "lastOpenFiles": [
+    "Gameplay/Systems/Player/Combat.md",
+    "Gameplay/Systems/Player/Exploration.md",
+    "Gameplay/Systems/Player/Glaive Throw.md",
+    "Gameplay/Systems/Player/Immortality.md",
+    "Gameplay/Systems/Player/Injectors.md",
+    "Characters/Umbra.md",
     "Narrative/Antithesis/Act ~ Orthurys.md",
     "Narrative/Antithesis/Act I ~ Lumina.md",
     "Narrative/Antithesis/Act II ~ Divine City Slums.md",
@@ -169,13 +175,7 @@
     "_Assets/Pasted image 20240924060620.png",
     "_Assets/Pasted image 20240924060601.png",
     "Meta/Workflow.md",
-    "Gameplay/Systems/Player/Injectors.md",
     "Lore/Injector.md",
-    "Lore/Eiare.md",
-    "Gameplay/Systems/Player/Combat.md",
-    "Gameplay/Systems/Player/Rewind.md",
-    "Gameplay/Systems/Player/Glaive Throw.md",
-    "Gameplay/Systems/Player/Exploration.md",
     "Gameplay/Systems/Player",
     "Gameplay/Systems/Umbra/Injector",
     "Gameplay/Systems",
