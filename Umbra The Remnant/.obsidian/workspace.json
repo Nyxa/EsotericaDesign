@@ -13,122 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narrative/Antithesis/Act ~ Orthurys.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d1920d68bcafd7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Narrative/Antithesis/Act I ~ Lumina.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e76dfccc7409b3d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Narrative/Antithesis/Act II ~ Divine City Slums.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "09f7ee32721ea3b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Narrative/Antithesis/Act III ~ Malicis' Miasma.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a420a9ca97ef1e83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Narrative/Antithesis/Act IV ~ Elvira, the Sunken Capital.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c7f81962a964ccad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Narrative/Antithesis/Act V ~ Avalia's Pristine Castle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bfb01acecd0d8605",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Narrative/Antithesis/Act VI ~ Clockwork Château.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7d958a0d6aa1e111",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Narrative/Daughter of Eiare/Act II ~ Devil, Goddess, Beast.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "501951a2e6b60f37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Narrative/Golden Heart, Azulite Soul/Act I ~ The Last Orator.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6629a12564da283e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Narrative/The Eighth Sephyr/The Eighth Sephyr.md",
+                "file": "Characters/Umbra.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/The Eighth Sephyr/The Eighth Sephyr.md",
+                "file": "Characters/Umbra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/The Eighth Sephyr/The Eighth Sephyr.md",
+                "file": "Characters/Umbra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/The Eighth Sephyr/The Eighth Sephyr.md"
+                "file": "Characters/Umbra.md"
               }
             }
           }
@@ -255,26 +146,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6629a12564da283e",
+  "active": "5ae6146e22c3eff5",
   "lastOpenFiles": [
-    "Narrative/Little Artificer/Act I ~ A Bitsy Request.md",
-    "Narrative/The Eighth Sephyr/The Eighth Sephyr.md",
-    "Narrative/Golden Heart, Azulite Soul/Act I ~ The Last Orator.md",
-    "Narrative/Daughter of Eiare/Act III ~ Horizon.md",
-    "Narrative/Daughter of Eiare/Act II ~ Devil, Goddess, Beast.md",
-    "Narrative/Daughter of Eiare/Act I ~ Divine General.md",
-    "Meta/Research/Dummy.md",
-    "Narrative/Antithesis/Act V ~ Avalia's Pristine Castle.md",
     "Narrative/Antithesis/Act ~ Orthurys.md",
     "Narrative/Antithesis/Act I ~ Lumina.md",
     "Narrative/Antithesis/Act II ~ Divine City Slums.md",
-    "Narrative/Antithesis/Act VII ~ Magnum Opus.md",
-    "Narrative/Antithesis/Act VI ~ Clockwork Château.md",
-    "Narrative/Antithesis/Act IV ~ Elvira, the Sunken Capital.md",
     "Narrative/Antithesis/Act III ~ Malicis' Miasma.md",
+    "Narrative/Antithesis/Act IV ~ Elvira, the Sunken Capital.md",
+    "Narrative/Antithesis/Act V ~ Avalia's Pristine Castle.md",
+    "Narrative/Antithesis/Act VI ~ Clockwork Château.md",
+    "Narrative/Daughter of Eiare/Act II ~ Devil, Goddess, Beast.md",
+    "Narrative/Golden Heart, Azulite Soul/Act I ~ The Last Orator.md",
+    "Meta/Ideas/Dummy.md",
+    "Narrative/The Eighth Sephyr/The Eighth Sephyr.md",
+    "Narrative/Little Artificer/Act I ~ A Bitsy Request.md",
+    "Narrative/Daughter of Eiare/Act III ~ Horizon.md",
+    "Narrative/Daughter of Eiare/Act I ~ Divine General.md",
+    "Meta/Research/Dummy.md",
+    "Narrative/Antithesis/Act VII ~ Magnum Opus.md",
     "_Templates/Dummy.md",
     "Meta/References/Dummy.md",
-    "Meta/Ideas/Dummy.md",
     "_Assets/Pasted image 20240924060620.png",
     "_Assets/Pasted image 20240924060601.png",
     "Meta/Workflow.md",
