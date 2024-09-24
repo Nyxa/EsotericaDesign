@@ -29,3 +29,14 @@ This document contains some simple descriptions of the visual profile and "overa
 ### Elvira
    - "An underground technological wasteland. The clear remains of what once was a civilisation far more advanced than whatever could be found on Avalia, actively being consumed by the maw of the seas."
    - Elvira can be distinct by virtue of having Esterian technology, since Elvira was an Esterian city. We can showcase here just how much valuable stuff was lost by the calamities, and it will give players a sense of scale for the damages done.
+
+### The Pristine Castle
+   - "A shining palace of crisp whites, rich blacks, and voluptuous golden arches adorning crystalline, sky-blue ornamentation."
+   - The Pristine Castle is meant to be the peak of Avalian architecture. All previously mentioned features of Avalia, how they exude the grandiosity of ancient Greco-Roman architectural traits, are turned up to 11, with a clear religious influence and a sense of divinity about it all.
+   - It should be immaculate, completely obfuscating the rampant corruption and malice of the people within it. There should be no hint that any wrongdoings occur here at all, as these are all masked to be underground, or beyond the city walls.
+
+### Clockwork Château
+   - "I Kinda Haven't Thought About It Yet, Will Need Your Help But Steampunk Browns And Golds Are A Good Start, Probably With A "Vintage" 1940's Type Aesthetic"
+
+### Magnum Opus
+   - "TBD"

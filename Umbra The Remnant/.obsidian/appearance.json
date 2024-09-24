@@ -1,6 +1,9 @@
 {
   "accentColor": "#dd8dce",
-  "cssTheme": "Tokyo Night",
+  "cssTheme": "Obsidianite",
   "theme": "obsidian",
-  "nativeMenus": false
+  "nativeMenus": false,
+  "interfaceFontFamily": "",
+  "textFontFamily": "Century Gothic,Century,Avenir,Avenir Next Condensed",
+  "baseFontSize": 16
 }

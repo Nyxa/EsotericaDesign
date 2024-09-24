@@ -1,3 +1,6 @@
+<h1><center>Combat</center></h1>
+***
+
 ### Glaive Throw
 [[Umbra]] can throw [[Nox]] like a javelin, and it will fly in a straight line up to a maximum range, or until it hits an object or enemy. After it's attached, she may choose to **Reel** the glaive, detach it, or use it as a platform. 
 
