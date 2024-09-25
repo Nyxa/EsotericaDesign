@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5ae6146e22c3eff5",
+            "id": "069755933eee556a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meta/Ideas/Region Drafts.md",
+                "file": "Gameplay/Systems/Player/Combat.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meta/Ideas/Region Drafts.md",
+                "file": "Gameplay/Systems/Player/Combat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meta/Ideas/Region Drafts.md",
+                "file": "Gameplay/Systems/Player/Combat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meta/Ideas/Region Drafts.md"
+                "file": "Gameplay/Systems/Player/Combat.md"
               }
             }
           }
@@ -146,17 +146,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ae6146e22c3eff5",
+  "active": "069755933eee556a",
   "lastOpenFiles": [
-    "Meta/Workflow.md",
-    "Meta/Ideas/Region Drafts.md",
-    "Gameplay/Systems/Player/Combat.md",
     "Gameplay/Systems/Player/Exploration.md",
-    "Gameplay/Systems/Player/Glaive Throw.md",
+    "Gameplay/Systems/Player/Combat.md",
+    "Gameplay/Systems/Player/The Hourglass.md",
+    "Gameplay/Systems/Player/Injectors.md",
+    "Gameplay/Systems/Player/Moxie.md",
+    "Gameplay/Systems/Player/Rewind.md",
+    "Gameplay/Systems/Player/Mercy.md",
+    "_Assets/Pasted image 20240925034227.png",
+    "Lore/Injector.md",
+    "Gameplay/Systems/Player/o.md",
     "Gameplay/Systems/Player/Immortality.md",
+    "Gameplay/Systems/Player/Glaive Throw.md",
+    "Meta/Ideas/Region Drafts.md",
+    "Meta/Workflow.md",
     "Meta/Ideas/Megadump.md",
     "Narrative/Antithesis/Act VI ~ Clockwork Château.md",
-    "Gameplay/Systems/Player/Injectors.md",
     "Characters/Umbra.md",
     "Narrative/Antithesis/Act ~ Orthurys.md",
     "Narrative/Antithesis/Act I ~ Lumina.md",
@@ -168,12 +175,6 @@
     "Narrative/Golden Heart, Azulite Soul/Act I ~ The Last Orator.md",
     "Narrative/The Eighth Sephyr/The Eighth Sephyr.md",
     "Narrative/Little Artificer/Act I ~ A Bitsy Request.md",
-    "Narrative/Daughter of Eiare/Act III ~ Horizon.md",
-    "Narrative/Daughter of Eiare/Act I ~ Divine General.md",
-    "Meta/Research/Dummy.md",
-    "Narrative/Antithesis/Act VII ~ Magnum Opus.md",
-    "_Templates/Dummy.md",
-    "Meta/References/Dummy.md",
     "_Assets/Pasted image 20240924060620.png",
     "_Assets/Pasted image 20240924060601.png",
     "Gameplay/Systems/Player",

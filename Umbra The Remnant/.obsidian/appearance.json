@@ -4,6 +4,7 @@
   "theme": "obsidian",
   "nativeMenus": false,
   "interfaceFontFamily": "",
-  "textFontFamily": "Century Gothic,Century,Avenir,Avenir Next Condensed",
-  "baseFontSize": 16
+  "textFontFamily": "Century Gothic",
+  "baseFontSize": 16,
+  "showViewHeader": true
 }
