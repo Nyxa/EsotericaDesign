@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b437ac1d0df2e709",
+        "id": "915a37e31cc59b43",
         "type": "tabs",
         "children": [
           {
-            "id": "069755933eee556a",
+            "id": "9bc5d21cfad95ce0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gameplay/Systems/Player/Combat.md",
+                "file": "Lore/Awakening.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gameplay/Systems/Player/Combat.md",
+                "file": "Lore/Awakening.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gameplay/Systems/Player/Combat.md",
+                "file": "Lore/Awakening.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gameplay/Systems/Player/Combat.md"
+                "file": "Lore/Awakening.md"
               }
             }
           }
@@ -146,17 +146,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "069755933eee556a",
+  "active": "9bc5d21cfad95ce0",
   "lastOpenFiles": [
-    "Gameplay/Systems/Player/Exploration.md",
+    "Characters/Kurotsuchi Akira.md",
+    "Gameplay/Bosses/Demigod/Akira ~ The Demon of Hiraizumi.md",
+    "Lore/Nahvael.md",
+    "Lore/Awakening.md",
+    "Lore/Ripple.md",
+    "Lore/Eiare.md",
+    "Lore/Injector.md",
+    "Characters/Umbra.md",
+    "Gameplay/Bosses/Demigod",
+    "Gameplay/Bosses",
     "Gameplay/Systems/Player/Combat.md",
+    "Gameplay/Systems/Player/Exploration.md",
     "Gameplay/Systems/Player/The Hourglass.md",
     "Gameplay/Systems/Player/Injectors.md",
     "Gameplay/Systems/Player/Moxie.md",
     "Gameplay/Systems/Player/Rewind.md",
     "Gameplay/Systems/Player/Mercy.md",
     "_Assets/Pasted image 20240925034227.png",
-    "Lore/Injector.md",
     "Gameplay/Systems/Player/o.md",
     "Gameplay/Systems/Player/Immortality.md",
     "Gameplay/Systems/Player/Glaive Throw.md",
@@ -164,17 +173,10 @@
     "Meta/Workflow.md",
     "Meta/Ideas/Megadump.md",
     "Narrative/Antithesis/Act VI ~ Clockwork Château.md",
-    "Characters/Umbra.md",
     "Narrative/Antithesis/Act ~ Orthurys.md",
     "Narrative/Antithesis/Act I ~ Lumina.md",
     "Narrative/Antithesis/Act II ~ Divine City Slums.md",
     "Narrative/Antithesis/Act III ~ Malicis' Miasma.md",
-    "Narrative/Antithesis/Act IV ~ Elvira, the Sunken Capital.md",
-    "Narrative/Antithesis/Act V ~ Avalia's Pristine Castle.md",
-    "Narrative/Daughter of Eiare/Act II ~ Devil, Goddess, Beast.md",
-    "Narrative/Golden Heart, Azulite Soul/Act I ~ The Last Orator.md",
-    "Narrative/The Eighth Sephyr/The Eighth Sephyr.md",
-    "Narrative/Little Artificer/Act I ~ A Bitsy Request.md",
     "_Assets/Pasted image 20240924060620.png",
     "_Assets/Pasted image 20240924060601.png",
     "Gameplay/Systems/Player",
@@ -185,8 +187,6 @@
     "Gameplay/Regions/Mt. Edivius/NPCs",
     "Gameplay/Regions/Mt. Edivius/Enemies",
     "Gameplay/Regions/Malicis/NPCs",
-    "Gameplay/Regions/Malicis/Enemies",
-    "Gameplay/Regions/Lumina/NPCs",
-    "Gameplay/Regions/Lumina/Enemies"
+    "Gameplay/Regions/Malicis/Enemies"
   ]
 }
