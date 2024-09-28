@@ -49,7 +49,7 @@ Below is a list of some words and names which are uttered without translation in
 	- Translation difficulty comes from requiring an understanding of *'Kethra'*
 - *Nahva*
 	- Easiest to understand as "One whose mind is as empty as their soul"
-	- "Empty" in the context of **Nahva** mysticism is a word with a positive and divine connotation. Having an empty soul is seen as a good thing; it means having a soul akin to **Nahla**.
+	- "Empty" in the context of [[Nahva mysticism]] is a word with a positive and divine connotation. Having an empty soul is seen as a good thing; it means having a soul akin to **Nahla**.
 	- **Entreas** popularized **Nahva** mysticism across many different **Ripples** with the [[Elcheyed]] and his terrifying powers.
 - *Nahva'at*
 	- "Akin to the **Nahva**"

@@ -1,3 +1,4 @@
+
 <h1><center>Injectors</center></h1>
 ***
 [Injectors](Injector.md) are the means by which [[Qualia]] may be channeled in order to produce a desired result. In gameplay terms, they are the narrative building block for abilities, magical artefacts, progression keys, buffs, and passives.

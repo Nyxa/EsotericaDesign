@@ -13,13 +13,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Nahvael.md",
+                "file": "Gameplay/Bosses/Vortex/Ashdyr ~ Thousand-blade Sentinel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d26875f6d623121",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gameplay/Bosses/Vortex/Ellore ~ Forlorn Exile.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d394a115b3c7f121",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gameplay/Bosses/Vortex/Luscerna ~ Swansong of Saeris.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a57b2eb1a337723",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gameplay/Bosses/Vortex/Alace Vansonia ~ Nightmare of Avalia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07bbc60c58f8d03d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gameplay/Bosses/Vortex/Carmilla ~ Scarlet Paramour.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -69,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 420.5
   },
   "right": {
     "id": "54e53a07588f83e2",
@@ -85,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/Nahvael.md",
+                "file": "Gameplay/Bosses/Vortex/Carmilla ~ Scarlet Paramour.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore/Nahvael.md",
+                "file": "Gameplay/Bosses/Vortex/Carmilla ~ Scarlet Paramour.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/Nahvael.md"
+                "file": "Gameplay/Bosses/Vortex/Carmilla ~ Scarlet Paramour.md"
               }
             }
           }
@@ -146,15 +195,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9bc5d21cfad95ce0",
+  "active": "07bbc60c58f8d03d",
   "lastOpenFiles": [
-    "Lore/Awakening.md",
-    "Characters/Kurotsuchi Akira.md",
+    "Gameplay/Bosses/Vortex/Alace Vansonia ~ Nightmare of Avalia.md",
+    "Gameplay/Bosses/Vortex/Carmilla ~ Scarlet Paramour.md",
+    "Gameplay/Bosses/Vortex/Luscerna ~ Swansong of Saeris.md",
+    "Gameplay/Bosses/Vortex/Ellore ~ Forlorn Exile.md",
+    "Gameplay/Bosses/Vortex/Ashdyr ~ Thousand-blade Sentinel.md",
+    "Gameplay/Bosses/Demigod/Alace Vansonia ~ Godbeast of Eiare.md",
+    "Gameplay/Bosses/Chief",
+    "Gameplay/Bosses/Anomaly",
+    "Gameplay/Bosses/Vortex",
+    "Gameplay/Bosses/Demigod/Kayanna Litchi ~ Radiant Princess of Altire.md",
+    "Gameplay/Bosses/Demigod/Necroxia ~ Virtuosa of the Void.md",
+    "_Assets/Pasted image 20240928192500.png",
     "Gameplay/Bosses/Demigod/Akira ~ The Demon of Hiraizumi.md",
-    "Lore/Nahvael.md",
     "Lore/Injector.md",
-    "Gameplay/Systems/Player/Combat.md",
+    "Lore/Awakening.md",
     "Gameplay/Systems/Player/Injectors.md",
+    "Lore/Nahvael.md",
+    "Characters/Kurotsuchi Akira.md",
+    "Gameplay/Systems/Player/Combat.md",
     "Lore/Ripple.md",
     "Lore/Eiare.md",
     "Characters/Umbra.md",
@@ -169,14 +230,6 @@
     "Gameplay/Systems/Player/o.md",
     "Gameplay/Systems/Player/Immortality.md",
     "Gameplay/Systems/Player/Glaive Throw.md",
-    "Meta/Ideas/Region Drafts.md",
-    "Meta/Workflow.md",
-    "Meta/Ideas/Megadump.md",
-    "Narrative/Antithesis/Act VI ~ Clockwork Château.md",
-    "Narrative/Antithesis/Act ~ Orthurys.md",
-    "Narrative/Antithesis/Act I ~ Lumina.md",
-    "Narrative/Antithesis/Act II ~ Divine City Slums.md",
-    "Narrative/Antithesis/Act III ~ Malicis' Miasma.md",
     "_Assets/Pasted image 20240924060620.png",
     "_Assets/Pasted image 20240924060601.png",
     "Gameplay/Systems/Player",
@@ -184,9 +237,6 @@
     "Gameplay/Systems",
     "Gameplay/Systems/Player",
     "Untitled.canvas",
-    "Gameplay/Regions/Mt. Edivius/NPCs",
-    "Gameplay/Regions/Mt. Edivius/Enemies",
-    "Gameplay/Regions/Malicis/NPCs",
-    "Gameplay/Regions/Malicis/Enemies"
+    "Gameplay/Regions/Mt. Edivius/NPCs"
   ]
 }

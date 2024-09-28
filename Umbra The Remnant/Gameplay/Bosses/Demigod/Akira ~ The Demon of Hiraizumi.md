@@ -1,5 +1,5 @@
 
-<h1><center>The Demon of Hiraizumi<br>Akira </center></h1>
+<h1><center><i>The Demon of Hiraizumi</i><br>Akira </center></h1>
 ***
 
 ### Benzaiten 「辯才天」
