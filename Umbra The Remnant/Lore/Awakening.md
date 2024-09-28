@@ -24,7 +24,11 @@ The *tiers* all have their names described in the [[Elcheyed]] in [Nahvael](Nahv
 - Dreamer (*Nehar'tet*)
 	- **Dreamer** entities are entities which *do* possess a consciousness, but are unaware of the existence of **Qualia**, and/or their ability to manipulate them. 
 	- The vast majority of [[humans]] on [[Earth]] fall into this category.
+	- **Dreamers** are capable of **Ascension**, as is every degree above them.
+	- While they cannot manipulate **Qualia** consciously, their **Attunement** still has an impact on their tendencies and talents. For example, someone **Attuned** to [[Velocigen]] may be exceptionally nimble, or have a particularly intuitive understanding of spacetime.
+		- However, a talent in itself isn't indicative of any particular kind of **Attunement**.
 - Awakened (*Khamar'tet*)
+	- **Awakened** entities are capable of manipulating **Qualia** to a minor extent. 
 - Wanderer (*Kethsah*)
 - Deva (*Kethra’at*)
 - Sephyr (*Nahva’at*)

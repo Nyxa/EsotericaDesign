@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Awakening.md",
+                "file": "Lore/Nahvael.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/Awakening.md",
+                "file": "Lore/Nahvael.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore/Awakening.md",
+                "file": "Lore/Nahvael.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/Awakening.md"
+                "file": "Lore/Nahvael.md"
               }
             }
           }
@@ -148,20 +148,20 @@
   },
   "active": "9bc5d21cfad95ce0",
   "lastOpenFiles": [
+    "Lore/Awakening.md",
     "Characters/Kurotsuchi Akira.md",
     "Gameplay/Bosses/Demigod/Akira ~ The Demon of Hiraizumi.md",
     "Lore/Nahvael.md",
-    "Lore/Awakening.md",
+    "Lore/Injector.md",
+    "Gameplay/Systems/Player/Combat.md",
+    "Gameplay/Systems/Player/Injectors.md",
     "Lore/Ripple.md",
     "Lore/Eiare.md",
-    "Lore/Injector.md",
     "Characters/Umbra.md",
     "Gameplay/Bosses/Demigod",
     "Gameplay/Bosses",
-    "Gameplay/Systems/Player/Combat.md",
     "Gameplay/Systems/Player/Exploration.md",
     "Gameplay/Systems/Player/The Hourglass.md",
-    "Gameplay/Systems/Player/Injectors.md",
     "Gameplay/Systems/Player/Moxie.md",
     "Gameplay/Systems/Player/Rewind.md",
     "Gameplay/Systems/Player/Mercy.md",

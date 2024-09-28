@@ -37,9 +37,32 @@ Below is a list of some words and names which are uttered without translation in
 	- This word is, again, derogatory. It requires an understanding of the meaning of *Nehar'tet*, as it is effectively an inversion. But, of course, if you are to invert the Yin-Yang symbol, what you're left with still looks like a Yin-Yang symbol. This is **Entreas**' way of expressing that he doesn't believe the **Awakened** are any different from the **Dreamers**, and that their difference is only cosmetic.
 	- This word can only truly be understood by truly understanding the meaning of *Nehar'tet*; as such, no equivalent exists in most languages.
 - *Kethra*
-	- The true meaning of '*Kethra*' is considered difficult to simplify, as it references the heart of the "Goddess" (aka **Nahla**) whilst drawing parallels between her having a "network of hearts" and the **Hollow Lattice** itself.
+	- The true meaning of '*Kethra*' is considered difficult to simplify, as it references the "Heart of the Goddess" (aka **Nahla**) whilst drawing parallels between her having a "network of hearts" and the **Hollow Lattice** itself.
+	- While *'ra'* signifies something that unites the meanings of "Guardian," "Glue," and "Tree," the meaning of *'Keth'* is more occult. It simultaneously refers to "The Godhead" as well as "The Self," and is a union of many meanings relating to the solipsistic experience of the [[Void]] gaining awareness and distributing said awareness among the reflection of its Self.
 	- Its meaning, while originally referring to something fairly complex, has been somewhat simplified by becoming the noun to describe the [[creatures]] that guard [[Ripples]] from being ripped apart by [[Nihilium]].
 	- Although this makes it lose much of its meaning, it's easy to think of it as a word meaning "World Guardian."
 - *Kethsah*
+	- "One who has glimpsed/dreamed the **Keth**"
+	- Translation difficulty comes from requiring an understanding of *'Kethra'*
 - *Kethra'at*
+	- "Akin to a **Kethra**"
+	- Translation difficulty comes from requiring an understanding of *'Kethra'*
+- *Nahva*
+	- Easiest to understand as "One whose mind is as empty as their soul"
+	- "Empty" in the context of **Nahva** mysticism is a word with a positive and divine connotation. Having an empty soul is seen as a good thing; it means having a soul akin to **Nahla**.
+	- **Entreas** popularized **Nahva** mysticism across many different **Ripples** with the [[Elcheyed]] and his terrifying powers.
 - *Nahva'at*
+	- "Akin to the **Nahva**"
+	- Translation difficulty comes from requiring an understanding of *'Nahva'*
+- *Halithell*
+	- True name of [Umbra](Umbra.md)
+	- As a word, it summarises the entirety of **Umbra's** life and destiny.
+- *Rheasthine* 
+	- True name of [[Necroxia]] 
+- *Nephasael* 
+	- True name of [[Nox]]
+- *Kalphyr*
+	- True name of [[Tabitha]]
+- *Nahla*
+	- Name of the Goddess of all creation.
+	- As a word, it summarises the combined essences of something-ness, nothing-ness, their union, consciousness, creation, illusion, and experience.
