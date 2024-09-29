@@ -8,67 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9bc5d21cfad95ce0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gameplay/Bosses/Vortex/Ashdyr ~ Thousand-blade Sentinel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3d26875f6d623121",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gameplay/Bosses/Vortex/Ellore ~ Forlorn Exile.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d394a115b3c7f121",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gameplay/Bosses/Vortex/Luscerna ~ Swansong of Saeris.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a57b2eb1a337723",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gameplay/Bosses/Vortex/Alace Vansonia ~ Nightmare of Avalia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "07bbc60c58f8d03d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gameplay/Bosses/Vortex/Carmilla ~ Scarlet Paramour.md",
+                "file": "Gameplay/Bosses/General Boss Mechanics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 420.5
+    "width": 365.5
   },
   "right": {
     "id": "54e53a07588f83e2",
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gameplay/Bosses/Vortex/Carmilla ~ Scarlet Paramour.md",
+                "file": "Gameplay/Bosses/General Boss Mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gameplay/Bosses/Vortex/Carmilla ~ Scarlet Paramour.md",
+                "file": "Gameplay/Bosses/General Boss Mechanics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gameplay/Bosses/Vortex/Carmilla ~ Scarlet Paramour.md"
+                "file": "Gameplay/Bosses/General Boss Mechanics.md"
               }
             }
           }
@@ -192,11 +143,20 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "custom-sort:Toggle custom sorting": false
     }
   },
   "active": "07bbc60c58f8d03d",
   "lastOpenFiles": [
+    "Narrative/Lost City",
+    "Narrative/Echoes",
+    "Gameplay/Bosses/Boss Title Sequence.md",
+    "Gameplay/Systems/Player/Injectors.md",
+    "Gameplay/Bosses/General Boss Mechanics.md",
+    "Gameplay/Systems/Player/Combat.md",
+    "Characters/Umbra.md",
+    "Gameplay/Bosses/Anomaly/Heart Embers of the Igneous Lord.md",
     "Gameplay/Bosses/Vortex/Alace Vansonia ~ Nightmare of Avalia.md",
     "Gameplay/Bosses/Vortex/Carmilla ~ Scarlet Paramour.md",
     "Gameplay/Bosses/Vortex/Luscerna ~ Swansong of Saeris.md",
@@ -212,31 +172,23 @@
     "Gameplay/Bosses/Demigod/Akira ~ The Demon of Hiraizumi.md",
     "Lore/Injector.md",
     "Lore/Awakening.md",
-    "Gameplay/Systems/Player/Injectors.md",
     "Lore/Nahvael.md",
     "Characters/Kurotsuchi Akira.md",
-    "Gameplay/Systems/Player/Combat.md",
     "Lore/Ripple.md",
     "Lore/Eiare.md",
-    "Characters/Umbra.md",
     "Gameplay/Bosses/Demigod",
     "Gameplay/Bosses",
     "Gameplay/Systems/Player/Exploration.md",
     "Gameplay/Systems/Player/The Hourglass.md",
     "Gameplay/Systems/Player/Moxie.md",
     "Gameplay/Systems/Player/Rewind.md",
-    "Gameplay/Systems/Player/Mercy.md",
     "_Assets/Pasted image 20240925034227.png",
-    "Gameplay/Systems/Player/o.md",
-    "Gameplay/Systems/Player/Immortality.md",
-    "Gameplay/Systems/Player/Glaive Throw.md",
     "_Assets/Pasted image 20240924060620.png",
     "_Assets/Pasted image 20240924060601.png",
     "Gameplay/Systems/Player",
     "Gameplay/Systems/Umbra/Injector",
     "Gameplay/Systems",
     "Gameplay/Systems/Player",
-    "Untitled.canvas",
-    "Gameplay/Regions/Mt. Edivius/NPCs"
+    "Untitled.canvas"
   ]
 }

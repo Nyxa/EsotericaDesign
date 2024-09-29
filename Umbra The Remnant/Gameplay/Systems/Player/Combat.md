@@ -56,9 +56,9 @@ During Equinox, **Umbra** will briefly perceive a slowdown in time. There will u
 
 That is, if the "Attack" button becomes an option to, for example, push a rock, this *may* be indicated during an Equinox sequence.
 
-Equinox *may* also depict Intuition helpers, such as indicating that an attack is coming from behind.
-
-Equinox does *not* require a currently active cutscene to trigger. It may trigger during cutscenes *and* regular gameplay.
+>[!info]
+> - Equinox *may* also depict Intuition helpers, such as indicating that an attack is coming from behind.
+> - Equinox does *not* require a currently active cutscene to trigger. It may trigger during cutscenes *and* regular gameplay.
 
 ### Mercy
 Certain enemies do not die upon being defeated. They simply go into an immobilized state and trigger **Equinox**. If the player chooses *not* to perform the finishing blow, this triggers **Mercy**. 
@@ -69,7 +69,6 @@ Certain enemies do not die upon being defeated. They simply go into an immobiliz
  > - Flee, regenerate a portion of their health, and attack you if encountered again.
  > - Immediately regenerate a portion of their health, and attack you again.
  > - Kill themselves.
-
 
 The symbol/text for the finishing blow will include a "question mark" (or anything that evokes a similar response) to indicate that the player has a choice, in this scenario.
 

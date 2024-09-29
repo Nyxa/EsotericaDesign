@@ -25,3 +25,7 @@ A [Fetish](Injector.md#Fetish) is an **Injector** placed onto an object rather t
 [[Stigmata]] are small **Injectors** that may be switched *at any time*. They provide small buffs to non-primary stats (e.g. "recovery time" or "invulnerability duration"), or simple passive effects. They have a maximum "load" which may be upgraded by acquiring **{ITEM}**.
 
 Stigmata are the *only* **Injectors** that may be [[crafted]].
+
+### Blueprints
+
+
