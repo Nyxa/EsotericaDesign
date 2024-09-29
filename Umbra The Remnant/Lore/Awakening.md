@@ -1,4 +1,4 @@
-
+36
 <h1><center>Nexus Awakening </center></h1>
 ***
 **Nexus Awakening** (abbrev. **Awakening**) describes the progression of an entity's [[Hollow Nexus]], separating it into different *degrees* which describe the following traits and capabilities:

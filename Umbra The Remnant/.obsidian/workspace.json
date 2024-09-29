@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gameplay/Bosses/General Boss Mechanics.md",
+                "file": "Gameplay/Bosses/Chief/Lumina Forest.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365.5
+    "width": 690.5
   },
   "right": {
     "id": "54e53a07588f83e2",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gameplay/Bosses/General Boss Mechanics.md",
+                "file": "Gameplay/Bosses/Chief/Lumina Forest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gameplay/Bosses/General Boss Mechanics.md",
+                "file": "Gameplay/Bosses/Chief/Lumina Forest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gameplay/Bosses/General Boss Mechanics.md"
+                "file": "Gameplay/Bosses/Chief/Lumina Forest.md"
               }
             }
           }
@@ -143,52 +143,52 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "custom-sort:Toggle custom sorting": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "07bbc60c58f8d03d",
   "lastOpenFiles": [
+    "Gameplay/Bosses/Chief/Lumina Caverns ~ Anglerfell.md",
+    "Gameplay/Bosses/Chief/Lumina Caverns.md",
+    "Gameplay/Bosses/Chief/Lumina Forest.md",
+    "Gameplay/Bosses/Demigod/Akira ~ The Demon of Hiraizumi.md",
+    "Gameplay/Bosses/Anomaly/Edivius - The Great Shendala ~ Orator.md",
+    "Gameplay/Bosses/Chief/Lumina",
+    "Gameplay/Bosses/Anomaly/Edivius - Remali ~ Frostouch Maiden.md",
+    "Gameplay/Bosses/Anomaly/Elvira - Erathel ~ Land's Edge.md",
+    "Gameplay/Bosses/Anomaly/Elvira - Ophelia ~ Mistress of Puppets.md",
+    "Gameplay/Bosses/Anomaly/Elvira - Neketh ~ Primeval Ophid.md",
+    "Gameplay/Bosses/Anomaly/Malicis - Lemea ~ Blighted Lamb of the Sands.md",
+    "Gameplay/Bosses/Anomaly/Malicis - HAK-TOH-EKK of the Faces.md",
+    "Gameplay/Bosses/Anomaly/Malicis - Deadmaw ~ Corpse King.md",
+    "Gameplay/Bosses/Anomaly/Lumina - Lady Lazuli ~ The Gemspinner.md",
+    "Gameplay/Bosses/Anomaly/Exulas - The Face Hunter.md",
+    "Gameplay/Bosses/Anomaly/Exulas - Callisse ~ Blood Matron.md",
+    "Gameplay/Bosses/Anomaly/Exulas - Aosi ~ Wailing Willow.md",
+    "Gameplay/Bosses/Anomaly/Lumina - Hakti ~ Listless Vagabond.md",
+    "Gameplay/Bosses/Anomaly/Exulas - Shed of Many Doors.md",
+    "Gameplay/Bosses/Anomaly/Avalia - Lette 'Hellcat' Draiss.md",
+    "Gameplay/Bosses/Anomaly/Avalia - Hallowed Tercet ~ Riette ~ Palisade.md",
+    "Gameplay/Bosses/Anomaly/Avalia - Hallowed Tercet ~ Apolinne ~ Eclipse.md",
+    "Gameplay/Bosses/Anomaly/Avalia - Hallowed Tercet ~ Einara ~ Luster.md",
+    "Gameplay/Bosses/Anomaly/Avalia - Draelys ~ Corpse Flower.md",
+    "Gameplay/Bosses/Anomaly/Lumina - Arketh ~ Lochbeast.md",
+    "Gameplay/Bosses/Anomaly/Edivius - Heart Embers of the Igneous Lord.md",
+    "Gameplay/Bosses/General Boss Mechanics.md",
+    "Gameplay/Regions/Lumina/Map.canvas",
     "Narrative/Lost City",
     "Narrative/Echoes",
-    "Gameplay/Bosses/Boss Title Sequence.md",
-    "Gameplay/Systems/Player/Injectors.md",
-    "Gameplay/Bosses/General Boss Mechanics.md",
-    "Gameplay/Systems/Player/Combat.md",
-    "Characters/Umbra.md",
-    "Gameplay/Bosses/Anomaly/Heart Embers of the Igneous Lord.md",
-    "Gameplay/Bosses/Vortex/Alace Vansonia ~ Nightmare of Avalia.md",
-    "Gameplay/Bosses/Vortex/Carmilla ~ Scarlet Paramour.md",
-    "Gameplay/Bosses/Vortex/Luscerna ~ Swansong of Saeris.md",
-    "Gameplay/Bosses/Vortex/Ellore ~ Forlorn Exile.md",
-    "Gameplay/Bosses/Vortex/Ashdyr ~ Thousand-blade Sentinel.md",
-    "Gameplay/Bosses/Demigod/Alace Vansonia ~ Godbeast of Eiare.md",
     "Gameplay/Bosses/Chief",
     "Gameplay/Bosses/Anomaly",
     "Gameplay/Bosses/Vortex",
-    "Gameplay/Bosses/Demigod/Kayanna Litchi ~ Radiant Princess of Altire.md",
-    "Gameplay/Bosses/Demigod/Necroxia ~ Virtuosa of the Void.md",
     "_Assets/Pasted image 20240928192500.png",
-    "Gameplay/Bosses/Demigod/Akira ~ The Demon of Hiraizumi.md",
-    "Lore/Injector.md",
-    "Lore/Awakening.md",
-    "Lore/Nahvael.md",
-    "Characters/Kurotsuchi Akira.md",
-    "Lore/Ripple.md",
-    "Lore/Eiare.md",
     "Gameplay/Bosses/Demigod",
     "Gameplay/Bosses",
-    "Gameplay/Systems/Player/Exploration.md",
-    "Gameplay/Systems/Player/The Hourglass.md",
-    "Gameplay/Systems/Player/Moxie.md",
-    "Gameplay/Systems/Player/Rewind.md",
     "_Assets/Pasted image 20240925034227.png",
     "_Assets/Pasted image 20240924060620.png",
     "_Assets/Pasted image 20240924060601.png",
     "Gameplay/Systems/Player",
     "Gameplay/Systems/Umbra/Injector",
-    "Gameplay/Systems",
-    "Gameplay/Systems/Player",
     "Untitled.canvas"
   ]
 }

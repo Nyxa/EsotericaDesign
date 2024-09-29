@@ -1,1 +1,1 @@
-Location: [[Lumina Caverns]]
+Location: [[Gameplay/Regions/Lumina/Subregions/Lumina Caverns]]
