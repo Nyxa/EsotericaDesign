@@ -13,26 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Awakening.md",
+                "file": "Characters/Alma Santos/Appearance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Awakening"
+              "title": "Appearance"
             }
           },
           {
-            "id": "ee583bbe20ce3e7a",
+            "id": "0c3a9ab5ae52e7d5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Lore/Hollow Nexus.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.8.9"
               },
-              "icon": "lucide-file",
-              "title": "Hollow Nexus"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
             }
           }
         ]
@@ -179,19 +177,21 @@
   },
   "active": "07bbc60c58f8d03d",
   "lastOpenFiles": [
-    "Gameplay/Systems/Player/Injectors.md",
-    "Lore/Injector.md",
-    "Lore/Awakening.md",
-    "Lore/Hollow Nexus.md",
-    "Lore/Ripple.md",
-    "Lore/Nahvael.md",
-    "Lore/Eiare.md",
-    "Characters/Kurotsuchi Akira.md",
+    "Characters/Alma Santos/General.md",
+    "Characters/Alma Santos/Appearance.md",
+    "Characters/Alma Santos/Appearance - Young teenager.md",
+    "Characters/Alma Santos",
+    "Meta/Workflow.md",
+    "Meta/Research/Dummy.md",
+    "Meta/References/Dummy.md",
+    "Meta/Marketing/The Plan™.md",
     "Meta/Ideas/Region Drafts.md",
     "Meta/Ideas/Megadump.md",
-    "Gameplay/Systems/Player/Combat.md",
-    "Characters/Umbra.md",
+    "Lore/Awakening.md",
     "Characters/Lady Lazuli.md",
+    "Characters/Kurotsuchi Akira.md",
+    "Gameplay/Systems/Player/Combat.md",
+    "Gameplay/Systems/Player/Injectors.md",
     "Gameplay/Systems/Player/Exploration.md",
     "Gameplay/Bosses/Demigod/Akira ~ The Demon of Hiraizumi.md",
     "Gameplay/Bosses/Chief/Lumina Forest.md",
@@ -205,7 +205,6 @@
     "Gameplay/Bosses/Anomaly/Elvira - Neketh ~ Primeval Ophid.md",
     "Gameplay/Bosses/Anomaly/Malicis - Lemea ~ Blighted Lamb of the Sands.md",
     "Gameplay/Bosses/Anomaly/Malicis - HAK-TOH-EKK of the Faces.md",
-    "Gameplay/Bosses/Anomaly/Malicis - Deadmaw ~ Corpse King.md",
     "Gameplay/Regions/Lumina/Map.canvas",
     "Narrative/Lost City",
     "Narrative/Echoes",
@@ -219,7 +218,6 @@
     "_Assets/Pasted image 20240924060620.png",
     "_Assets/Pasted image 20240924060601.png",
     "Gameplay/Systems/Player",
-    "Gameplay/Systems/Umbra/Injector",
     "Untitled.canvas"
   ]
 }

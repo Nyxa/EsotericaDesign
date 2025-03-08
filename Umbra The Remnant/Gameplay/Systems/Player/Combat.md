@@ -1,5 +1,6 @@
 <h1><center>Combat</center></h1>
-***
+
+---
 This document details all of the combat systems available to the player. It does *not* take into account progression order, and instead details the *total* amount of combat systems that will be available throughout the game.
 
 The systems in this document are *not* presented in any particular order.
@@ -30,7 +31,7 @@ This means that attacking during Glaive Throw *cancels* the Glaive Throw animati
 
 
 ### Rewind
-When **Umbra** is defeated by an enemy of [[Anomaly]] rank or higher, she cannot properly reform. To combat this, she's given a special [Injector](Injectors.md#Soulbrand) by [[Akira]], which allows her to rewind time to one of two specific points; either the latest phase of the current bossfight, or the *latest* **Save**.
+When **Umbra** is defeated by an enemy of [[Anomaly]] rank or higher, she cannot properly reform. To combat this, she's given a [special Injector](Injectors.md#Soulbrand) by [[Akira]], which allows her to rewind time to one of two specific points; either the latest phase of the current bossfight, or the *latest* **Save**.
 
 >[!info]
 > - Enemies that have previously fought **Umbra** will *not* recognize her after a **Rewind**, with some very rare exceptions.
@@ -52,7 +53,7 @@ The **Equinox** is a type of Rapid Action Sequence {**RAS**} that is triggered b
 - Stealth kill
 - Certain scripted sequences
 
-During Equinox, **Umbra** will briefly perceive a slowdown in time. There will usually *not* be any input prompt on the screen during Equinox; however, input descriptors will appear via the [[Intuition]] system if the inputs in question have their meaning changed.
+During **Equinox**, **Umbra** will briefly perceive a slowdown in time. There will usually *not* be any input prompt on the screen during **Equinox**; however, input descriptors will appear via the [[Intuition]] system if the inputs in question have their meaning changed.
 
 That is, if the "Attack" button becomes an option to, for example, push a rock, this *may* be indicated during an Equinox sequence.
 
