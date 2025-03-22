@@ -89,7 +89,7 @@ The *tiers* all have their names described in the [[Elcheyed]] in [Nahvael](Nahv
 	- As an Attunement type, it is typically used for reconnaissance, illusions, the creation of imagery, and the alteration of an object's properties by imposing the user's imagination onto reality.
 
 - **Temporum**
-	- The Qualia of **Causality**
+	- The Qualia of **Causality & Interaction**
 	- Governs the ability for things to have properties that can produce effects when interacting with other things with properties
 	- Creates the **Temporal Field**, a field that stores all causal information of a Ripple
 		- This can be understood as a field which stores a "back-up" of every "moment" that occurs within a Ripple
