@@ -51,3 +51,33 @@ A loud crackle can be heard, and the charcoal fizzles into particles that split 
 
 ### Nihilium (Creation)
 The charcoal is ignited into multi-coloured flames which quickly burn out, leaving behind the material that was burned to obtain it. In essence, if you burned red cedar to obtain the charcoal, it would burn to become red cedar. This effect leads to Nihilium sometimes being mistaken as a Temporum Attunement.
+
+
+Alma has three Projection Injectors:
+
+**Hand of Antithesis**
+A rare *Fissure Projection*. It extends out of the brain through Alma's tear ducts, aligning with her bottom eyelids.
+
+As it's a Fissure Projection, it is effectively two Projections for one Injector.
+
+This particular Fissure manifests as two characters of opposing themes, borne of Alma's conflicted nature:
+- *Left Hand of Dawn: Aurora*
+  - A grumpy goth angel girl who never feels like doing anything, and hates everyone. 
+- *Right Hand of Dusk: Vespera*
+  - A bubbly pastel demon girl who is brimming with energy and excitement, and loves cute things.
+
+Both Fissures can Manifest into one of **three** gadgets each, with each having their gadgets aligned with their opposing themes of contrast. This allows Alma to utilize up to two gadgets at once; however, she may only use one of each theme at a time. 
+
+Manifest (**Aurora**): 
+- **The Retina**: A sight attachment for firearms that highlights conscious beings, even if they're behind a wall. The sight will adapt to whichever firearm it's attached to.
+- **The Auricle**: A long-range listening device. It will transmit sounds from the location it's aimed at, with a configurable depth of up to one kilometer. The sound quality is crisp, as if you were there in person. It is not electrical, and can be used for 5 consecutive minutes, roughly every hour. 
+- **The Beacon**: A small device which depicts a simple map of the surrounding area. Its range is a radius of 100 meters around the device. It will depict the footsteps of every conscious being within the radius of the map. If Alma has met the being before, they will be depicted as a different colour. Those with an opened Nexus will be depicted with a unique colour. 
+
+Manifest (**Vespera**):
+- **Wraith Node**: Alma may place a Wraith Node within a shadow. When she is standing within another shadow, she can instantly transport back to her Wraith Node. The shadow must completely envelop Alma such that she cannot be seen by any conscious being. She may only have one Wraith Node active at a time. While Wraith Node is active, she cannot use any other Vespera gadgets.
+- **Shadow Double**: Alma may create a perfect copy of herself. This copy will remain materialized even if it dies. The copy can speak and move however Alma programs it to, but has the strength of a small child. The copy has internal organs, and will persist until Alma deactivates it. When deactivated, it melts into shadows, which dissipate.
+- **Phantom Clock**: A timer which can be set by Alma. For its duration, it records all of Alma's actions. When the timer expires, any residue produced by Alma's actions (hair, skin, blood, fingerprints, etc.) ceases to exist. Any recording devices that Alma is captured on while the timer ticks will experience severe interference. As long as the timer is going, Alma cannot use any other Vespera gadgets. If the timer is stopped before it ends, its effects will be completely nulled. 
+
+Release (Both): **Lacryma Dea**
+
+

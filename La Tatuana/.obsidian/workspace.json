@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Alma Santos/Appearance.md",
+                "file": "Narrative/A-Side - Lux Occulta/- Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Appearance"
+              "title": "- Overview"
+            }
+          },
+          {
+            "id": "c2e27de665bf3b11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Narrative/A-Side - Lux Occulta/- Overview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "- Overview"
             }
           },
           {
@@ -33,7 +47,8 @@
               "title": "Release Notes 1.8.9"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 229.5
   },
   "right": {
     "id": "54e53a07588f83e2",
@@ -175,10 +190,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "07bbc60c58f8d03d",
+  "active": "c2e27de665bf3b11",
   "lastOpenFiles": [
-    "Characters/Alma Santos/General.md",
+    "Narrative/A-Side - Lux Occulta/0. Prologue.md",
+    "Narrative/B-Side - Velum Inane/- Overview.md",
+    "Narrative/A-Side - Lux Occulta/- Overview.md",
     "Characters/Alma Santos/Appearance.md",
+    "_Assets/Pasted image 20250413025007.png",
+    "Narrative/B-Side - Velum Inane",
+    "Narrative/A-Side - Lux Occulta",
+    "Characters/Alma Santos/General.md",
     "Characters/Alma Santos/Appearance - Young teenager.md",
     "Characters/Alma Santos",
     "Meta/Workflow.md",
@@ -202,9 +223,6 @@
     "Gameplay/Bosses/Anomaly/Edivius - Remali ~ Frostouch Maiden.md",
     "Gameplay/Bosses/Anomaly/Elvira - Erathel ~ Land's Edge.md",
     "Gameplay/Bosses/Anomaly/Elvira - Ophelia ~ Mistress of Puppets.md",
-    "Gameplay/Bosses/Anomaly/Elvira - Neketh ~ Primeval Ophid.md",
-    "Gameplay/Bosses/Anomaly/Malicis - Lemea ~ Blighted Lamb of the Sands.md",
-    "Gameplay/Bosses/Anomaly/Malicis - HAK-TOH-EKK of the Faces.md",
     "Gameplay/Regions/Lumina/Map.canvas",
     "Narrative/Lost City",
     "Narrative/Echoes",
@@ -213,11 +231,9 @@
     "Gameplay/Bosses/Vortex",
     "_Assets/Pasted image 20240928192500.png",
     "Gameplay/Bosses/Demigod",
-    "Gameplay/Bosses",
     "_Assets/Pasted image 20240925034227.png",
     "_Assets/Pasted image 20240924060620.png",
     "_Assets/Pasted image 20240924060601.png",
-    "Gameplay/Systems/Player",
     "Untitled.canvas"
   ]
 }
