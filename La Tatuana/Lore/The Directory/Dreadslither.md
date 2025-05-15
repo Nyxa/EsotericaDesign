@@ -1,0 +1,1 @@
+an Anomaly which is a physical manifestation of dread, anxiety and terror it's a large shambling mass with the bases of amorphous tendrils "shivering" along its blobby surface
