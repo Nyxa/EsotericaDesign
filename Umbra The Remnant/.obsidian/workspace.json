@@ -4,38 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "915a37e31cc59b43",
+        "id": "b8115d8df3a2804a",
         "type": "tabs",
         "children": [
           {
-            "id": "07bbc60c58f8d03d",
+            "id": "2e5348369b146fc8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Attunement Test.md",
+                "file": "Gameplay/Systems/Player/Combat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Attunement Test"
+              "title": "Combat"
             }
           },
           {
-            "id": "ee583bbe20ce3e7a",
+            "id": "2b78b0b25a8bbc7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Awakening.md",
+                "file": "Gameplay/Bosses/General Boss Mechanics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Awakening"
+              "title": "General Boss Mechanics"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "lord",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 546.5
   },
   "right": {
     "id": "54e53a07588f83e2",
@@ -177,49 +178,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "07bbc60c58f8d03d",
+  "active": "debb322593be192c",
   "lastOpenFiles": [
-    "Lore/Awakening.md",
+    "Narrative/Golden Heart, Azulite Soul/Act I ~ The Last Orator.md",
     "Lore/Attunement Test.md",
-    "Lore/Injector.md",
-    "Lore/Hollow Nexus.md",
-    "Gameplay/Systems/Player/Injectors.md",
-    "Gameplay/Systems/Player/Exploration.md",
-    "Gameplay/Systems/Player/Combat.md",
-    "Characters/Kurotsuchi Akira.md",
-    "Lore/Ripple.md",
-    "Lore/Nahvael.md",
-    "Lore/Eiare.md",
-    "Meta/Ideas/Region Drafts.md",
+    "Characters/Saeris",
+    "Lore/Clans/Niandes Clan.md",
+    "Lore/Clans/Akhanti Clan.md",
+    "Lore/Clans/Avalia.md",
     "Meta/Ideas/Megadump.md",
-    "Characters/Umbra.md",
-    "Characters/Lady Lazuli.md",
+    "Gameplay/Systems/Player/Combat.md",
+    "Lore/Empty Lattice.md",
+    "Lore/Nahvael.md",
+    "Lore/Awakening.md",
+    "Lore/Hollow Nexus.md",
+    "Lore/Qualia.md",
+    "Lore/Eiare.md",
+    "Lore/Nahla.md",
+    "Lore/Clans/Esteria.md",
+    "Lore/Clans/Saeris.md",
+    "Lore/Clans/Maylith.md",
+    "Characters/Maylith/Garnet.md",
+    "Characters/Maylith/Ametrine.md",
+    "Gameplay/Bosses/Vortex/Alace Vansonia ~ Nightmare of Avalia.md",
     "Gameplay/Bosses/Demigod/Akira ~ The Demon of Hiraizumi.md",
-    "Gameplay/Bosses/Chief/Lumina Forest.md",
-    "Gameplay/Bosses/Chief/Lumina Caverns ~ Anglerfell.md",
-    "Gameplay/Bosses/Chief/Lumina Caverns.md",
-    "Gameplay/Bosses/Anomaly/Edivius - The Great Shendala ~ Orator.md",
-    "Gameplay/Bosses/Chief/Lumina",
-    "Gameplay/Bosses/Anomaly/Edivius - Remali ~ Frostouch Maiden.md",
-    "Gameplay/Bosses/Anomaly/Elvira - Erathel ~ Land's Edge.md",
-    "Gameplay/Bosses/Anomaly/Elvira - Ophelia ~ Mistress of Puppets.md",
-    "Gameplay/Bosses/Anomaly/Elvira - Neketh ~ Primeval Ophid.md",
-    "Gameplay/Bosses/Anomaly/Malicis - Lemea ~ Blighted Lamb of the Sands.md",
-    "Gameplay/Bosses/Anomaly/Malicis - HAK-TOH-EKK of the Faces.md",
+    "Lore/Clans/Bloodwing",
+    "Gameplay/Bosses/Demigod/Alace Vansonia ~ Godbeast of Eiare.md",
+    "Gameplay/Bosses/Vortex/Carmilla ~ Sanguine Cinder.md",
+    "Gameplay/Bosses/Vortex/Luscerna ~ Ashen Echo.md",
+    "Lore/Clans",
+    "Characters/Umbra.md",
+    "Touch of the Nullgazer/00 Overview.md",
+    "Characters/Maylith",
+    "Gameplay/Regions/Calmerra, Lands Astray/Boss Fights",
+    "Gameplay/Regions/Divine City of Avalia/Boss Fights",
+    "Gameplay/Regions/Elphira, the Sunken City/Boss Fights",
+    "Gameplay/Regions/Exulas, Remnant Wastes/Boss Fights",
+    "Gameplay/Regions/Malicis, the Taboo Isles/Boss Fights",
+    "Gameplay/Regions/Mt. Edivius, Throne of the Heart Embers/Boss Fights",
     "Gameplay/Regions/Lumina/Map.canvas",
-    "Narrative/Lost City",
-    "Narrative/Echoes",
-    "Gameplay/Bosses/Chief",
-    "Gameplay/Bosses/Anomaly",
-    "Gameplay/Bosses/Vortex",
     "_Assets/Pasted image 20240928192500.png",
-    "Gameplay/Bosses/Demigod",
-    "Gameplay/Bosses",
     "_Assets/Pasted image 20240925034227.png",
     "_Assets/Pasted image 20240924060620.png",
     "_Assets/Pasted image 20240924060601.png",
-    "Gameplay/Systems/Player",
-    "Gameplay/Systems/Umbra/Injector",
     "Untitled.canvas"
   ]
 }

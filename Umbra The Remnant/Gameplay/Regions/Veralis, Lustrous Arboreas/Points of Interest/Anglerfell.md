@@ -1,0 +1,1 @@
+Location: [Shimmervein Depths](Gameplay/Regions/Veralis,%20Lustrous%20Arboreas/Subregions/Shimmervein%20Depths.md)

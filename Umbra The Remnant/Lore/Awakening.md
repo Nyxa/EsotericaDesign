@@ -1,6 +1,6 @@
-<h1><center>Nexus Awakening </center></h1>
+<h1><center>Awakening </center></h1>
 ***
-**Nexus Awakening** (abbrev. **Awakening**) describes the progression of an entity's [[Hollow Nexus]], separating it into different *degrees* which describe the following traits and capabilities:
+**Awakening** describes the progression of an entity's [[Hollow Nexus]], separating it into different *degrees* which describe the following traits and capabilities:
 1. The entity's broadness of consciousness
 2. The entity's ability to create [Injectors](Injector.md)
 3. The entity's ability to harness, maintain, and transmute [[Qualia]]
@@ -15,10 +15,11 @@
 
 The *tiers* all have their names described in the [[Elcheyed]] in [Nahvael](Nahvael.md); however, the [[Litchipedia]] lists them under the following names (**Nahvael** names in parentheses): 
 - Inert (*Chelmud*)
-	- **Inert** entities are entities which contain **Qualia**, but do *not* have a consciousness. 
+	- **Inert** entities are entities which contain **Qualia**, but do *not* have a consciousness.
+		- This requires a **Hollow Nexus**, which they do not possess.
 	- Everyday objects fall into this category. 
 	- **Fetishes** also fall into this category, despite how different they are from "dead matter" objects.
-	- **Inert** entities are *not* capable of **Ascension**. This requires a **Hollow Fragment**, which they do not possess.
+	- **Inert** entities are *not* capable of **Ascension**. 
 		- As such, this degree exists merely for completeness' sake; it is a part of the **Elcheyed**, which was written by [[Entreas]], who is [[well known]] for being needlessly detailed.
 - Dreamer (*Nehar'tet*)
 	- **Dreamer** entities are entities which *do* possess a consciousness, but are unaware of the existence of **Qualia**, and/or their ability to manipulate them. 

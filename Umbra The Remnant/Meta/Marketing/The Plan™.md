@@ -40,7 +40,7 @@
 	- Small streamers that seem like cool people are also a perfectly valid option.
 	- **Make sure these streamers match our target audience!**
 	- Take feedback graciously! **Don't argue** with them, **just listen and validate**, and apply the feedback wisely.
-- Give free key for the **full game** to mid-to-large gaming video essayists, and ask them for feedback.
+- Give free key for the *ull game** to mid-to-large gaming video essayists, and ask them for feedback.*f
 	- Explicitly state that we aren't asking them to make a video about the game, just that we value their criticism and would like their feedback so we can improve the game.
 	- Ask them to be **brutally honest** with their feedback.
 		- This (hopefully) signals to them that we're acting in good faith.

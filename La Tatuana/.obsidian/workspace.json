@@ -34,18 +34,6 @@
               "icon": "lucide-file",
               "title": "- Overview"
             }
-          },
-          {
-            "id": "0c3a9ab5ae52e7d5",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
-            }
           }
         ],
         "currentTab": 1
@@ -190,7 +178,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "debb322593be192c",
+  "active": "c2e27de665bf3b11",
   "lastOpenFiles": [
     "Narrative/A-Side - Lux Occulta/Timeline.md",
     "Narrative/A-Side - Lux Occulta/- Overview.md",

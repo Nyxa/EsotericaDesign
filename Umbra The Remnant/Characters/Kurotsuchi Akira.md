@@ -53,7 +53,7 @@ Awakening: [Aun Deva](Awakening.md)
 	- Akira may create causal magnifications of her strikes. This typically manifests as a giant, disembodied version of the striking limb appearing and replicating the strike at an area of her choosing.
 - **Ame-no-Uzume**
 	- Aun Injector
-	- Akira rapidly jumps between a moment in the past, and a moment in the future, rendering her invisible in the present. 
+	- Akira rapidly jumps between a moment in the past, and a moment in the future, rendering her invisible in the present.
 	- Someone who looks directly at where she is will still get a sense of Deja-vu, like they just saw someone there. This is because they technically did.
 
 - **Kagutsuchi**
@@ -91,7 +91,7 @@ Awakening: [Aun Deva](Awakening.md)
 		- **Hypospace** is an area of space which technically does not exist. By lacking a size, it cannot contain things. However the presence of a **Causal Record** means things occurred within it.
 			- **Hypospace Regions** are immune to sensory abilities. They cannot have Temporal data extracted from them, and cannot be viewed remotely. They are completely isolated from everything else.
 				- Akira also refers to this as her **Pocket Void**.
-			- The presence of a Causal Record allows people to enter and exit the space, and do things within the space, despite the space technically not existing.
+			- The presence of a **Causal Record** allows people to enter and exit the space, and do things within the space, despite the space technically not existing.
 				- This is not considered a paradox as it's abusing a peculiarity of how spatial espionage works, rather than performing a logically inconsistent action.
 			- People can see each other and breathe within this space. This is entirely a feature added in intentionally by Akira, and pockets of oxygen randomly vanishing in an area is the only way to tell the presence of a **Hypospace Region**.
 			- Akira uses this in Altire, to discuss plans for war with the Celestials without Entreas being able to use Cyrell's All-Seeing Eye to spy on them.

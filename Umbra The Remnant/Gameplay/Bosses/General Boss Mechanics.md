@@ -46,8 +46,8 @@ The classifications are as follows:
 		- She is also related to **Little Artificer**
 	- [Ellore](Ellore%20~%20Forlorn%20Exile.md) is a requirement for [[Lost City]]
 		- She is also related to **Little Artificer**
-	- [Luscerna](Luscerna%20~%20Swansong%20of%20Saeris.md) is a requirement for **Echoes**
-	- [Carmilla](Carmilla%20~%20Scarlet%20Paramour.md) is related to **Golden Heart, Azulite Soul**
+	- [Luscerna](Luscerna%20~%20Ashen%20Echo.md) is a requirement for **Echoes**
+	- [Carmilla](Carmilla%20~%20Sanguine%20Cinder.md) is related to **Golden Heart, Azulite Soul**
 		- She is also *strongly* related to, and involved with, **Little Artificer**
 
 #### Demigod

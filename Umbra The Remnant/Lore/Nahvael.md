@@ -9,11 +9,11 @@ A being fluent in **Nahvael** can understand *any* language they interact with. 
 
 It is the default language spoken by all [[Kethra]]—who are born with the ability to speak it—as well as the language spoken by [[Nahla]]. Few entities are known to speak it well, though a reasonable amount of fluency in it is a requirement to becoming a [[Grand Hollow]].
 
-All things which exists possess a *name* in **Nahvael**, regardless of what names they may assign themselves in other languages. The **Nahvael** name of an entity will speak to its [[Hollow Fragment]]. 
+All things which exists possess a *name* in **Nahvael**, regardless of what names they may assign themselves in other languages. The **Nahvael** name of an entity will speak to its [Hollow Nexus](Hollow%20Nexus.md). 
 
 **Nahla** and all her **Kethra** know the names of all things, which gives them the appearance of being omniscient. These are *all* properties of **Nahvael** as a language.
 
-It is said that **Nahla** used **Nahvael** to create the [[Hollow Lattice]], and that becoming fluent in it will give you the same powers as her. This, however, is proven false by the fact that [[Entreas]] and the **Kethra** are all fluent, but the **Kethra** worship **Nahla**, and **Entreas**' power pales in comparison to even an [[Aun Sephyr]].
+It is said that **Nahla** used **Nahvael** to create the [[Empty Lattice]], and that becoming fluent in it will give you the same powers as her. This, however, is proven false by the fact that [[Entreas]] and the **Kethra** are all fluent, but the **Kethra** worship **Nahla**, and **Entreas**' power pales in comparison to even an [[Aun Sephyr]].
 
 Some **Nahvael** words have meanings that are so occult, they cannot be expressed as a similar word or phrase in a physical language. These words are sometimes uttered in direct **Nahvael**; such as the "**Aun**" qualifier, for entities which have more than one [[Attunement]].
 

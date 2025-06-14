@@ -1,1 +1,0 @@
-Location: [[Gameplay/Regions/Lumina/Subregions/Lumina Forest]]
