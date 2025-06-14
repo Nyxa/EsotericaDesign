@@ -1,2 +1,2 @@
 Remains of a Saeris village
-Location: [[Glistergrove]]
+Location: [[Gameplay/Regions/Veralis, Lustrous Arboreas/Subregions/Glistergrove]]

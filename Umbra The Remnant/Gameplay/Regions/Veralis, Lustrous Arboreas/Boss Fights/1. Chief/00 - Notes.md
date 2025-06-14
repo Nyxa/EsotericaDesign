@@ -1,0 +1,1 @@
+This list is far too big and will probably need to be trimmed down, unless there's a low-effort way of getting all these Chief fights in.

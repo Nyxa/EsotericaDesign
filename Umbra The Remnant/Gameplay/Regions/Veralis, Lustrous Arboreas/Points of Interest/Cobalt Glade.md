@@ -1,1 +1,1 @@
-Location: [[Glistergrove]]
+Location: [[Gameplay/Regions/Veralis, Lustrous Arboreas/Subregions/Glistergrove]]
