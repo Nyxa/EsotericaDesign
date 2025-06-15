@@ -4,20 +4,20 @@ ___
 
 When a **Ripple** is created, it pulls an immense amount of raw energy from the [Blackvoid](Nahla.md) condensed into a single point. This energy is then arranged according to laws pulled from its [Host](Ripple.md), and, once all **Physical Laws** are in place, the Ripple violently expands outwards; allowing its **Energy** to condense into matter, to eventually facilitate the emergence of conscious beings.
 
-**Qualia** play a critical role in this design; however, they are neither conscious nor capable of forming consciousness. The ability for conscious thought and observation comes from the [Hollow Nexus](Hollow%20Nexus.md), which is essentially a fragment of [Nahla](Nahla.md) herself.
+**Qualia** play a critical role in this design; however, they are neither conscious nor capable of forming consciousness. The ability for conscious thought and observation comes from the [Hollow Nexus](Hollow%20Nexus.md).
 
 There are 7 different types of **Qualia**, of which 5 are **Natural**, and 2 are **Primordial**:
 
 ### **Memorium**
 - **Natural Qualia** of **Information & Perception**
-    - Governs the ability for things to possess qualities and traits, and for those traits to be perceived as distinct from one another.
-    - Governs information transfer, which is a component of energy transfer.
-    - Governs information persistence, in tandem with **Temporum**.
+    - Governs the ability for things to possess *qualities* and *traits*, and for those traits to be *perceived* as distinct from one another.
+    - Governs information *transfer*, which is a component of energy transfer.
+    - Governs information *persistence*, in tandem with **Temporum**.
     - As an **Attunement** type, it is typically used for *reconnaissance*, *illusions*, the creation of *imagery*, and the alteration of an object's properties by imposing the user's *imagination* onto reality.
 
 ### **Temporum**
 - **Natural Qualia** of **Causality & Interaction**
-    - Governs the ability for things to have properties that can produce effects when interacting with other things with properties
+    - Governs the ability for things to have *properties* that can produce effects when interacting with other things with properties
     - Creates the **Temporal Field**, a field that stores all *causal* information of a **Ripple**
         - This can be understood as a field which stores a "back-up" of every "moment" that occurs within a **Ripple**
         - The **Temporal Field** is of a fixed size, so storing new information becomes slower as more information is added. 
@@ -43,19 +43,20 @@ There are 7 different types of **Qualia**, of which 5 are **Natural**, and 2 are
 
 ### **Oscillium**
 - **Natural Qualia** of **Cycles & Spectra**
-    - Governs the ability for things to have multiple valid states, and for them to gradually alternate between those states.
-    - Introduces stability into a system by fusing together dichotomous concepts, and giving each of them equal agency.
+    - Governs the ability for things to have multiple valid *states*, and for them to gradually *alternate* between those states.
+    - Introduces *equilibrium* into a system by fusing together *dichotomous* concepts, and giving each of them equal agency.
+	    - **Oscillium** plays a large role in the creation of the [[Ethereal Vault]]
     - Defines a **Spectrum** that interpolates between these dichotomous concepts.
     - Responsible for the existence of anything with a frequency, such as *sound* and *light*.
     - Governs other abstract cycles together with **Ethereon**, the most ubiquitous one being *Life & Death*.
     - As an **Attunement** type, it is typically used to manipulate anything with a frequency. In rare cases, it is used to manipulate more abstract cycles. Among the more unorthodox uses of **Oscillium**, *Necromancy* is fairly common.
     - Unlike all other **Natural Qualia**, **Oscillium** was not created as an independent type, but rather as the fusion of **Temporum** and **Velocigen**.
-        - As a result, any Aun Deva with an attunement in Temporum and Velocigen is indirectly also Wanderer level at manipulating Oscillium, making that combination of Attunements particularly dangerous.
+        - As a result, any **Aun Deva** with an attunement in **Temporum** and **Velocigen** is indirectly also **Wanderer** level at manipulating **Oscillium**, making that combination of **Attunements** particularly dangerous.
 
 
 ### **Ethereon**
 - **Natural Qualia** of **Concepts**
-    - Creates the [[Ethereal Vault]], a unique **Field** within a **Ripple** that contains information about every conceivable *Thing* this **Ripple** supports the existence of.
+    - Creates the **Ethereal Vault**, a unique **Field** within a **Ripple** that contains information about every conceivable *Thing* this **Ripple** supports the existence of.
     - Governs the ability for *objects* to be distinct, discrete *Things*.
     - Governs the ability for *Things* to combine to form new *Things*.
     - Defines the different levels of existence a *Thing* may exist within.
@@ -72,7 +73,7 @@ There are 7 different types of **Qualia**, of which 5 are **Natural**, and 2 are
 
 ### **Nahline**
 - **Primordial Qualia** of **Structure & Growth**
-    - **Nahline** is the essence of **Nahla** herself. It is the crystallized form of her Will, and a crucial component in the creation of **Ripples**.
+    - **Nahline** is the essence of [[Nahla]] herself. It is the crystallized form of her Will, and a crucial component in the creation of **Ripples**.
     - It is the element that allows other types of **Qualia** to combine to form *laws* and *things*
     - It acts as the protective barrier around **Ripples**, slowing the effects of the **Whitevoid** that attempts to rip them apart.
     - It serves as the glue between the **Hollow Nexus** and the physical body, and as such is a key ingredient in **Ripple** travel and **Attunement**.
