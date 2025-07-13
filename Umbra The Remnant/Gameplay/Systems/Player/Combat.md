@@ -1,3 +1,4 @@
+********
 <h1><center>Combat</center></h1>
 
 ---
@@ -58,7 +59,7 @@ During **Equinox**, **Umbra** will briefly perceive a slowdown in time. There wi
 That is, if the "Attack" button becomes an option to, for example, push a rock, this *may* be indicated during an Equinox sequence.
 
 >[!info]
-> - Equinox *may* also depict Intuition helpers, such as indicating that an attack is coming from behind.
+> - Equinox *may* also depict **Intuition** helpers, such as indicating that an attack is coming from behind.
 > - Equinox does *not* require a currently active cutscene to trigger. It may trigger during cutscenes *and* regular gameplay.
 
 ### Mercy

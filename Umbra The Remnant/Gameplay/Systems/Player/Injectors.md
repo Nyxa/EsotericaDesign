@@ -1,4 +1,4 @@
-<h1><center>Injectors</center></h1>
+ <h1><center>Injectors</center></h1>
 ***
 [Injectors](Injector.md) are the means by which [[Qualia]] may be channeled in order to produce a desired result. In gameplay terms, they are the narrative building block for abilities, magical artefacts, progression keys, buffs, and passives.
 
@@ -23,8 +23,9 @@ A [Fetish](Injector.md#Fetish) is an **Injector** placed onto an object rather t
 ### Circuits
 [[Circuits]] are small **Injectors** that may be switched *at any time*. In terms of lore, they are **Stigmata**; however, **Umbra** is capable of wielding weaker **Stigmata** at little to no **Energy** cost. They provide small buffs to non-primary stats (e.g. *recovery time* or *invulnerability duration*), or simple passive effects. They have a maximum **Load** which may be upgraded by acquiring **{ITEM}**.
 
+**Circuits** are organized as a **Skill Tree**, except instead of pre-determined buffs and abilities, the player may themselves *decide* what their **Skill Tree** looks like. The order in which the **Circuits** are placed affects their combined effects.
+
 **Circuits** are the *only* **Injectors** that may be [[crafted]].
 
 ### Blueprints
-
-
+**Blueprints** are items that can be found and acquired by **Umbra** which allow her to immediately learn the layout of a certain **Injector**. In practice, it's how she can acquire a new ability *without* discovering its pattern herself.
