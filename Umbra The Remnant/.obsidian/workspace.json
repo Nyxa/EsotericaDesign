@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gameplay/Regions/Veralis, Lustrous Arboreas/Points of Interest/Cobalt Cove.md",
+                "file": "Gameplay/Regions/Veralis, Lustrous Arboreas/Boss Fights/2. Anomaly/Hakti ~ Listless Vagabond.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cobalt Cove"
+              "title": "Hakti ~ Listless Vagabond"
+            }
+          },
+          {
+            "id": "d532a04ffa8c8f45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gameplay/Systems/Player/Combat.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Combat"
             }
           }
         ]
@@ -163,8 +177,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "debb322593be192c",
+  "active": "2e5348369b146fc8",
   "lastOpenFiles": [
+    "Gameplay/Systems/Player/Combat.md",
+    "Gameplay/Regions/Veralis, Lustrous Arboreas/Boss Fights/2. Anomaly/Hakti ~ Listless Vagabond.md",
+    "Characters/Saeris/Hakti.md",
+    "Narrative/Echoes (wat)/Act I ~ The Blind.md",
+    "Meta/Ideas/Region Drafts.md",
+    "Meta/Ideas/Megadump.md",
+    "Gameplay/Regions/Exulas, Remnant Wastes/Boss Fights/Vortex - Carmilla ~ Sanguine Cinder.md",
+    "Gameplay/Regions/Divine City of Avalia/Boss Fights/Vortex - Alace Vansonia ~ Nightmare of Avalia.md",
+    "Meta/Marketing/The Plan™.md",
+    "Lore/Injector.md",
+    "Lore/Hollow Nexus.md",
+    "Lore/Ethereal Vault.md",
+    "Lore/Empty Lattice.md",
+    "Lore/Eiare.md",
+    "Lore/Awakening.md",
+    "Lore/Attunement Test.md",
+    "Gameplay/Regions/Veralis, Lustrous Arboreas/Points of Interest/Cobalt Cove.md",
     "Gameplay/Regions/Veralis, Lustrous Arboreas/Points of Interest/Ashenhearth.md",
     "Gameplay/Regions/Veralis, Lustrous Arboreas/Points of Interest/Anglerfell.md",
     "Gameplay/Regions/Veralis, Lustrous Arboreas/2. NPC.md",
@@ -172,28 +203,11 @@
     "Gameplay/Regions/Malicis, the Taboo Isles/1. Overview.md",
     "Gameplay/Regions/Mt. Edivius, Throne of the Heart Embers/1. Overview.md",
     "Gameplay/Systems/Player/Injectors.md",
-    "Lore/Injector.md",
     "Lore/Qualia.md",
-    "Gameplay/Regions/Veralis, Lustrous Arboreas/Points of Interest/Cobalt Cove.md",
     "Characters/Kurotsuchi Akira.md",
-    "Characters/Umbra.md",
-    "Characters/Esteria/Nemilla Aeltor.md",
     "Characters/Niandes",
     "Characters/Altire",
     "Characters/Esteria",
-    "Characters/Kayanna Litchi.md",
-    "Characters/Saeris/Luscerna.md",
-    "Characters/Saeris/Hakti.md",
-    "Gameplay/Regions/Veralis, Lustrous Arboreas/Points of Interest/Amberveil.md",
-    "Gameplay/Regions/Veralis, Lustrous Arboreas/Boss Fights/Vortex - Ashdyr ~ Thousand-blade Sentinel.md",
-    "Gameplay/Regions/Veralis, Lustrous Arboreas/Subregions/Glistergrove.md",
-    "Gameplay/Bosses/General Boss Mechanics.md",
-    "Gameplay/Bosses/Boss Title Sequence.md",
-    "Meta/Marketing/Elevator Pitch.md",
-    "Gameplay/Systems/Player/Combat.md",
-    "Gameplay/Regions/Exulas, Remnant Wastes/1. Overview.md",
-    "Gameplay/Regions/Exulas, Remnant Wastes/Remnants.md",
-    "Gameplay/Regions/Elphira, the Sunken City/1. Overview.md",
     "Gameplay/Regions/Calmerra, Lands Astray/Boss Fights/2. Anomaly",
     "Gameplay/Regions/Calmerra, Lands Astray/Boss Fights/1. Chief",
     "Gameplay/Regions/Calmerra, Lands Astray/Boss Fights/3. Vortex",

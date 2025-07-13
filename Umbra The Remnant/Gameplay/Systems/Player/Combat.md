@@ -1,4 +1,4 @@
-********
+
 <h1><center>Combat</center></h1>
 
 ---
@@ -25,7 +25,9 @@ This means that attacking during Glaive Throw *cancels* the Glaive Throw animati
 
 
 ### Immortality
-**Umbra** can *not* die; when her health is depleted, she reforms at the *nearest* [[Save]].
+**Umbra** can *not* die; when her health is depleted, she **Reforms** at the *nearest* [[Save]]. 
+
+This is considered a **Reform Death**.
 
 >[!info]
 >Enemies that have previously fought **Umbra** *may* recognize her, and acknowledge that they've "killed" her before.
@@ -33,6 +35,8 @@ This means that attacking during Glaive Throw *cancels* the Glaive Throw animati
 
 ### Rewind
 When **Umbra** is defeated by an enemy of [[Anomaly]] rank or higher, she cannot properly reform. To combat this, she's given a [special Injector](Injectors.md#Soulbrand) by [[Akira]], which allows her to rewind time to one of two specific points; either the latest phase of the current bossfight, or the *latest* **Save**.
+
+This is considered a **Rewind Death**.
 
 >[!info]
 > - Enemies that have previously fought **Umbra** will *not* recognize her after a **Rewind**, with some very rare exceptions.
@@ -95,3 +99,6 @@ It acts the **Health** and **Energy** management and display system, which allow
 > [!note]
 **Umbra** can gather **Energy** through [Alliciency](Exploration.md#Alliciency),  by **Striking** or **Parrying** enemies.
 Alternatively, she may expend **Health** with the **Hourglass** to gain more **Energy**.
+
+
+### Parry
