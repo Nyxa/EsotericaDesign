@@ -19,4 +19,14 @@ Skin colour :  Sickly pale white
 [Echoes](Act%20I%20~%20The%20Blind.md)
 
 
-## Backstory
+## Story
+**Hakti** is the *last remaining survivor* of the [Saeris clan](Saeris.md).
+
+Much like her clanmates, **Hakti** is a friendly and gentle soul at heart. She was dedicated to her *martial arts* practice and *fishing*, which she used to contribute to the village of [Ashenhearth](Ashenhearth.md). She worked hard and cared a lot about her clan, and was on good terms with everyone else, *despite being quite clumsy*.
+
+While she was well-liked by her community, she *struggled to form any deeper connections* with anyone other than her neighbour and best friend, [Luscerna](Luscerna.md). 
+
+"**Lusi**," unlike **Hakti**, was very popular in **Ashenhearth**. She was *witty*, *kind*, and *energetic*; always able to *adapt* to new situations, and very good at getting herself out of trouble; something her *curious* and *carefree* nature would regularly get her into.
+
+Despite their differences, **Lusi** was *extremely fond* of **Hakti**.
+

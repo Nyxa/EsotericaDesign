@@ -80,11 +80,11 @@ The symbol/text for the finishing blow will include a "question mark" (or anythi
 
 
 ### Moxie
-A special type of skill reserved for those whose soul extends into their weapon. Utilizing the weapon energizes it with **Qualia**, which slightly improves its damage, windup, and recovery.
+A special type of skill reserved for those who have deeply bonded with their weapon. Utilizing the weapon energizes it with **Qualia**, which slightly improves its damage, windup, and recovery.
 
-The maximum potency is reached when the weapon is fully charged, further amplifying these stat increases.
+**Moxie Saturation**: The maximum potency is reached when the weapon is fully charged, further amplifying its stat increases, and granting access to **Moxie Release**. Sometimes a new passive effect is activated when **Moxie** is saturated.
 
-Upon being fully charged, the player can perform a **Moxie Release**; a powerful special attack which uses *no* **Energy**, but completely depletes the energy stored in the weapon.
+**Moxie Release**: A powerful special attack which uses *no* **Energy**, but completely depletes the **Moxie** stored in the weapon. 
 
 **Moxie** may *only* be gained by performing **Strikes** or **Perfect Parries**; **Normal Parry** and **Dodge** do *not* raise **Moxie**, and **Block** *depletes* it.
 
