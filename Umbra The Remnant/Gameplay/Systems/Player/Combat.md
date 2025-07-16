@@ -23,40 +23,6 @@ All characters have 3 *primary* **Attributes**:
 
 [Umbra](Umbra.md)'s [Hourglass](Combat.md#The%20Hourglass) heavily influences how she interacts with **Health** and **Energy**.
 
-##### Umbra's Attributes
-**Umbra**, additionally, has a few special **Attributes**. 
-
-While these will be listed here, they are currently *not* very solidified, and are *highly subject to change* as we further iterate on the game. 
-
-These **Attributes** are heavily related to [Combat Actions](Combat.md#Combat%20Actions). They may also affect specific abilities **Umbra** has.
-
-Unless otherwise stated, these **Attributes** are *modified* via the [Circuit](Injectors.md#Circuits) system.
-
-- **Power**
-	- *Higher* values *increase* the *damage inflicted* by **Strikes**, **Grabs** and **Injectors**.
-	- Higher values increase the *weight limit* of enemies which may be *pulled in* by a **Glaive Throw**.
-	- It is increased by *activating* a [[Dahlia]].
-- **Ghosting**
-	- Higher values increase the **Active Window** of attacks which have **Invulnerability**.
-- **Finesse**
-	- Higher values increase the **Active Window** for performing a successful **Perfect Parry**.
-	- Higher values *decrease* **Resilience** damage *taken* from **Blocked Strikes**.
-- **Impact**
-	- Higher values *increase* **Resilience** damage *inflicted* by a successful **Perfect Parry**.
-	- Higher values increase **Resilience** damage *inflicted* when a **Strike** is **Blocked**.
-- **Flow**
-	- Higher values *decrease* the **Recovery Window** of **Dodge** and **Strike**.
-	- Higher values *increase* the *damage inflicted* by a **Counter-Attack**.
-- **Fortitude**
-	- Higher values increase the **Max Resilience** that is *kept* after a **Stance Break**.
-	- Higher values *decrease* **Resilience** damage *taken* from **Blocked Strikes**.
-- **Resonance**
-	- Higher values decrease **Energy** *costs* when using [Stigmata](Injectors.md#Stigmata).
-	- Higher values *increase* **Energy** *gain* from all sources.
-
-
-*Other characters* may also have unique **Attributes**.
-
 ### Combat Actions
 **Combat Actions** are the things characters can do to gain an edge in combat. All characters possess *four core* **Combat Actions** which are the primary drivers of combat interactions. 
 
@@ -105,6 +71,40 @@ There are *at least* three different **Windows** of a **Combat Action**. Certain
 		- **Active** ✔️
 		- **Recovery** ✔️
 
+### Umbra's Attributes
+**Umbra** has a few special additional **Attributes**. 
+
+While these will be listed here, they are currently *not* very solidified, and are *highly subject to change* as we further iterate on the game. 
+
+These **Attributes** are heavily related to [Combat Actions](Combat.md#Combat%20Actions). They may also affect specific abilities **Umbra** has.
+
+Unless otherwise stated, these **Attributes** are *modified* via the [Circuit](Injectors.md#Circuits) system.
+
+- **Power**
+	- *Higher* values *increase* the *damage inflicted* by **Strikes**, **Grabs** and **Injectors**.
+	- Higher values increase the *weight limit* of enemies which may be *pulled in* by a **Glaive Throw**.
+	- It is increased by *activating* a [[Dahlia]].
+- **Ghosting**
+	- Higher values increase the **Active Window** of attacks which have **Invulnerability**.
+- **Finesse**
+	- Higher values increase the **Active Window** for the **Perfect Parry.**
+	- Higher values *decrease* **Resilience** damage *taken* from **Blocked Strikes**.
+- **Impact**
+	- Higher values *increase* **Resilience** damage *inflicted* by a successful **Perfect Parry**.
+	- Higher values increase **Resilience** damage *inflicted* when a **Strike** is **Blocked**.
+- **Flow**
+	- Higher values *decrease* the **Recovery Window** of **Dodge** and **Strike**.
+	- Higher values *increase* the *damage inflicted* by a **Counter-Attack**.
+- **Fortitude**
+	- Higher values increase the **Max Resilience** that is *kept* after a **Stance Break**.
+	- Higher values *decrease* **Resilience** damage *taken* from **Blocked Strikes**.
+- **Resonance**
+	- Higher values decrease **Energy** *costs* when using [Stigmata](Injectors.md#Stigmata).
+	- Higher values *increase* **Energy** *gain* from all sources.
+
+
+*Other characters* may also have unique **Attributes**.
+
 
 ### Glaive Throw
 [[Umbra]] can throw [[Nox]] like a javelin, and it will fly in a straight line up to a maximum range, or until it hits an object or enemy. After it's attached, she may choose to **Reel** the glaive, detach it, or use it as a platform. 
@@ -117,7 +117,7 @@ There are *at least* three different **Windows** of a **Combat Action**. Certain
 
 >[!info]
 The glaive will *automatically* detach if **Umbra** goes out of range or attempts to use it to attack.
-This means that attacking during Glaive Throw *cancels* the Glaive Throw animation.
+This means that attacking during Glaive Throw **Cancels** the Glaive Throw **Action**.
 >
 >The glaive will *not* detach if **Umbra** dodges or jumps; however, **Reel** will be cancelled. 
 **Reel** can be re-initiated as long as the glaive remains attached.
@@ -133,7 +133,7 @@ This is considered a **Reform Death**.
 
 
 ### Rewind
-When **Umbra** is defeated by an enemy of [[Anomaly]] rank or higher, she cannot properly reform. To combat this, she's given a [special Injector](Injectors.md#Soulbrand) by [[Akira]], which allows her to rewind time to one of two specific points; either the latest phase of the current bossfight, or the *latest* **Save**.
+When **Umbra** is defeated by an enemy of [[Anomaly]] rank or higher, she cannot properly **Reform**. To combat this, she's given a [special Injector](Injectors.md#Soulbrand) by [[Akira]], which allows her to *rewind time* to one of two specific points; either the *latest phase* of the current encounter, or the *latest* **Save**.
 
 This is considered a **Rewind Death**.
 
@@ -143,26 +143,36 @@ This is considered a **Rewind Death**.
 
 
 ### Amalgamate
-Upon being defeated, **Umbra** *may* fuse with **Nox** in an all-or-nothing move, entering her "second phase" and regaining *half* of her maximum health, as well as enhancing all her *core* abilities. In return, for the remainder of the fight, she becomes *unable to heal*, and may *not* use any of her [Circuits](Injectors.md#Circuit).
+Upon being defeated, **Umbra** *may* fuse with **Nox** in an all-or-nothing move, entering her "second phase" and regaining *half* of her maximum health, as well as enhancing all her *core* abilities. In return, for the remainder of the fight, she becomes *unable to heal*, and may *not* use any of her [Stigmata](Injectors.md#Stigmata).
 
 Dying in this state *forcibly* **Rewinds** her to the *most recent* **Save**.
 
 >[!info]
 > - **Amalgamate** may only be activated in place of a **Rewind**; it is otherwise *not* available.
-> - Any active [Stigmata](Injectors.md#Stigmata) will *remain* active for the duration of **Amalgamate**.
+> - Any active [Circuits](Injectors.md#Circuits) will *remain* active for the duration of **Amalgamate**.
 
 ### Equinox
-The **Equinox** is a type of Rapid Action Sequence {**RAS**} that is triggered by the following:
-- Depletion of boss health bar
-- Stealth kill
+The **Equinox** is a type of event that is triggered by the following:
+- Depletion of boss' *final* health bar
 - Certain scripted sequences
+- Special events
 
-During **Equinox**, **Umbra** will briefly perceive a slowdown in time. There will usually *not* be any input prompt on the screen during **Equinox**; however, input descriptors will appear via the [[Intuition]] system if the inputs in question have their meaning changed.
+During **Equinox**, **Umbra** will briefly perceive a *diegetic* slowdown in time. At the bottom of the screen, a UI element indicating a depleting *timer* appears. An *input* action *may* be taken by the **Player** during this window.
 
-That is, if the "Attack" button becomes an option to, for example, push a rock, this *may* be indicated during an Equinox sequence.
+Under normal circumstances, the following input actions are valid:
+- Movement direction
+- Attack
+- Block
+- Jump
+
+Therefore, there will usually *not* be any input prompt on the screen during **Equinox**; however, input descriptors will appear via the [[Intuition]] system if the inputs in question have their meaning changed.
+
+That is, if the "Attack" button becomes an option to, for example, push a rock, this *may* be indicated during an **Equinox** sequence.
+
+This also counts for inputs which are typically *not* valid during **Equinox**, such as the input for activating the **Hourglass**.
 
 >[!info]
-> - Equinox *may* also depict **Intuition** helpers, such as indicating that an attack is coming from behind.
+> - Equinox *may* also depict *other* **Intuition** helpers, such as indicating that an attack is coming from behind.
 > - Equinox does *not* require a currently active cutscene to trigger. It may trigger during cutscenes *and* regular gameplay.
 
 ### Mercy
