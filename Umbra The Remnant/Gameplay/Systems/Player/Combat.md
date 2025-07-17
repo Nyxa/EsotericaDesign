@@ -124,7 +124,7 @@ This means that attacking during Glaive Throw **Cancels** the Glaive Throw **Act
 
 
 ### Immortality
-**Umbra** can *not* die; when her health is depleted, she **Reforms** at the *nearest* [[Save]]. 
+**Umbra** can *not* die; when her health is depleted, she **Reforms** at the *nearest* [[Dahlia]]. 
 
 This is considered a **Reform Death**.
 
@@ -139,7 +139,7 @@ This is considered a **Rewind Death**.
 
 >[!info]
 > - Enemies that have previously fought **Umbra** will *not* recognize her after a **Rewind**, with some very rare exceptions.
-> - Cutscenes *will* trigger again *only* if **Rewinding** to a previous **Save**, but *may* be skipped after first viewing.
+> - Cutscenes *will* trigger again *only* if **Rewinding** to a previous **Dahlia**, but *may* be skipped after first viewing.
 
 
 ### Amalgamate

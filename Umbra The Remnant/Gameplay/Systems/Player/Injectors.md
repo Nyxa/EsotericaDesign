@@ -1,3 +1,4 @@
+
  <h1><center>Injectors</center></h1>
 ***
 [Injectors](Injector.md) are the means by which [[Qualia]] may be channeled in order to produce a desired result. In gameplay terms, they are the narrative building block for abilities, magical artefacts, progression keys, buffs, and passives.
@@ -28,4 +29,4 @@ A [Fetish](Injector.md#Fetish) is an **Injector** placed onto an object rather t
 **Circuits** are the *only* **Injectors** that may be [[crafted]].
 
 ### Blueprints
-**Blueprints** are items that can be found and acquired by **Umbra** which allow her to immediately learn the layout of a certain **Injector**. In practice, it's how she can acquire a new ability *without* discovering its pattern herself.
+**Blueprints** are items that can be found and acquired by **Umbra** which allow her to immediately learn the layout of a certain **Injector**. In practice, it's how she can acquire a new ability *without* discovering its pattern herself. **Blueprints** allow **Umbra** to create an **Injector** for a **Qualia Cost**. This may involve *any* type of **Injector**.

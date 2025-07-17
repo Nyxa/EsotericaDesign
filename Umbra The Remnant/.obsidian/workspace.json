@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5,
-    "collapsed": true
+    "width": 264.5
   },
   "right": {
     "id": "54e53a07588f83e2",
@@ -166,9 +165,10 @@
   },
   "active": "2e5348369b146fc8",
   "lastOpenFiles": [
-    "Gameplay/Regions/Veralis, Lustrous Arboreas/Boss Fights/2. Anomaly/Hakti ~ Silverscale Tempest.md",
-    "Gameplay/Systems/Player/Combat.md",
+    "Lore/Qualia.md",
     "Gameplay/Systems/Player/Injectors.md",
+    "Gameplay/Systems/Player/Combat.md",
+    "Gameplay/Regions/Veralis, Lustrous Arboreas/Boss Fights/2. Anomaly/Hakti ~ Silverscale Tempest.md",
     "_Assets/0d6b8d5e2f81042ba1d3f04bd19a57071e7a5811ea67787b80fbaa1df5c9be4c-1639879072 1.jpg",
     "_Assets/0d6b8d5e2f81042ba1d3f04bd19a57071e7a5811ea67787b80fbaa1df5c9be4c-1639879072.jpg",
     "_Assets/Pasted image 20250716041231.png",
@@ -178,7 +178,6 @@
     "Characters/Saeris/Hakti.md",
     "_Assets/Pasted image 20250714053735.png",
     "Narrative/Silverscale Echoes/Act I ~ The Blind.md",
-    "Lore/Qualia.md",
     "Characters/Kurotsuchi Akira.md",
     "Characters/Kayanna Litchi.md",
     "Meta/Ideas/Region Drafts.md",
