@@ -1,10 +1,3 @@
 {
-  "obsidian-emoji-toolbar:emoji-picker:open-picker": [
-    {
-      "modifiers": [
-        "Shift"
-      ],
-      "key": "/"
-    }
-  ]
+  "obsidian-emoji-toolbar:emoji-picker:open-picker": []
 }

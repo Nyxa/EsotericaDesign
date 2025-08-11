@@ -1,3 +1,4 @@
+
 <h1><center>Qualia</center></h1>
 ___
 **Qualia** are the fundamental building blocks of [Ripples](Ripple.md) which determine their **Physical Laws** and provide **Energy** with which to enact those laws.

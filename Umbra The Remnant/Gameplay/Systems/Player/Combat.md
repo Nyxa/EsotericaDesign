@@ -7,13 +7,17 @@ This document details *all* of the combat systems within the game. It does *not*
 The systems in this document are *not* presented in any particular order; however, some care was taken to place more fundamental systems before others.
 
 ### Attributes
-All characters have 3 *primary* **Attributes**:
+All characters have 3 **Core Attributes**:
 - **Health**
 	- It's literally health
 	- When this reaches zero, the current phase ends.
 	- If there are no more phases, the encounter ends.
 		- Typically, this means the enemy dies, or can be spared with **Mercy**.
-	- [Umbra](Umbra.md) may *increase* this by *activating* a [[Dahlia]].
+	- 
+- **Power**
+	- *Higher* values *increase* the *damage inflicted* by **Strikes**, **Grabs** and **Injectors**.
+	- Higher values increase the *weight limit* of enemies which may be *pulled in* by a **Glaive Throw**.
+	- It is increased by *activating* a [[Dahlia]].
 - **Resilience**
 	- A resource that's lost instead of **Health** under certain circumstances.
 	- When this reaches zero, the character is temporarily stunned by a **Stance Break**.
@@ -21,7 +25,8 @@ All characters have 3 *primary* **Attributes**:
 - **Energy**
 	- A resource that is expended to perform special attacks, such as activating [Injectors](Injectors.md).
 
-[Umbra](Umbra.md)'s [Hourglass](Combat.md#The%20Hourglass) heavily influences how she interacts with **Health** and **Energy**.
+[Umbra](Umbra.md) may *increase* these **Attributes** by a small amount, by *activating* a [[Dahlia]].
+**Umbra's** [Hourglass](Combat.md#The%20Hourglass) heavily influences how she interacts with **Health** and **Energy**.
 
 ### Combat Actions
 **Combat Actions** are the things characters can do to gain an edge in combat. All characters possess *four core* **Combat Actions** which are the primary drivers of combat interactions. 
@@ -71,30 +76,26 @@ There are *at least* three different **Windows** of a **Combat Action**. Certain
 		- **Active** ✔️
 		- **Recovery** ✔️
 
-### Umbra's Attributes
-**Umbra** has a few special additional **Attributes**. 
+### Remnant Attributes
+**Umbra** has a few special additional **Attributes**, which she shares with other **Remnants**, such as [[Necroxia]]. 
 
-While these will be listed here, they are currently *not* very solidified, and are *highly subject to change* as we further iterate on the game. 
+While these will be listed here, they are currently *not* entirely solidified, and *may be subject to change* as we further iterate on the game. 
 
 These **Attributes** are heavily related to [Combat Actions](Combat.md#Combat%20Actions). They may also affect specific abilities **Umbra** has.
 
 Unless otherwise stated, these **Attributes** are *modified* via the [Circuit](Injectors.md#Circuits) system.
 
-- **Power**
-	- *Higher* values *increase* the *damage inflicted* by **Strikes**, **Grabs** and **Injectors**.
-	- Higher values increase the *weight limit* of enemies which may be *pulled in* by a **Glaive Throw**.
-	- It is increased by *activating* a [[Dahlia]].
 - **Ghosting**
-	- Higher values increase the **Active Window** of attacks which have **Invulnerability**.
+	- Higher values increase the **Active Window** of actions which have **Invulnerability**.
 - **Finesse**
 	- Higher values increase the **Active Window** for the **Perfect Parry.**
-	- Higher values *decrease* **Resilience** damage *taken* from **Blocked Strikes**.
+	- Higher values *increase* the *damage inflicted* by a **Parry Counter**.
 - **Impact**
 	- Higher values *increase* **Resilience** damage *inflicted* by a successful **Perfect Parry**.
 	- Higher values increase **Resilience** damage *inflicted* when a **Strike** is **Blocked**.
 - **Flow**
 	- Higher values *decrease* the **Recovery Window** of **Dodge** and **Strike**.
-	- Higher values *increase* the *damage inflicted* by a **Counter-Attack**.
+	- Higher values *increase* the *damage inflicted* by a **Dodge Counter**.
 - **Fortitude**
 	- Higher values increase the **Max Resilience** that is *kept* after a **Stance Break**.
 	- Higher values *decrease* **Resilience** damage *taken* from **Blocked Strikes**.
@@ -211,3 +212,5 @@ Alternatively, she may expend **Health** with the **Hourglass** to gain more **E
 
 
 ### Parry
+**Block**: Don't take health damage, but take resilience damage instead 
+**Parry**: Don't take any damage, do resilience damage to attacker, recover some energy **Perfect Parry**: Don't take damage, do more resilience damage, recover more energy, recover a bit of resilience

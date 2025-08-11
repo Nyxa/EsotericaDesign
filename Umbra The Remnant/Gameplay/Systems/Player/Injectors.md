@@ -17,16 +17,45 @@ A [Fetish](Injector.md#Fetish) is an **Injector** placed onto an object rather t
 
 >[!info]
 > - There is *no* limit to how many **Soulbrandings** can be active at once
-> 	- By the end of the game, they will **all** be active.
-> - **Soulbrandings** are *required* in order to progress to the end of the game.
+> - Many **Soulbrandings** are *required* in order to progress to the end of the game.
 
 
-### Circuits
-[[Circuits]] are small **Injectors** that may be switched *at any time*. In terms of lore, they are **Stigmata**; however, **Umbra** is capable of wielding weaker **Stigmata** at little to no **Energy** cost. They provide small buffs to non-primary stats (e.g. *recovery time* or *invulnerability duration*), or simple passive effects. They have a maximum **Load** which may be upgraded by acquiring **{ITEM}**.
+### Sutures
+**Sutures** are small **Injectors** that may be switched *at any time*. In terms of lore, they are smaller **Stigmata** which **Umbra** stitches onto herself from corpses and energy she finds in the world.
 
-**Circuits** are organized as a **Skill Tree**, except instead of pre-determined buffs and abilities, the player may themselves *decide* what their **Skill Tree** looks like. The order in which the **Circuits** are placed affects their combined effects.
+**Sutures** are organized as a *skill tree*, however, they do not follow common skill tree conventions. 
 
-**Circuits** are the *only* **Injectors** that may be [[crafted]].
+The **Suture** system has **Veins**, with each **Vein** being able to hold *up to two* **Grafts** and *up to six* **Growths**. Each **Graft** requires *at least three* **Growths** to become active. Adding **Growths** past the maximum *is possible*; however, this induces the **Overgrown** state, wherein the player gets an *exponentially increasing Damage-Taken modifier* for each additional **Growth** over the maximum. The exact percentage of the increase is determined by the *tier* of each **Growth** in the **Overgrowth** section of a **Vein**.
+
+Additional **Veins** may be obtained via items found in the world. These should be roughly as plentiful as **Dahlias**.
+
+**Grafts**:
+- Provide some passive buff whilst equipped.
+- Can *only* be found in the world. (Can *not* be crafted)
+- Take up *at least one* **Vein**.
+- Require *at least three* **Growths** to be activated.
+	- All **Grafts** have an **Attribute** *cost*. More powerful **Grafts** require higher tiers of **Growths** to give greater **Attribute** increases.
+	- More **Growths** may be attached to a **Graft**, which *upgrades* the **Graft** after certain thresholds.
+- Some **Grafts** may have an additional [[Droplet]] cost to be activated.
+
+**Growths**:
+- Can be *crafted* with **Nahline Droplets**.
+- Are the *primary* way of leveling up **Umbra's Remnant Attributes**.
+	- They may increase the level of an **Attribute** based on their *tier:*
+		- +1: **Filament**
+		- +5: **Stem**
+		- +10: **Bud**
+		- +25: **Petal**
+		- +50: **Blossom**
+	- As their quality increases, so does their cost.
+- Can be grouped for a **Combo** effect
+	- **Triple**: Three *identical* **Growths** on a single **Vein** give a *considerable* percentage increase to their stat.
+	- **Split**: Three *unique* **Growths** on a single **Vein** give a *decent* percentage increase to each stat.
+	- **Special**: A combo of *one unique* + *two identical* **Growths** on a single **Vein** give a *small* percentage increase to each stat, but also give a *related* **Growth Combo** passive, which *must* be unlocked with some combination of **Qualia Droplets**, and may further be **Augmented** with **Challenges** related to that **Combo**.
+		- **Special Combos** will vary based on which stat is unique:
+			- **Ghosting** x2 + **Impact** x1 *is not the same as* **Ghosting** x1 **Impact** x2
+
+Any specific arrangement of **Sutures** may be saved as a **Suture Loadout**. These may be switched at no cost, at any **Dahlia**.
 
 ### Blueprints
 **Blueprints** are items that can be found and acquired by **Umbra** which allow her to immediately learn the layout of a certain **Injector**. In practice, it's how she can acquire a new ability *without* discovering its pattern herself. **Blueprints** allow **Umbra** to create an **Injector** for a **Qualia Cost**. This may involve *any* type of **Injector**.

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narrative/A-Side - Lux Occulta/- Overview.md",
+                "file": "Narrative/A-Side - Lux Occulta/Timeline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "- Overview"
+              "title": "Timeline"
             }
           }
         ],
@@ -180,8 +180,8 @@
   },
   "active": "c2e27de665bf3b11",
   "lastOpenFiles": [
-    "Narrative/A-Side - Lux Occulta/Timeline.md",
     "Narrative/A-Side - Lux Occulta/- Overview.md",
+    "Narrative/A-Side - Lux Occulta/Timeline.md",
     "_Assets/Pasted image 20250414123645.png",
     "Lore/The Directory/Incubus.md",
     "Lore/The Directory/The Dyatlov Marrowgill.md",

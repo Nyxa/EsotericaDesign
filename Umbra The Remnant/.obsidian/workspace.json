@@ -6,9 +6,52 @@
       {
         "id": "b8115d8df3a2804a",
         "type": "tabs",
+        "dimension": 35.65851119208745,
         "children": [
           {
-            "id": "2e5348369b146fc8",
+            "id": "60b34d5ae9d725c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gameplay/Systems/Player/Combat.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Combat"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b0867d0ecc4005cc",
+        "type": "tabs",
+        "dimension": 35.03383654346695,
+        "children": [
+          {
+            "id": "090656c19844f949",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gameplay/Systems/Player/Special Combos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Special Combos"
+            }
+          }
+        ]
+      },
+      {
+        "id": "68c588f506d1a13d",
+        "type": "tabs",
+        "dimension": 29.3076522644456,
+        "children": [
+          {
+            "id": "da00b52621b1d4fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 264.5,
+    "collapsed": true
   },
   "right": {
     "id": "54e53a07588f83e2",
@@ -94,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gameplay/Systems/Player/Combat.md",
+                "file": "Gameplay/Systems/Player/Injectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +148,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Combat"
+              "title": "Backlinks for Injectors"
             }
           },
           {
@@ -163,16 +207,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e5348369b146fc8",
+  "active": "090656c19844f949",
   "lastOpenFiles": [
-    "Lore/Qualia.md",
-    "Gameplay/Systems/Player/Injectors.md",
     "Gameplay/Systems/Player/Combat.md",
+    "Gameplay/Systems/Player/Special Combos.md",
+    "Gameplay/Systems/Player/Untitled.md",
+    "Gameplay/Systems/Player/Injectors.md",
+    "Gameplay/Systems/Player/Nahline Droplets.md",
+    "Lore/Qualia.md",
+    "Gameplay/Systems/Player/Exploration.md",
+    "Gameplay/Systems/Player/Sutures.md",
+    "_Assets/Pasted image 20250723010416.png",
+    "Gameplay/Regions/Veralis, Lustrous Arboreas/Boss Fights/Vortex - Ashdyr ~ Thousand-blade Sentinel.md",
+    "_Assets/Pasted image 20250722233943.png",
+    "_Assets/Pasted image 20250722233816.png",
     "Gameplay/Regions/Veralis, Lustrous Arboreas/Boss Fights/2. Anomaly/Hakti ~ Silverscale Tempest.md",
     "_Assets/0d6b8d5e2f81042ba1d3f04bd19a57071e7a5811ea67787b80fbaa1df5c9be4c-1639879072 1.jpg",
     "_Assets/0d6b8d5e2f81042ba1d3f04bd19a57071e7a5811ea67787b80fbaa1df5c9be4c-1639879072.jpg",
     "_Assets/Pasted image 20250716041231.png",
-    "Gameplay/Regions/Veralis, Lustrous Arboreas/Boss Fights/Vortex - Ashdyr ~ Thousand-blade Sentinel.md",
     "Lore/Clans/Saeris.md",
     "Lore/Clans/Akhanti Clan.md",
     "Characters/Saeris/Hakti.md",
@@ -190,10 +242,6 @@
     "Lore/Ethereal Vault.md",
     "Lore/Empty Lattice.md",
     "Lore/Eiare.md",
-    "Lore/Awakening.md",
-    "Lore/Attunement Test.md",
-    "Gameplay/Regions/Veralis, Lustrous Arboreas/Points of Interest/Cobalt Cove.md",
-    "Gameplay/Regions/Veralis, Lustrous Arboreas/Points of Interest/Ashenhearth.md",
     "Characters/Niandes",
     "Characters/Altire",
     "Characters/Esteria",
@@ -208,7 +256,6 @@
     "_Assets/Pasted image 20240928192500.png",
     "_Assets/Pasted image 20240925034227.png",
     "_Assets/Pasted image 20240924060620.png",
-    "_Assets/Pasted image 20240924060601.png",
     "Untitled.canvas"
   ]
 }
