@@ -48,12 +48,20 @@ Additional **Veins** may be obtained via items found in the world. These should 
 		- +25: **Petal**
 		- +50: **Blossom**
 	- As their quality increases, so does their cost.
-- Can be grouped for a **Combo** effect
+- Can be grouped for a **Combo** effect:
 	- **Triple**: Three *identical* **Growths** on a single **Vein** give a *considerable* percentage increase to their stat.
 	- **Split**: Three *unique* **Growths** on a single **Vein** give a *decent* percentage increase to each stat.
 	- **Special**: A combo of *one unique* + *two identical* **Growths** on a single **Vein** give a *small* percentage increase to each stat, but also give a *related* **Growth Combo** passive, which *must* be unlocked with some combination of **Qualia Droplets**, and may further be **Augmented** with **Challenges** related to that **Combo**.
 		- **Special Combos** will vary based on which stat is unique:
 			- **Ghosting** x2 + **Impact** x1 *is not the same as* **Ghosting** x1 **Impact** x2
+
+**Augments**:
+- **Growth Combos** can be **Augmented** if the following conditions have been met:
+	- The initial **Combo** has been unlocked with its **Qualia** cost.
+	- The *same* **Combo** is equipped *at least twice*.
+	- The **Combo**'s **Augment Challenge** has been completed.
+- **Augments** become visible if the player has equipped the *same* **Growth Combo** *twice*.
+- Once an **Augment Challenge** has been completed, that **Augment** remains permanently available.
 
 Any specific arrangement of **Sutures** may be saved as a **Suture Loadout**. These may be switched at no cost, at any **Dahlia**.
 

@@ -13,6 +13,7 @@ This list will be sorted by *Primary* **Attribute**. Each heading will be *Prima
 	- **Augment**: When **Invulnerability** is at its maximum, become able to **Cancel** a **Strike**'s **Recovery** with another **Strike**.
 - **Fortitude**:
 - **Resonance**:
+
 ### Finesse
 - **Ghosting**:
 - **Impact**:
@@ -26,6 +27,7 @@ This list will be sorted by *Primary* **Attribute**. Each heading will be *Prima
 	- **Augment**: Triples it.
 - **Resonance**:
 
+
 ### Impact
 - **Ghosting**:
 - **Finesse**:
@@ -37,6 +39,7 @@ This list will be sorted by *Primary* **Attribute**. Each heading will be *Prima
 	- **Augment**: Every **Perfect Parry**.
 - **Resonance**:
 
+
 ### Flow
 - **Ghosting**:
 - **Finesse**: *Relentless Riposte*
@@ -45,6 +48,7 @@ This list will be sorted by *Primary* **Attribute**. Each heading will be *Prima
 - **Impact**:
 - **Fortitude**:
 - **Resonance**:
+
 
 ### Fortitude
 - **Ghosting**:
@@ -56,6 +60,7 @@ This list will be sorted by *Primary* **Attribute**. Each heading will be *Prima
 - **Resonance**: *Soulguard*
 	- **Blocking** will consume half the usual **Resilience**; the other half is consumed as **Energy**.
 	- **Augment**: All **Resilience** damage is deducted from **Energy** instead, if available.
+
 ### Resonance
 - **Ghosting**: *Needlethreader*
 	- Whenever your **Invulnerability** mitigates damage, your next **Stigmata** use has its **Energy** cost reduced by 30%
