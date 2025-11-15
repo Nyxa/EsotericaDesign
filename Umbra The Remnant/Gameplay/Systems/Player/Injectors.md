@@ -6,10 +6,14 @@
 All entities that use the aforementioned are framed as using **Injectors**, and *must*, in some way, indicate that they are not using a different means of producing effects than [[Umbra]] is.
 
 ### Stigmata
-[Stigmata](Injector.md#Stigmata) are equipable **Injectors** that may be placed in one of a few *limited* slots, up to a small maximum (3~5). **Stigmata** use up [[Energy]] when used, but in return provide powerful, playstyle-defining abilities. **Stigmata** may be used with specific key bindings *or* motion inputs.
+[Stigmata](Injector.md#Stigmata) are equipable **Injectors** that may be placed in one of a few *limited* slots, up to a small maximum (3~5). **Stigmata** use up [[Energy]] when used, but in return provide powerful, playstyle-defining abilities. **Stigmata** may be used with specific key bindings *or* motion inputs. 
+
+**Stigmata** abilities which inflict damage may be referred to as *Special Attacks* or *Energy Attacks*.
 
 ### Fetish
 A [Fetish](Injector.md#Fetish) is an **Injector** placed onto an object rather than the user's body. **Fetishes** can be given to other **Qualia** users, allowing them to make use of effects that don't belong to their [[Attuned]] type; however, the maximum potency can *only* be achieved when the  **Qualia** type of a **Fetish** and its user are identical.
+
+In terms of gameplay, **Fetishes** will (in practice) act as either **Stigmata** or **Soulbrandings** for **Umbra**. Their distinction exists primarily for lore purposes. **The Hourglass**, for example, is technically a **Fetish**; however it functions equivalently to a **Soulbrand** for **Umbra**, because she cannot unequip it nor disable it.
 
 ### Soulbrand
 [Soulbrandings](Injector.md#Soulbrand) are **Injectors** that, once discovered, are *permanently* equipped and enabled, and *usually* do *not* cost **Energy** to use. Their primary purpose is to act as permanently unlockable *abilities*, as well as *progression keys* in the game world.

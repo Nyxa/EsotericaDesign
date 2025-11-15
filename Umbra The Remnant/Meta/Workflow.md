@@ -13,10 +13,10 @@ The **Regions** subsection is divided by subfolders for each explorable region w
 Each **Region** folder has two relevant folders: **Points of Interest** and **Subregions**. They also all contain four different files: **Overview**, **NPC**, **Enemies**, and **Notable Miscellanea**. What each of these are for is outlined below.
 
 ##### Points of Interest
-Each **PoI** is typically a location within a sub-region, such as an abandoned village, or an important statue of an unknown god. These files *must* contain a link to the **Subregion** they are located in. [Lumina](Gameplay/Regions/Exulas,%20Remnant%20Wastes/1.%20Overview.md) comes with an example layout already, as well as appropriate linking in its **PoI** section.
+Each **PoI** is typically a location within a sub-region, such as an abandoned village, or an important statue of an unknown god. These files *must* contain a link to the **Subregion** they are located in. [Lumina](Gameplay/Regions/Exulas,%20Gloaming%20Wastes/1.%20Overview.md) comes with an example layout already, as well as appropriate linking in its **PoI** section.
 
 ##### Subregions
-Each **Subregion** is a visually distinct area within a **Region**, that follows its theme. One example is how [Lumina](Gameplay/Regions/Exulas,%20Remnant%20Wastes/1.%20Overview.md) comprises the [Caverns](Gameplay/Regions/Veralis,%20Lustrous%20Arboreas/Subregions/Shimmervein%20Depths.md) and [Forest](Gameplay/Regions/Veralis,%20Lustrous%20Arboreas/Subregions/Glistergrove.md)—both of which following Lumina's theme of bioluminescence—but also contains [Hollowgloam](Hollowgloam.md), which does the opposite of Lumina's theme and is shrouded in an impermeable darkness. Subregions *must* contain a description of their visual themes, as well as their purpose for existing in the world of Eiare, and may also include some detailing of their history.
+Each **Subregion** is a visually distinct area within a **Region**, that follows its theme. One example is how [Lumina](Gameplay/Regions/Exulas,%20Gloaming%20Wastes/1.%20Overview.md) comprises the [Caverns](Gameplay/Regions/Veralis,%20Lustrous%20Arboreas/Subregions/Shimmervein%20Depths.md) and [Forest](Gameplay/Regions/Veralis,%20Lustrous%20Arboreas/Subregions/Glistergrove.md)—both of which following Lumina's theme of bioluminescence—but also contains [Hollowgloam](Hollowgloam.md), which does the opposite of Lumina's theme and is shrouded in an impermeable darkness. Subregions *must* contain a description of their visual themes, as well as their purpose for existing in the world of Eiare, and may also include some detailing of their history.
 
 The history of Eiare itself will *not* be localized to individual history files, as character and location backstories have too much overlap, and things would get very messy very quick if we tried to compartmentalize. Instead, relevant history will be added to relevant files, regardless of the categories of said files.
 
@@ -35,7 +35,7 @@ Where [NPC Name] is a link to the NPC's **Character** file, and [Nearest Locatio
 
 [Lady Lazuli](Lady%20Lazuli.md) → [Amberveil](Amberveil.md)
 
-The **Lumina** folder contains an example [NPC](Gameplay/Regions/Exulas,%20Remnant%20Wastes/2.%20NPC.md) file.
+The **Lumina** folder contains an example [NPC](Gameplay/Regions/Exulas,%20Gloaming%20Wastes/2.%20NPC.md) file.
 
 ##### Enemies
 The **Enemies** file follows the same formatting and conventions as the **NPC** file, but it *must* link to the appropriate **Enemy** file rather than a **Character** file. Character files contain information about who a character is, what they look like, what they want, etc.; while Enemy files contain information about how a character fights, what their weaknesses are, and what rewards they may give.

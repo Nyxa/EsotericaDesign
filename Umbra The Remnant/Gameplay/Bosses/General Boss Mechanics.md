@@ -43,7 +43,7 @@ The classifications are as follows:
 	- [Ashdyr](Vortex%20-%20Ashdyr%20~%20Thousand-blade%20Sentinel.md) is a requirement for [Little Artificer](Act%20I%20~%20A%20Bitsy%20Request.md) 
 	- [Alace](Vortex%20-%20Alace%20Vansonia%20~%20Nightmare%20of%20Avalia.md) is a requirement for **Daughter of Eiare**
 		- She is also related to **Little Artificer**
-	- [Ellore](Vortex%20-%20Ellore%20~%20Forlorn%20Exile.md) is a requirement for [[Lost City]]
+	- [Ellore](Vortex%20-%20Ellore%20~%20Unwound%20Siren.md) is a requirement for [[Lost City]]
 		- She is also related to **Little Artificer**
 	- [Luscerna](Vortex%20-%20Luscerna%20~%20Ashen%20Echo.md) is a requirement for **Echoes**
 	- [Carmilla](Vortex%20-%20Carmilla%20~%20Sanguine%20Cinder.md) is related to **Golden Heart, Azulite Soul**

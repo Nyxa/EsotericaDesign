@@ -204,7 +204,7 @@ The **Hourglass** is a special kind of **Fetish** which gets absorbed by **Umbra
 
 It is *both* a **Fetish** and a **Soulbrand**.
 
-It acts the **Health** and **Energy** management and display system, which allows **Umbra** to *swap* her **Health** and **Energy** at will.
+It acts as the **Health** and **Energy** management and display system, which allows **Umbra** to *swap* her **Health** and **Energy** at will.
 
 > [!note]
 **Umbra** can gather **Energy** through [Alliciency](Exploration.md#Alliciency),  by **Striking** or **Parrying** enemies.
@@ -213,4 +213,4 @@ Alternatively, she may expend **Health** with the **Hourglass** to gain more **E
 
 ### Parry
 **Block**: Don't take health damage, but take resilience damage instead 
-**Parry**: Don't take any damage, do resilience damage to attacker, recover some energy **Perfect Parry**: Don't take damage, do more resilience damage, recover more energy, recover a bit of resilience
+**Parry**: Don't take any damage, do resilience damage to attacker, recover some energy **Perfect Parry**: Don't take damage, do more resilience damage, recover more energy, recover a bit of resilience. The **Perfect Parry** is on a significantly tighter timing window from the regular **Parry**.
