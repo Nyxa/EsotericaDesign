@@ -91,17 +91,17 @@
       "Gameplay/Bosses/Demigod/Necroxia ~ Virtuosa of the Void.md"
     ],
     "Gameplay/Bosses/Vortex": [
-      "Gameplay/Bosses/Vortex/Alace Vansonia ~ Nightmare of Avalia.md",
-      "Gameplay/Bosses/Vortex/Ashdyr ~ Thousand-Blade Sentinel.md",
-      "Gameplay/Bosses/Vortex/Carmilla ~ Sanguine Cinder.md",
+      "Gameplay/Bosses/Vortex/AMOS-11 Ashdyr ~ Thousand-Blade Sentinel.md",
       "Gameplay/Bosses/Vortex/Ellore ~ Unwound Siren.md",
-      "Gameplay/Bosses/Vortex/Luscerna ~ Ashen Echo.md"
+      "Gameplay/Bosses/Vortex/Luscerna ~ Ashen Echoes.md",
+      "Gameplay/Bosses/Vortex/Alace Vansonia ~ Nightmare of Avalia.md",
+      "Gameplay/Bosses/Vortex/Carmilla ~ Sanguine Cinder.md"
     ],
     "Gameplay/Regions": [
       "Gameplay/Regions/Calmerra, Lands Astray",
       "Gameplay/Regions/Divine City of Avalia",
       "Gameplay/Regions/Elphira, the Sunken City",
-      "Gameplay/Regions/Exulas, Remnant Wastes",
+      "Gameplay/Regions/Exulas, Gloaming Wastes",
       "Gameplay/Regions/Malicis, the Taboo Isles",
       "Gameplay/Regions/Mt. Edivius, Throne of the Heart Embers",
       "Gameplay/Regions/Veralis, Lustrous Arboreas"
@@ -161,24 +161,24 @@
     "Gameplay/Regions/Elphira, the Sunken City/Boss Fights/2. Anomaly": [],
     "Gameplay/Regions/Elphira, the Sunken City/Points of Interest": [],
     "Gameplay/Regions/Elphira, the Sunken City/Subregions": [],
-    "Gameplay/Regions/Exulas, Remnant Wastes": [
-      "Gameplay/Regions/Exulas, Remnant Wastes/Boss Fights",
-      "Gameplay/Regions/Exulas, Remnant Wastes/Points of Interest",
-      "Gameplay/Regions/Exulas, Remnant Wastes/Subregions",
-      "Gameplay/Regions/Exulas, Remnant Wastes/1. Overview.md",
-      "Gameplay/Regions/Exulas, Remnant Wastes/2. NPC.md",
-      "Gameplay/Regions/Exulas, Remnant Wastes/3. Enemies.md",
-      "Gameplay/Regions/Exulas, Remnant Wastes/4. Notable Miscellanea.md"
+    "Gameplay/Regions/Exulas, Gloaming Wastes": [
+      "Gameplay/Regions/Exulas, Gloaming Wastes/Boss Fights",
+      "Gameplay/Regions/Exulas, Gloaming Wastes/Points of Interest",
+      "Gameplay/Regions/Exulas, Gloaming Wastes/Subregions",
+      "Gameplay/Regions/Exulas, Gloaming Wastes/1. Overview.md",
+      "Gameplay/Regions/Exulas, Gloaming Wastes/2. NPC.md",
+      "Gameplay/Regions/Exulas, Gloaming Wastes/3. Enemies.md",
+      "Gameplay/Regions/Exulas, Gloaming Wastes/4. Notable Miscellanea.md"
     ],
-    "Gameplay/Regions/Exulas, Remnant Wastes/Boss Fights": [
-      "Gameplay/Regions/Exulas, Remnant Wastes/Boss Fights/1. Chief",
-      "Gameplay/Regions/Exulas, Remnant Wastes/Boss Fights/2. Anomaly",
-      "Gameplay/Regions/Exulas, Remnant Wastes/Boss Fights/Vortex - Carmilla ~ Sanguine Cinder.md"
+    "Gameplay/Regions/Exulas, Gloaming Wastes/Boss Fights": [
+      "Gameplay/Regions/Exulas, Gloaming Wastes/Boss Fights/1. Chief",
+      "Gameplay/Regions/Exulas, Gloaming Wastes/Boss Fights/2. Anomaly",
+      "Gameplay/Regions/Exulas, Gloaming Wastes/Boss Fights/Vortex - Carmilla ~ Sanguine Cinder.md"
     ],
-    "Gameplay/Regions/Exulas, Remnant Wastes/Boss Fights/1. Chief": [],
-    "Gameplay/Regions/Exulas, Remnant Wastes/Boss Fights/2. Anomaly": [],
-    "Gameplay/Regions/Exulas, Remnant Wastes/Points of Interest": [],
-    "Gameplay/Regions/Exulas, Remnant Wastes/Subregions": [],
+    "Gameplay/Regions/Exulas, Gloaming Wastes/Boss Fights/1. Chief": [],
+    "Gameplay/Regions/Exulas, Gloaming Wastes/Boss Fights/2. Anomaly": [],
+    "Gameplay/Regions/Exulas, Gloaming Wastes/Points of Interest": [],
+    "Gameplay/Regions/Exulas, Gloaming Wastes/Subregions": [],
     "Gameplay/Regions/Malicis, the Taboo Isles": [
       "Gameplay/Regions/Malicis, the Taboo Isles/Boss Fights",
       "Gameplay/Regions/Malicis, the Taboo Isles/Points of Interest",
@@ -191,7 +191,7 @@
     "Gameplay/Regions/Malicis, the Taboo Isles/Boss Fights": [
       "Gameplay/Regions/Malicis, the Taboo Isles/Boss Fights/1. Chief",
       "Gameplay/Regions/Malicis, the Taboo Isles/Boss Fights/2. Anomaly",
-      "Gameplay/Regions/Malicis, the Taboo Isles/Boss Fights/Vortex - Ellore ~ Forlorn Exile.md"
+      "Gameplay/Regions/Malicis, the Taboo Isles/Boss Fights/Vortex - Ellore ~ Unwound Siren.md"
     ],
     "Gameplay/Regions/Malicis, the Taboo Isles/Boss Fights/1. Chief": [],
     "Gameplay/Regions/Malicis, the Taboo Isles/Boss Fights/2. Anomaly": [],

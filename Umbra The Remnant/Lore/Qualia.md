@@ -9,7 +9,7 @@ When a **Ripple** is created, it pulls an immense amount of raw energy from the 
 
 There are 7 different types of **Qualia**, of which 5 are **Natural**, and 2 are **Primordial**:
 
-### **Memorium**
+### Memorium
 - **Natural Qualia** of **Information & Perception**
 	- *Blue*
 	- Governs the ability for things to possess *qualities* and *traits*, and for those traits to be *perceived* as distinct from one another. 
@@ -17,7 +17,7 @@ There are 7 different types of **Qualia**, of which 5 are **Natural**, and 2 are
 	- Governs information *persistence*, in tandem with **Temporum**.
 	- As an **Attunement** type, it is typically used for *reconnaissance*, *illusions*, the creation of *imagery*, and the alteration of an object's properties by imposing the user's *imagination* onto reality.
 
-### **Temporum**
+### Temporum
 - **Natural Qualia** of **Causality & Interaction**
 	- *Purple*
 	- Governs the ability for things to have *properties* that can produce effects when interacting with other things with properties.
@@ -34,7 +34,7 @@ There are 7 different types of **Qualia**, of which 5 are **Natural**, and 2 are
         - However, all **Ripples** operate on a single timeline. Branching is not possible, and the creation of a paradox induces a [[Schism]], which *undoes* the paradox and creates a set of [[Primordial Twins]].
         - In short, true time-travel is not possible in the [Empty Lattice](Empty%20Lattice.md).
 
-### **Velocigen**
+### Velocigen
 - **Natural Qualia** of **Space & Motion**
 - *Yellow*
 - Governs the ability for things to have arbitrary *positions* in an arbitrary number of *dimensions*.
@@ -45,7 +45,7 @@ There are 7 different types of **Qualia**, of which 5 are **Natural**, and 2 are
 - **Velocigen** is widely considered to be the third most powerful type of **Qualia**.
 	- Conversely, it's also the third hardest type to wield.
 
-### **Oscillium**
+### Oscillium
 - **Natural Qualia** of **Cycles & Spectra**
 - *Red*
 - Governs the ability for things to have multiple valid *states*, and for them to gradually *alternate* between those states.
@@ -59,7 +59,7 @@ There are 7 different types of **Qualia**, of which 5 are **Natural**, and 2 are
 	- As a result, any **Aun Deva** with an attunement in **Temporum** and **Velocigen** is indirectly also **Wanderer** level at manipulating **Oscillium**, making that combination of **Attunements** particularly dangerous.
 
 
-### **Ethereon**
+### Ethereon
 - **Natural Qualia** of **Concepts**
 - *Green
 - Creates the **Ethereal Vault**, a unique **Field** within a **Ripple** that contains information about every conceivable *Thing* this **Ripple** supports the existence of.
@@ -77,7 +77,7 @@ There are 7 different types of **Qualia**, of which 5 are **Natural**, and 2 are
 - The **Ethereon Sephyr Aelyn** stands out from her peers by being the only **Sephyr** who has as many **Injectors** on her body as a **Deva**. These are not visible though, as they all reside on her own brain.
 	- This is because, by its nature, it's impossible to create an **Ethereon Injector** on the fly, even for a **Sephyr**. The **Sephyr** may not exceed the concepts within the **Vault**, and to create a **Sephyr**-level **Injector** with **Ethereon**, they must spend some time perusing the **Vault**.
 
-### **Nahline**
+### Nahline
 - **Primordial Qualia** of **Structure & Growth**
 - *Black & Lavender*
 - **Nahline** is the essence of [[Nahla]] herself. It is the crystallized form of her Will, and a crucial component in the creation of **Ripples**.
@@ -90,7 +90,7 @@ There are 7 different types of **Qualia**, of which 5 are **Natural**, and 2 are
 - **Aun** in **Nahline Attunement** has never occurred in the history of the [[Empty Lattice]].
 
 
-### **Nihilium**
+### Nihilium
 - **Primordial Qualia** of **Decay & Creation**
 - *White & Cobalt Blue*
 - **Nihilium** is the essence and crystallized form of the **Whitevoid**, and, to **Nahla**'s dismay, as crucial to the existence of **Ripples** as **Nahline** is.

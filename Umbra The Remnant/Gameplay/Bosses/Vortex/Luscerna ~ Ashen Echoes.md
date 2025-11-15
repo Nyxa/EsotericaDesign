@@ -1,12 +1,12 @@
 
-<h1><center><i>Unwound Siren</i><br>Ellore</center></h1>
+<h1><center><i>Ashen Echoes</i><br>Luscerna</center></h1>
 ***
 
 ### Info
-**Name**: Ellore Mantell
+**Name**: Luscerna
 **Attunement**: [Memorium](Qualia.md#**Memorium**)
 **Class**: [Vortex](General%20Boss%20Mechanics.md#Vortex)
-**Heritage**: [Esteria](Esteria.md)
+**Heritage**: [Saeris](Saeris.md)
 **Related Clans**: None
 
 

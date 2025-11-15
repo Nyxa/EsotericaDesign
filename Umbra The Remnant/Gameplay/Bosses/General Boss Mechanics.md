@@ -37,7 +37,7 @@ The classifications are as follows:
 - Introduced with cutscene, leading into *major* title card
 - Phases: 4
 - Induces **Rewind** death
-- Grants **Epic** reward, as well as **Mystic** [[Tainted Nexus Core]]
+- Grants **Epic** reward, as well as **Mystic** [[Nexus Remnant]]
 - All **Vortices** are *mandatory* to complete the *main story*
 - Each **Vortex** is either a requirement, or directly related to, a specific *side story*
 	- [Ashdyr](Vortex%20-%20Ashdyr%20~%20Thousand-blade%20Sentinel.md) is a requirement for [Little Artificer](Act%20I%20~%20A%20Bitsy%20Request.md) 
@@ -46,7 +46,7 @@ The classifications are as follows:
 	- [Ellore](Vortex%20-%20Ellore%20~%20Unwound%20Siren.md) is a requirement for [[Lost City]]
 		- She is also related to **Little Artificer**
 	- [Luscerna](Vortex%20-%20Luscerna%20~%20Ashen%20Echo.md) is a requirement for **Echoes**
-	- [Carmilla](Vortex%20-%20Carmilla%20~%20Sanguine%20Cinder.md) is related to **Golden Heart, Azulite Soul**
+	- [Carmilla](Vortex%20-%20Carmilla%20~%20Sanguine%20Cinder.md) is *strongly* related to **Golden Heart, Azulite Soul**
 		- She is also *strongly* related to, and involved with, **Little Artificer**
 
 #### Demigod
@@ -56,6 +56,7 @@ The classifications are as follows:
 - Grants **Legendary** reward, a unique [Blueprint](Injectors.md#Blueprints), and a [[Cosmetic Override]].
 - All **Demigods**, except one, are *optional* to complete the *main story*
 	- [Necroxia](Necroxia%20~%20Virtuosa%20of%20the%20Void.md) is the final boss, and thus mandatory.
+		- Implicitly, she marks the ending to **Antithesis**.
 - Each **Demigod** marks the *ending* to a specific story.
 	- [Alace ~ Godbeast](Alace%20Vansonia%20~%20Godbeast%20of%20Eiare.md) marks the ending to **Daughter of Eiare**
 	- [Litchi](Kayanna%20Litchi%20~%20Radiant%20Princess%20of%20Altire.md) marks the ending to **Little Artificer**
