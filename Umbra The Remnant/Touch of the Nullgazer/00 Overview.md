@@ -33,7 +33,7 @@ Most of Godsmeat Grove remains undeveloped; however, the bossfight with **Halget
 
 
 ### Starweaver Astrophe ~ Carousel of Nothings 
-The **Carousel of Nothings** is a mirage-like land. We've still yet to determine how it differs from [Malicis-Miasma](Gameplay/Regions/Malicis,%20the%20Taboo%20Isles/1.%20Overview.md).
+The **Carousel of Nothings** is a mirage-like land. We've still yet to determine how it differs from [Malicis-Miasma](Gameplay/Regions/Taboo%20Isles%20of%20Malicis/1.%20Overview.md).
 
 The relevant boss, **Astrophe**, is found initially as a large *egg*. After some requirement has been met, this egg will hatch.
 

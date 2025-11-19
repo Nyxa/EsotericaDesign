@@ -38,6 +38,8 @@
       "Characters/Esteria/Nemilla Aeltor.md"
     ],
     "Characters/Maylith": [
+      "Characters/Maylith/Auris Maisie.md",
+      "Characters/Maylith/Alace Vansonia.md",
       "Characters/Maylith/Ametrine.md",
       "Characters/Maylith/Garnet.md",
       "Characters/Maylith/Lady Lazuli.md"
@@ -102,7 +104,7 @@
       "Gameplay/Regions/Divine City of Avalia",
       "Gameplay/Regions/Elphira, the Sunken City",
       "Gameplay/Regions/Exulas, Gloaming Wastes",
-      "Gameplay/Regions/Malicis, the Taboo Isles",
+      "Gameplay/Regions/Taboo Isles of Malicis",
       "Gameplay/Regions/Mt. Edivius, Throne of the Heart Embers",
       "Gameplay/Regions/Veralis, Lustrous Arboreas"
     ],
@@ -179,24 +181,6 @@
     "Gameplay/Regions/Exulas, Gloaming Wastes/Boss Fights/2. Anomaly": [],
     "Gameplay/Regions/Exulas, Gloaming Wastes/Points of Interest": [],
     "Gameplay/Regions/Exulas, Gloaming Wastes/Subregions": [],
-    "Gameplay/Regions/Malicis, the Taboo Isles": [
-      "Gameplay/Regions/Malicis, the Taboo Isles/Boss Fights",
-      "Gameplay/Regions/Malicis, the Taboo Isles/Points of Interest",
-      "Gameplay/Regions/Malicis, the Taboo Isles/Subregions",
-      "Gameplay/Regions/Malicis, the Taboo Isles/1. Overview.md",
-      "Gameplay/Regions/Malicis, the Taboo Isles/2. NPC.md",
-      "Gameplay/Regions/Malicis, the Taboo Isles/3. Enemies.md",
-      "Gameplay/Regions/Malicis, the Taboo Isles/4. Notable Miscellanea.md"
-    ],
-    "Gameplay/Regions/Malicis, the Taboo Isles/Boss Fights": [
-      "Gameplay/Regions/Malicis, the Taboo Isles/Boss Fights/1. Chief",
-      "Gameplay/Regions/Malicis, the Taboo Isles/Boss Fights/2. Anomaly",
-      "Gameplay/Regions/Malicis, the Taboo Isles/Boss Fights/Vortex - Ellore ~ Unwound Siren.md"
-    ],
-    "Gameplay/Regions/Malicis, the Taboo Isles/Boss Fights/1. Chief": [],
-    "Gameplay/Regions/Malicis, the Taboo Isles/Boss Fights/2. Anomaly": [],
-    "Gameplay/Regions/Malicis, the Taboo Isles/Points of Interest": [],
-    "Gameplay/Regions/Malicis, the Taboo Isles/Subregions": [],
     "Gameplay/Regions/Mt. Edivius, Throne of the Heart Embers": [
       "Gameplay/Regions/Mt. Edivius, Throne of the Heart Embers/Boss Fights",
       "Gameplay/Regions/Mt. Edivius, Throne of the Heart Embers/Points of Interest",
@@ -214,6 +198,24 @@
     "Gameplay/Regions/Mt. Edivius, Throne of the Heart Embers/Boss Fights/2. Anomaly": [],
     "Gameplay/Regions/Mt. Edivius, Throne of the Heart Embers/Points of Interest": [],
     "Gameplay/Regions/Mt. Edivius, Throne of the Heart Embers/Subregions": [],
+    "Gameplay/Regions/Taboo Isles of Malicis": [
+      "Gameplay/Regions/Taboo Isles of Malicis/Boss Fights",
+      "Gameplay/Regions/Taboo Isles of Malicis/Points of Interest",
+      "Gameplay/Regions/Taboo Isles of Malicis/Subregions",
+      "Gameplay/Regions/Taboo Isles of Malicis/1. Overview.md",
+      "Gameplay/Regions/Taboo Isles of Malicis/2. NPC.md",
+      "Gameplay/Regions/Taboo Isles of Malicis/3. Enemies.md",
+      "Gameplay/Regions/Taboo Isles of Malicis/4. Notable Miscellanea.md"
+    ],
+    "Gameplay/Regions/Taboo Isles of Malicis/Boss Fights": [
+      "Gameplay/Regions/Taboo Isles of Malicis/Boss Fights/1. Chief",
+      "Gameplay/Regions/Taboo Isles of Malicis/Boss Fights/2. Anomaly",
+      "Gameplay/Regions/Taboo Isles of Malicis/Boss Fights/Vortex - Ellore ~ Unwound Siren.md"
+    ],
+    "Gameplay/Regions/Taboo Isles of Malicis/Boss Fights/1. Chief": [],
+    "Gameplay/Regions/Taboo Isles of Malicis/Boss Fights/2. Anomaly": [],
+    "Gameplay/Regions/Taboo Isles of Malicis/Points of Interest": [],
+    "Gameplay/Regions/Taboo Isles of Malicis/Subregions": [],
     "Gameplay/Regions/Veralis, Lustrous Arboreas": [
       "Gameplay/Regions/Veralis, Lustrous Arboreas/Boss Fights",
       "Gameplay/Regions/Veralis, Lustrous Arboreas/Points of Interest",
@@ -272,27 +274,34 @@
       "Gameplay/Systems/Player/Special Combos.md"
     ],
     "Lore": [
-      "Lore/Artifiction.md",
-      "Lore/Clans",
-      "Lore/Attunement Test.md",
-      "Lore/Awakening.md",
-      "Lore/Eiare.md",
-      "Lore/Empty Lattice.md",
-      "Lore/Ethereal Vault.md",
-      "Lore/Hollow Nexus.md",
-      "Lore/Injector.md",
-      "Lore/Nahla.md",
-      "Lore/Nahvael.md",
-      "Lore/Qualia.md",
-      "Lore/Ripple.md"
+      "Lore/Hollow Lattice",
+      "Lore/Eiare"
     ],
-    "Lore/Clans": [
-      "Lore/Clans/Akhanti Clan.md",
-      "Lore/Clans/Avalia.md",
-      "Lore/Clans/Esteria.md",
-      "Lore/Clans/Maylith.md",
-      "Lore/Clans/Niandes Clan.md",
-      "Lore/Clans/Saeris.md"
+    "Lore/Eiare": [
+      "Lore/Eiare/Eiare.md",
+      "Lore/Eiare/Clans",
+      "Lore/Eiare/Artifiction.md"
+    ],
+    "Lore/Eiare/Clans": [
+      "Lore/Eiare/Clans/Akhanti Clan.md",
+      "Lore/Eiare/Clans/Avalia.md",
+      "Lore/Eiare/Clans/Esteria.md",
+      "Lore/Eiare/Clans/Maylith.md",
+      "Lore/Eiare/Clans/Niandes Clan.md",
+      "Lore/Eiare/Clans/Saeris.md"
+    ],
+    "Lore/Hollow Lattice": [
+      "Lore/Hollow Lattice/Hollow Nexus.md",
+      "Lore/Hollow Lattice/Nahla.md",
+      "Lore/Hollow Lattice/Nahvael.md",
+      "Lore/Hollow Lattice/Qualia.md",
+      "Lore/Hollow Lattice/Injector.md",
+      "Lore/Hollow Lattice/Ripple.md",
+      "Lore/Hollow Lattice/Attunement Test.md",
+      "Lore/Hollow Lattice/Ethereal Vault.md",
+      "Lore/Hollow Lattice/Awakening.md",
+      "Lore/Hollow Lattice/Remnant.md",
+      "Lore/Hollow Lattice/Hollow Lattice.md"
     ],
     "Meta": [
       "Meta/Ideas",

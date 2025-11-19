@@ -32,7 +32,7 @@ There are 7 different types of **Qualia**, of which 5 are **Natural**, and 2 are
         - However, a "moment" within a **Ripple** comprises *more* elements than **Temporum**, as the **Temporal Field** is made of **Temporum** and **Memorium**, and the **Spacetime Field** is made of **Temporum** and **Velocigen**.
         - As **Velocigen** is what cycles the **Spacetime Field** to the next moment, an **Attunement** in *both* types is required to do anything remotely resembling time manipulation.
         - However, all **Ripples** operate on a single timeline. Branching is not possible, and the creation of a paradox induces a [[Schism]], which *undoes* the paradox and creates a set of [[Primordial Twins]].
-        - In short, true time-travel is not possible in the [Empty Lattice](Empty%20Lattice.md).
+        - In short, true time-travel is not possible in the [Hollow Lattice](Hollow%20Lattice.md).
 
 ### Velocigen
 - **Natural Qualia** of **Space & Motion**
@@ -87,7 +87,7 @@ There are 7 different types of **Qualia**, of which 5 are **Natural**, and 2 are
 - It can convert to and from any type of **Natural Qualia**, but is incompatible with **Nihilium**.
 - As an **Attunement**, it is typically used to create objects from nothing, and manipulate these objects. It can also be used to create *homunculi*, and accelerate the *growth* of organisms. Additionally, it has strong *medicinal* properties.
 	- **Nahline Devas** are typically capable of producing **Awakened**-level effects of **Natural Qualia** types, and capable of combining them. This makes them somewhat similar to **Aun**, but combining these **Injectors** is inordinately difficult, and no **Nahline** user has ever, in a near infinite series of **Ripples**, come even remotely close to the capabilities of even an **Aun Deva**.
-- **Aun** in **Nahline Attunement** has never occurred in the history of the [[Empty Lattice]].
+- **Aun** in **Nahline Attunement** has never occurred in the history of the [[Hollow Lattice]].
 
 
 ### Nihilium

@@ -10,12 +10,10 @@
 **Related Clans**: None
 
 
-
+### Narrative Summary
+**Ellore** is one of the only survivors of the [[Last Wave Exiles]], the final group of **Esterians** to have been cast away to the [Taboo Isles](Gameplay/Regions/Taboo%20Isles%20of%20Malicis/1.%20Overview.md). After 
 
 ### Ability Breakdown
-
-
-### Narrative Summary
 
 
 ### Phases
