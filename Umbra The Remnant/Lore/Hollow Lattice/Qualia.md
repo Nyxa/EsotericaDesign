@@ -84,7 +84,7 @@ There are 7 different types of **Qualia**, of which 5 are **Natural**, and 2 are
 - It is the element that allows other types of **Qualia** to combine to form *laws* and *things*
 - It acts as the protective barrier around **Ripples**, slowing the effects of the **Whitevoid** that attempts to rip them apart.
 - It serves as the glue between the **Hollow Nexus** and the physical body, and as such is a key ingredient in **Ripple** travel and **Attunement**.
-- It can convert to and from any type of **Natural Qualia**, but is incompatible with **Nihilium**.
+- It can convert to and from any type of **Natural Qualia**, but is incompatible with **Nihilium.**
 - As an **Attunement**, it is typically used to create objects from nothing, and manipulate these objects. It can also be used to create *homunculi*, and accelerate the *growth* of organisms. Additionally, it has strong *medicinal* properties.
 	- **Nahline Devas** are typically capable of producing **Awakened**-level effects of **Natural Qualia** types, and capable of combining them. This makes them somewhat similar to **Aun**, but combining these **Injectors** is inordinately difficult, and no **Nahline** user has ever, in a near infinite series of **Ripples**, come even remotely close to the capabilities of even an **Aun Deva**.
 - **Aun** in **Nahline Attunement** has never occurred in the history of the [[Hollow Lattice]].
