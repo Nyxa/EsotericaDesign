@@ -1,0 +1,390 @@
+{
+  "customOrder": {
+    "/": [
+      "Halithell",
+      "La Tatuana"
+    ],
+    "Halithell": [
+      "Halithell/_Assets",
+      "Halithell/_Templates",
+      "Halithell/Characters",
+      "Halithell/Gameplay",
+      "Halithell/Lore",
+      "Halithell/Meta",
+      "Halithell/Narrative",
+      "Halithell/Touch of the Nullgazer"
+    ],
+    "Halithell/_Assets": [
+      "Halithell/_Assets/0d6b8d5e2f81042ba1d3f04bd19a57071e7a5811ea67787b80fbaa1df5c9be4c-1639879072.jpg",
+      "Halithell/_Assets/0d6b8d5e2f81042ba1d3f04bd19a57071e7a5811ea67787b80fbaa1df5c9be4c-1639879072 1.jpg",
+      "Halithell/_Assets/Pasted image 20240924060620.png",
+      "Halithell/_Assets/Pasted image 20250714053735.png",
+      "Halithell/_Assets/Pasted image 20250716041231.png",
+      "Halithell/_Assets/Pasted image 20250812213834.png",
+      "Halithell/_Assets/Pasted image 20250812214022.png"
+    ],
+    "Halithell/_Templates": [
+      "Halithell/_Templates/Dummy.md"
+    ],
+    "Halithell/Characters": [
+      "Halithell/Characters/Esteria",
+      "Halithell/Characters/Maylith",
+      "Halithell/Characters/Saeris",
+      "Halithell/Characters/Kayanna Litchi.md",
+      "Halithell/Characters/Kurotsuchi Akira.md",
+      "Halithell/Characters/Umbra.md"
+    ],
+    "Halithell/Characters/Esteria": [
+      "Halithell/Characters/Esteria/Ellore Mantell.md",
+      "Halithell/Characters/Esteria/Nemilla Aeltor.md"
+    ],
+    "Halithell/Characters/Maylith": [
+      "Halithell/Characters/Maylith/Alace Vansonia.md",
+      "Halithell/Characters/Maylith/Ametrine.md",
+      "Halithell/Characters/Maylith/Auris Maisie.md",
+      "Halithell/Characters/Maylith/Garnet.md",
+      "Halithell/Characters/Maylith/Lady Lazuli.md"
+    ],
+    "Halithell/Characters/Saeris": [
+      "Halithell/Characters/Saeris/Hakti.md",
+      "Halithell/Characters/Saeris/Luscerna.md"
+    ],
+    "Halithell/Gameplay": [
+      "Halithell/Gameplay/Bosses",
+      "Halithell/Gameplay/Regions",
+      "Halithell/Gameplay/Systems"
+    ],
+    "Halithell/Gameplay/Bosses": [
+      "Halithell/Gameplay/Bosses/Anomaly",
+      "Halithell/Gameplay/Bosses/Demigod",
+      "Halithell/Gameplay/Bosses/Vortex",
+      "Halithell/Gameplay/Bosses/Boss Title Sequence.md",
+      "Halithell/Gameplay/Bosses/General Boss Mechanics.md"
+    ],
+    "Halithell/Gameplay/Bosses/Anomaly": [
+      "Halithell/Gameplay/Bosses/Anomaly/Avalia - Draelys ~ Corpse Flower.md",
+      "Halithell/Gameplay/Bosses/Anomaly/Avalia - Hallowed Tercet ~ Apolinne ~ Eclipse.md",
+      "Halithell/Gameplay/Bosses/Anomaly/Avalia - Hallowed Tercet ~ Einara ~ Luster.md",
+      "Halithell/Gameplay/Bosses/Anomaly/Avalia - Hallowed Tercet ~ Riette ~ Palisade.md",
+      "Halithell/Gameplay/Bosses/Anomaly/Avalia - Lette 'Hellcat' Draiss.md",
+      "Halithell/Gameplay/Bosses/Anomaly/Edivius - Heart Embers of the Igneous Lord.md",
+      "Halithell/Gameplay/Bosses/Anomaly/Edivius - Remali ~ Frostouch Maiden.md",
+      "Halithell/Gameplay/Bosses/Anomaly/Edivius - The Great Shendala ~ Orator.md",
+      "Halithell/Gameplay/Bosses/Anomaly/Elphira - Erathel ~ Land's Edge.md",
+      "Halithell/Gameplay/Bosses/Anomaly/Elphira - Neketh ~ Primeval Ophid.md",
+      "Halithell/Gameplay/Bosses/Anomaly/Elphira - Ophelia ~ Mistress of Puppets.md",
+      "Halithell/Gameplay/Bosses/Anomaly/Exulas - Aosi ~ Wailing Willow.md",
+      "Halithell/Gameplay/Bosses/Anomaly/Exulas - Callisse ~ Blood Matron.md",
+      "Halithell/Gameplay/Bosses/Anomaly/Exulas - Shed of Many Doors.md",
+      "Halithell/Gameplay/Bosses/Anomaly/Exulas - The Face Hunter.md",
+      "Halithell/Gameplay/Bosses/Anomaly/Malicis - Deadmaw ~ Corpse King.md",
+      "Halithell/Gameplay/Bosses/Anomaly/Malicis - HAK-TOH-EKK of the Faces.md",
+      "Halithell/Gameplay/Bosses/Anomaly/Malicis - Lemea ~ Blighted Lamb of the Sands.md",
+      "Halithell/Gameplay/Bosses/Anomaly/Veralis - Hakti ~ Silverscale Tempest.md",
+      "Halithell/Gameplay/Bosses/Anomaly/Veralis - Lady Lazuli ~ The Gemspinner.md",
+      "Halithell/Gameplay/Bosses/Anomaly/Veralis - Lochbeast Arketh.md"
+    ],
+    "Halithell/Gameplay/Bosses/Demigod": [
+      "Halithell/Gameplay/Bosses/Demigod/Akira ~ The Demon of Hiraizumi.md",
+      "Halithell/Gameplay/Bosses/Demigod/Alace Vansonia ~ Godbeast of Eiare.md",
+      "Halithell/Gameplay/Bosses/Demigod/Kayanna Litchi ~ Radiant Princess of Altire.md",
+      "Halithell/Gameplay/Bosses/Demigod/Necroxia ~ Virtuosa of the Void.md"
+    ],
+    "Halithell/Gameplay/Bosses/Vortex": [
+      "Halithell/Gameplay/Bosses/Vortex/Alace Vansonia ~ Nightmare of Avalia.md",
+      "Halithell/Gameplay/Bosses/Vortex/AMOS-11 Ashdyr ~ Thousand-Blade Sentinel.md",
+      "Halithell/Gameplay/Bosses/Vortex/Carmilla ~ Sanguine Cinder.md",
+      "Halithell/Gameplay/Bosses/Vortex/Ellore ~ Unwound Siren.md",
+      "Halithell/Gameplay/Bosses/Vortex/Luscerna ~ Ashen Echoes.md"
+    ],
+    "Halithell/Gameplay/Regions": [
+      "Halithell/Gameplay/Regions/Calmerra, Lands Astray",
+      "Halithell/Gameplay/Regions/Divine City of Avalia",
+      "Halithell/Gameplay/Regions/Elphira, the Sunken City",
+      "Halithell/Gameplay/Regions/Exulas, Gloaming Wastes",
+      "Halithell/Gameplay/Regions/Mt. Edivius, Throne of the Heart Embers",
+      "Halithell/Gameplay/Regions/Taboo Isles of Malicis",
+      "Halithell/Gameplay/Regions/Veralis, Lustrous Arboreas"
+    ],
+    "Halithell/Gameplay/Regions/Calmerra, Lands Astray": [
+      "Halithell/Gameplay/Regions/Calmerra, Lands Astray/1. Overview.md",
+      "Halithell/Gameplay/Regions/Calmerra, Lands Astray/2. NPC.md",
+      "Halithell/Gameplay/Regions/Calmerra, Lands Astray/3. Enemies.md",
+      "Halithell/Gameplay/Regions/Calmerra, Lands Astray/4. Notable Miscellanea.md"
+    ],
+    "Halithell/Gameplay/Regions/Divine City of Avalia": [
+      "Halithell/Gameplay/Regions/Divine City of Avalia/Boss Fights",
+      "Halithell/Gameplay/Regions/Divine City of Avalia/1. Overview.md",
+      "Halithell/Gameplay/Regions/Divine City of Avalia/2. NPC.md",
+      "Halithell/Gameplay/Regions/Divine City of Avalia/3. Enemies.md",
+      "Halithell/Gameplay/Regions/Divine City of Avalia/4. Notable Miscellanea.md"
+    ],
+    "Halithell/Gameplay/Regions/Divine City of Avalia/Boss Fights": [
+      "Halithell/Gameplay/Regions/Divine City of Avalia/Boss Fights/Vortex - Alace Vansonia ~ Nightmare of Avalia.md"
+    ],
+    "Halithell/Gameplay/Regions/Elphira, the Sunken City": [
+      "Halithell/Gameplay/Regions/Elphira, the Sunken City/Boss Fights",
+      "Halithell/Gameplay/Regions/Elphira, the Sunken City/1. Overview.md",
+      "Halithell/Gameplay/Regions/Elphira, the Sunken City/2. NPC.md",
+      "Halithell/Gameplay/Regions/Elphira, the Sunken City/3. Enemies.md",
+      "Halithell/Gameplay/Regions/Elphira, the Sunken City/4. Notable Miscellanea.md"
+    ],
+    "Halithell/Gameplay/Regions/Elphira, the Sunken City/Boss Fights": [
+      "Halithell/Gameplay/Regions/Elphira, the Sunken City/Boss Fights/Vortex - Luscerna ~ Ashen Echo.md"
+    ],
+    "Halithell/Gameplay/Regions/Exulas, Gloaming Wastes": [
+      "Halithell/Gameplay/Regions/Exulas, Gloaming Wastes/Boss Fights",
+      "Halithell/Gameplay/Regions/Exulas, Gloaming Wastes/1. Overview.md",
+      "Halithell/Gameplay/Regions/Exulas, Gloaming Wastes/2. NPC.md",
+      "Halithell/Gameplay/Regions/Exulas, Gloaming Wastes/3. Enemies.md",
+      "Halithell/Gameplay/Regions/Exulas, Gloaming Wastes/4. Notable Miscellanea.md"
+    ],
+    "Halithell/Gameplay/Regions/Exulas, Gloaming Wastes/Boss Fights": [
+      "Halithell/Gameplay/Regions/Exulas, Gloaming Wastes/Boss Fights/Vortex - Carmilla ~ Sanguine Cinder.md"
+    ],
+    "Halithell/Gameplay/Regions/Mt. Edivius, Throne of the Heart Embers": [
+      "Halithell/Gameplay/Regions/Mt. Edivius, Throne of the Heart Embers/1. Overview.md",
+      "Halithell/Gameplay/Regions/Mt. Edivius, Throne of the Heart Embers/2. NPC.md",
+      "Halithell/Gameplay/Regions/Mt. Edivius, Throne of the Heart Embers/3. Enemies.md",
+      "Halithell/Gameplay/Regions/Mt. Edivius, Throne of the Heart Embers/4. Notable Miscellanea.md"
+    ],
+    "Halithell/Gameplay/Regions/Taboo Isles of Malicis": [
+      "Halithell/Gameplay/Regions/Taboo Isles of Malicis/Boss Fights",
+      "Halithell/Gameplay/Regions/Taboo Isles of Malicis/1. Overview.md",
+      "Halithell/Gameplay/Regions/Taboo Isles of Malicis/2. NPC.md",
+      "Halithell/Gameplay/Regions/Taboo Isles of Malicis/3. Enemies.md",
+      "Halithell/Gameplay/Regions/Taboo Isles of Malicis/4. Notable Miscellanea.md"
+    ],
+    "Halithell/Gameplay/Regions/Taboo Isles of Malicis/Boss Fights": [
+      "Halithell/Gameplay/Regions/Taboo Isles of Malicis/Boss Fights/Vortex - Ellore ~ Unwound Siren.md"
+    ],
+    "Halithell/Gameplay/Regions/Veralis, Lustrous Arboreas": [
+      "Halithell/Gameplay/Regions/Veralis, Lustrous Arboreas/Boss Fights",
+      "Halithell/Gameplay/Regions/Veralis, Lustrous Arboreas/Points of Interest",
+      "Halithell/Gameplay/Regions/Veralis, Lustrous Arboreas/Subregions",
+      "Halithell/Gameplay/Regions/Veralis, Lustrous Arboreas/1. Veralis Overview.md",
+      "Halithell/Gameplay/Regions/Veralis, Lustrous Arboreas/2. NPC.md",
+      "Halithell/Gameplay/Regions/Veralis, Lustrous Arboreas/3. Enemies.md",
+      "Halithell/Gameplay/Regions/Veralis, Lustrous Arboreas/4. Notable Miscellanea.md"
+    ],
+    "Halithell/Gameplay/Regions/Veralis, Lustrous Arboreas/Boss Fights": [
+      "Halithell/Gameplay/Regions/Veralis, Lustrous Arboreas/Boss Fights/1. Chief",
+      "Halithell/Gameplay/Regions/Veralis, Lustrous Arboreas/Boss Fights/2. Anomaly",
+      "Halithell/Gameplay/Regions/Veralis, Lustrous Arboreas/Boss Fights/Vortex - Ashdyr ~ Thousand-blade Sentinel.md"
+    ],
+    "Halithell/Gameplay/Regions/Veralis, Lustrous Arboreas/Boss Fights/1. Chief": [
+      "Halithell/Gameplay/Regions/Veralis, Lustrous Arboreas/Boss Fights/1. Chief/00 - Notes.md",
+      "Halithell/Gameplay/Regions/Veralis, Lustrous Arboreas/Boss Fights/1. Chief/Abyss Gulper.md",
+      "Halithell/Gameplay/Regions/Veralis, Lustrous Arboreas/Boss Fights/1. Chief/Boisterous Ametrine.md",
+      "Halithell/Gameplay/Regions/Veralis, Lustrous Arboreas/Boss Fights/1. Chief/Dahliantis.md",
+      "Halithell/Gameplay/Regions/Veralis, Lustrous Arboreas/Boss Fights/1. Chief/Festered Knight.md",
+      "Halithell/Gameplay/Regions/Veralis, Lustrous Arboreas/Boss Fights/1. Chief/Frilled Depthwalker.md",
+      "Halithell/Gameplay/Regions/Veralis, Lustrous Arboreas/Boss Fights/1. Chief/Garnet ~ Gemstone Warden.md",
+      "Halithell/Gameplay/Regions/Veralis, Lustrous Arboreas/Boss Fights/1. Chief/Gorepitcher.md",
+      "Halithell/Gameplay/Regions/Veralis, Lustrous Arboreas/Boss Fights/1. Chief/Lost Shaman.md",
+      "Halithell/Gameplay/Regions/Veralis, Lustrous Arboreas/Boss Fights/1. Chief/Maylith Axeflinger.md",
+      "Halithell/Gameplay/Regions/Veralis, Lustrous Arboreas/Boss Fights/1. Chief/Maylith Rockspitter.md",
+      "Halithell/Gameplay/Regions/Veralis, Lustrous Arboreas/Boss Fights/1. Chief/Mommy Longarms.md",
+      "Halithell/Gameplay/Regions/Veralis, Lustrous Arboreas/Boss Fights/1. Chief/Puffbuzzer Swarm.md",
+      "Halithell/Gameplay/Regions/Veralis, Lustrous Arboreas/Boss Fights/1. Chief/Sapphreye.md",
+      "Halithell/Gameplay/Regions/Veralis, Lustrous Arboreas/Boss Fights/1. Chief/Vampyre Inkling.md",
+      "Halithell/Gameplay/Regions/Veralis, Lustrous Arboreas/Boss Fights/1. Chief/Wounded Angler.md"
+    ],
+    "Halithell/Gameplay/Regions/Veralis, Lustrous Arboreas/Boss Fights/2. Anomaly": [
+      "Halithell/Gameplay/Regions/Veralis, Lustrous Arboreas/Boss Fights/2. Anomaly/Arketh ~ Lochbeast.md",
+      "Halithell/Gameplay/Regions/Veralis, Lustrous Arboreas/Boss Fights/2. Anomaly/Hakti ~ Silverscale Tempest.md",
+      "Halithell/Gameplay/Regions/Veralis, Lustrous Arboreas/Boss Fights/2. Anomaly/Lady Lazuli ~ The Gemspinner.md"
+    ],
+    "Halithell/Gameplay/Regions/Veralis, Lustrous Arboreas/Points of Interest": [
+      "Halithell/Gameplay/Regions/Veralis, Lustrous Arboreas/Points of Interest/Amberveil.md",
+      "Halithell/Gameplay/Regions/Veralis, Lustrous Arboreas/Points of Interest/Anglerfell.md",
+      "Halithell/Gameplay/Regions/Veralis, Lustrous Arboreas/Points of Interest/Ashenhearth.md",
+      "Halithell/Gameplay/Regions/Veralis, Lustrous Arboreas/Points of Interest/Cobalt Cove.md"
+    ],
+    "Halithell/Gameplay/Regions/Veralis, Lustrous Arboreas/Subregions": [
+      "Halithell/Gameplay/Regions/Veralis, Lustrous Arboreas/Subregions/Glistergrove.md",
+      "Halithell/Gameplay/Regions/Veralis, Lustrous Arboreas/Subregions/Hollowgloam.md",
+      "Halithell/Gameplay/Regions/Veralis, Lustrous Arboreas/Subregions/Shimmervein Depths.md"
+    ],
+    "Halithell/Gameplay/Systems": [
+      "Halithell/Gameplay/Systems/Player"
+    ],
+    "Halithell/Gameplay/Systems/Player": [
+      "Halithell/Gameplay/Systems/Player/Combat.md",
+      "Halithell/Gameplay/Systems/Player/Exploration.md",
+      "Halithell/Gameplay/Systems/Player/Injectors.md",
+      "Halithell/Gameplay/Systems/Player/Special Combos.md"
+    ],
+    "Halithell/Lore": [
+      "Halithell/Lore/Eiare",
+      "Halithell/Lore/Hollow Lattice"
+    ],
+    "Halithell/Lore/Eiare": [
+      "Halithell/Lore/Eiare/Clans",
+      "Halithell/Lore/Eiare/Artifiction.md",
+      "Halithell/Lore/Eiare/Eiare.md"
+    ],
+    "Halithell/Lore/Eiare/Clans": [
+      "Halithell/Lore/Eiare/Clans/Akhanti Clan.md",
+      "Halithell/Lore/Eiare/Clans/Avalia.md",
+      "Halithell/Lore/Eiare/Clans/Esteria.md",
+      "Halithell/Lore/Eiare/Clans/Maylith.md",
+      "Halithell/Lore/Eiare/Clans/Niandes Clan.md",
+      "Halithell/Lore/Eiare/Clans/Saeris.md"
+    ],
+    "Halithell/Lore/Hollow Lattice": [
+      "Halithell/Lore/Hollow Lattice/Attunement Test.md",
+      "Halithell/Lore/Hollow Lattice/Awakening.md",
+      "Halithell/Lore/Hollow Lattice/Ethereal Vault.md",
+      "Halithell/Lore/Hollow Lattice/Hollow Lattice.md",
+      "Halithell/Lore/Hollow Lattice/Hollow Nexus.md",
+      "Halithell/Lore/Hollow Lattice/Injector.md",
+      "Halithell/Lore/Hollow Lattice/Nahla.md",
+      "Halithell/Lore/Hollow Lattice/Nahvael.md",
+      "Halithell/Lore/Hollow Lattice/Qualia.md",
+      "Halithell/Lore/Hollow Lattice/Remnant.md",
+      "Halithell/Lore/Hollow Lattice/Ripple.md"
+    ],
+    "Halithell/Meta": [
+      "Halithell/Meta/Ideas",
+      "Halithell/Meta/Marketing",
+      "Halithell/Meta/References",
+      "Halithell/Meta/Research",
+      "Halithell/Meta/Workflow.md"
+    ],
+    "Halithell/Meta/Ideas": [
+      "Halithell/Meta/Ideas/Megadump.md",
+      "Halithell/Meta/Ideas/Region Drafts.md"
+    ],
+    "Halithell/Meta/Marketing": [
+      "Halithell/Meta/Marketing/Elevator Pitch.md",
+      "Halithell/Meta/Marketing/The Plan™.md"
+    ],
+    "Halithell/Meta/References": [
+      "Halithell/Meta/References/Dummy.md"
+    ],
+    "Halithell/Meta/Research": [
+      "Halithell/Meta/Research/Dummy.md"
+    ],
+    "Halithell/Narrative": [
+      "Halithell/Narrative/Antithesis",
+      "Halithell/Narrative/Daughter of Eiare",
+      "Halithell/Narrative/Golden Heart, Azulite Soul",
+      "Halithell/Narrative/Little Artificer",
+      "Halithell/Narrative/Silverscale Echoes",
+      "Halithell/Narrative/The Eighth Sephyr"
+    ],
+    "Halithell/Narrative/Antithesis": [
+      "Halithell/Narrative/Antithesis/Act I ~ Lumina.md",
+      "Halithell/Narrative/Antithesis/Act II ~ Divine City Slums.md",
+      "Halithell/Narrative/Antithesis/Act III ~ Malicis' Miasma.md",
+      "Halithell/Narrative/Antithesis/Act IV ~ Elvira, the Sunken Capital.md",
+      "Halithell/Narrative/Antithesis/Act Nil ~ Orthurys.md",
+      "Halithell/Narrative/Antithesis/Act V ~ Avalia's Pristine Castle.md",
+      "Halithell/Narrative/Antithesis/Act VI ~ Clockwork Château.md",
+      "Halithell/Narrative/Antithesis/Act VII ~ Magnum Opus.md"
+    ],
+    "Halithell/Narrative/Daughter of Eiare": [
+      "Halithell/Narrative/Daughter of Eiare/Act I ~ Divine General.md",
+      "Halithell/Narrative/Daughter of Eiare/Act II ~ Devil, Goddess, Beast.md",
+      "Halithell/Narrative/Daughter of Eiare/Act III ~ Horizon.md"
+    ],
+    "Halithell/Narrative/Golden Heart, Azulite Soul": [
+      "Halithell/Narrative/Golden Heart, Azulite Soul/Act I ~ The Last Orator.md"
+    ],
+    "Halithell/Narrative/Little Artificer": [
+      "Halithell/Narrative/Little Artificer/Act I ~ A Bitsy Request.md"
+    ],
+    "Halithell/Narrative/Silverscale Echoes": [
+      "Halithell/Narrative/Silverscale Echoes/Act I ~ The Blind.md"
+    ],
+    "Halithell/Narrative/The Eighth Sephyr": [
+      "Halithell/Narrative/The Eighth Sephyr/The Eighth Sephyr.md"
+    ],
+    "Halithell/Touch of the Nullgazer": [
+      "Halithell/Touch of the Nullgazer/00 Overview.md"
+    ],
+    "La Tatuana": [
+      "La Tatuana/_Assets",
+      "La Tatuana/_Templates",
+      "La Tatuana/Characters",
+      "La Tatuana/Lore",
+      "La Tatuana/Meta",
+      "La Tatuana/Narrative"
+    ],
+    "La Tatuana/_Assets": [
+      "La Tatuana/_Assets/Pasted image 20250413025007.png",
+      "La Tatuana/_Assets/Pasted image 20250414123645.png"
+    ],
+    "La Tatuana/_Templates": [
+      "La Tatuana/_Templates/Dummy.md"
+    ],
+    "La Tatuana/Characters": [
+      "La Tatuana/Characters/Alma Santos",
+      "La Tatuana/Characters/Mr. Californian.md"
+    ],
+    "La Tatuana/Characters/Alma Santos": [
+      "La Tatuana/Characters/Alma Santos/Appearance.md",
+      "La Tatuana/Characters/Alma Santos/General.md"
+    ],
+    "La Tatuana/Lore": [
+      "La Tatuana/Lore/Organizations",
+      "La Tatuana/Lore/The Directory"
+    ],
+    "La Tatuana/Lore/Organizations": [
+      "La Tatuana/Lore/Organizations/IACD.md",
+      "La Tatuana/Lore/Organizations/Interpol.md",
+      "La Tatuana/Lore/Organizations/Los Malandros Perros.md",
+      "La Tatuana/Lore/Organizations/Petrucci Family.md",
+      "La Tatuana/Lore/Organizations/S4.md",
+      "La Tatuana/Lore/Organizations/Yaxche Syndicate.md"
+    ],
+    "La Tatuana/Lore/The Directory": [
+      "La Tatuana/Lore/The Directory/Cicada 5.md",
+      "La Tatuana/Lore/The Directory/D.B. Cooper.md",
+      "La Tatuana/Lore/The Directory/Dreadslither.md",
+      "La Tatuana/Lore/The Directory/Grieflok.md",
+      "La Tatuana/Lore/The Directory/Incubus.md",
+      "La Tatuana/Lore/The Directory/Jack The Ripper.md",
+      "La Tatuana/Lore/The Directory/The Dyatlov Marrowgill.md",
+      "La Tatuana/Lore/The Directory/The Flying Dutchman.md",
+      "La Tatuana/Lore/The Directory/The Lake of Blood.md",
+      "La Tatuana/Lore/The Directory/The Rat King.md"
+    ],
+    "La Tatuana/Meta": [
+      "La Tatuana/Meta/Ideas",
+      "La Tatuana/Meta/Marketing",
+      "La Tatuana/Meta/References",
+      "La Tatuana/Meta/Research",
+      "La Tatuana/Meta/Workflow.md"
+    ],
+    "La Tatuana/Meta/Ideas": [
+      "La Tatuana/Meta/Ideas/Megadump.md",
+      "La Tatuana/Meta/Ideas/Region Drafts.md"
+    ],
+    "La Tatuana/Meta/Marketing": [
+      "La Tatuana/Meta/Marketing/The Plan™.md"
+    ],
+    "La Tatuana/Meta/References": [
+      "La Tatuana/Meta/References/Dummy.md"
+    ],
+    "La Tatuana/Meta/Research": [
+      "La Tatuana/Meta/Research/Dummy.md"
+    ],
+    "La Tatuana/Narrative": [
+      "La Tatuana/Narrative/A-Side - Lux Occulta",
+      "La Tatuana/Narrative/B-Side - Velum Inane"
+    ],
+    "La Tatuana/Narrative/A-Side - Lux Occulta": [
+      "La Tatuana/Narrative/A-Side - Lux Occulta/- Overview.md",
+      "La Tatuana/Narrative/A-Side - Lux Occulta/0. Prologue.md",
+      "La Tatuana/Narrative/A-Side - Lux Occulta/Timeline.md"
+    ],
+    "La Tatuana/Narrative/B-Side - Velum Inane": [
+      "La Tatuana/Narrative/B-Side - Velum Inane/- Overview.md"
+    ]
+  },
+  "sortOrder": "customOrder",
+  "debugMode": false,
+  "newItemPlacement": "top"
+}
