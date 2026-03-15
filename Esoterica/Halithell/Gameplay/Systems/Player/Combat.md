@@ -4,7 +4,7 @@
 ---
 This document details *all* of the combat systems within the game. It does *not* take into account progression order, and instead details the *total* amount of combat systems that will be available throughout the game.
 
-The systems in this document are *not* presented in any particular order; however, some care was taken to place more fundamental systems before others.
+The systems in this document are *not* presented in any particular order; however, some care was taken to place dependent systems after the systems they depend on.
 
 ### Attributes
 All characters have 3 **Core Attributes**:

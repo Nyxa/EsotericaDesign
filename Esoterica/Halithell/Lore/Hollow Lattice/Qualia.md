@@ -63,14 +63,14 @@ There are 7 different types of **Qualia**, of which 5 are **Natural**, and 2 are
 - **Natural Qualia** of **Concepts**
 - *Green
 - Creates the **Ethereal Vault**, a unique **Field** within a **Ripple** that contains information about every conceivable *Thing* this **Ripple** supports the existence of.
-- Governs the ability for *objects* to be distinct, discrete *Things*.
+- Governs the ability for *objects* to be distinct, discrete *Things*. This is their **Fidelity**
 - Governs the ability for *Things* to combine to form new *Things*.
 - Defines the different levels of existence a *Thing* may exist within.
 - As an **Attunement** type, it is the most unique. 
 	- As **Ethereon** governs *concepts*, it is incredibly hard to wield. This has led **Ethereon** users to formulate a different kind of strategy to making **Injectors**.
 	- Rather than making **Injectors** directly, **Ethereon** users produce a **Projection**. This is a portion of their own selves which becomes an ingredient for the **Injector**.
 	- As a result, **Projections** are a rare type of **Stigmata** that exists on the brain of the user.
-	- Unlike other **Injectors**, **Projections** cannot have their effects decided by their creator. Instead, they represent a *concept*, and the creator may impose *restrictions* on this concept. The more intense the restriction, the more powerful the effect of this concept will be.
+	- Unlike other **Injectors**, **Projections** cannot have their effects decided by their creator. Instead, they represent a *concept*, and the creator may impose *restrictions* on this concept. These restrictions are called **Sacred Bindings**. The more severe the restriction, the more powerful the effect of this concept will be.
 	- For particularly weak or beginner **Ethereon** users, they will also *not* have a choice in what the restriction will be.
 	- Due to these quirks, **Ethereon** is said to be a "temperamental" type of **Qualia**, as it can produce unintended effects or require the user to do ridiculous things to utilize or activate their **Projection**.
 - An **Ethereon Sephyr** is capable of perceiving the **Vault** itself.

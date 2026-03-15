@@ -11,10 +11,14 @@
             "id": "24ce5dab886d7e7a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "La Tatuana/Characters/Alma Santos/General.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "General"
             }
           }
         ]
@@ -160,8 +164,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "debb322593be192c",
+  "active": "24ce5dab886d7e7a",
   "lastOpenFiles": [
+    "La Tatuana/Characters/Alma Santos/Appearance.md",
     "Gameplay/Bosses/Anomaly/Elphira - Neketh ~ Primeval Ophid.md",
     "Gameplay/Bosses/Anomaly/Elphira - Erathel ~ Land's Edge.md",
     "Gameplay/Bosses/Anomaly/Edivius - The Great Shendala ~ Orator.md",
@@ -187,7 +192,6 @@
     "Gameplay/Bosses/Vortex/AMOS-11 Ashdyr ~ Thousand-Blade Sentinel.md",
     "Gameplay/Bosses/Vortex/Ellore ~ Unwound Siren.md",
     "Gameplay/Bosses/Vortex/Luscerna ~ Ashen Echoes.md",
-    "Gameplay/Bosses/Vortex/Alace Vansonia ~ Nightmare of Avalia.md",
     "Lore/Untitled",
     "Lore/Hollow Lattice",
     "Lore/Eiare",
