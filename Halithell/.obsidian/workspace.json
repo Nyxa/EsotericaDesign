@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "669d91a8f0522cc2",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb538bbcc779ecd6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc12563d551f2641",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e9d98c3987af8ac1",
+    "type": "split",
+    "children": [
+      {
+        "id": "f406c85e7d8c38fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "debb322593be192c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "customOrder",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d47e5745574e40d8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "wailing wood",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b13334726976744d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 375.5
+  },
+  "right": {
+    "id": "54e53a07588f83e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "4cf2cc4e95a24385",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71ae9fcba5145481",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Gameplay/Systems/Player/Injectors.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Injectors"
+            }
+          },
+          {
+            "id": "807a806eb6859c2f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Gameplay/Systems/Player/Combat.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Combat"
+            }
+          },
+          {
+            "id": "11ebd0e1d2d24a04",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c245a7be6af591c1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Gameplay/Systems/Player/Combat.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Combat"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bc12563d551f2641",
+  "lastOpenFiles": [
+    "Gameplay/Systems/Player/Special Combos.md",
+    "Gameplay/Systems/Player/Injectors.md",
+    "Gameplay/Systems/Player/Combat.md",
+    "Characters/Esteria/Ellore Mantell.md",
+    "Gameplay/Bosses/Vortex/Ellore ~ Unwound Siren.md",
+    "Gameplay/Bosses/Boss Title Sequence.md",
+    "Gameplay/Bosses/General Boss Mechanics.md",
+    "Lore/Hollow Lattice/Nahvael.md",
+    "Gameplay/Systems/Player/Exploration.md",
+    "Lore/Hollow Lattice/Injector.md",
+    "Characters/Kurotsuchi Akira.md",
+    "Lore/Hollow Lattice/Qualia.md",
+    "Lore/Hollow Lattice/Attunement Test.md",
+    "Gameplay/Bosses/Demigod/Necroxia ~ Virtuosa of the Void.md",
+    "Characters/Umbra.md",
+    "Gameplay/Regions/Veralis, Lustrous Arboreas/Subregions/Hollowgloam.md",
+    "Gameplay/Regions/Veralis, Lustrous Arboreas/Points of Interest/Cobalt Cove.md",
+    "Gameplay/Regions/Veralis, Lustrous Arboreas/Points of Interest/Ashenhearth.md",
+    "Gameplay/Regions/Veralis, Lustrous Arboreas/Points of Interest/Anglerfell.md",
+    "Gameplay/Regions/Veralis, Lustrous Arboreas/Points of Interest/Amberveil.md",
+    "Gameplay/Regions/Veralis, Lustrous Arboreas/Subregions/Glistergrove.md",
+    "Gameplay/Regions/Veralis, Lustrous Arboreas/Subregions/Shimmervein Depths.md",
+    "Gameplay/Regions/Mt. Edivius, Throne of the Heart Embers/1. Overview.md",
+    "Gameplay/Bosses/Anomaly/Malicis - Lemea ~ Blighted Lamb of the Sands.md",
+    "Gameplay/Bosses/Anomaly/Malicis - HAK-TOH-EKK of the Faces.md",
+    "Gameplay/Bosses/Anomaly/Malicis - Deadmaw ~ Corpse King.md",
+    "Lore/Untitled",
+    "Lore/Hollow Lattice",
+    "Lore/Eiare",
+    "_Assets/Pasted image 20250812214022.png",
+    "_Assets/Pasted image 20250812213834.png",
+    "_Assets/Pasted image 20250723010416.png",
+    "_Assets/Pasted image 20250722233943.png",
+    "_Assets/Pasted image 20250722233816.png",
+    "_Assets/0d6b8d5e2f81042ba1d3f04bd19a57071e7a5811ea67787b80fbaa1df5c9be4c-1639879072 1.jpg",
+    "_Assets/0d6b8d5e2f81042ba1d3f04bd19a57071e7a5811ea67787b80fbaa1df5c9be4c-1639879072.jpg",
+    "_Assets/Pasted image 20250716041231.png",
+    "_Assets/Pasted image 20250714053735.png",
+    "Characters/Niandes",
+    "Characters/Alarine",
+    "Characters/Esteria",
+    "Gameplay/Regions/Calmerra, Lands Astray/Boss Fights/2. Anomaly",
+    "Gameplay/Regions/Calmerra, Lands Astray/Boss Fights/1. Chief",
+    "Gameplay/Regions/Calmerra, Lands Astray/Boss Fights/3. Vortex",
+    "Gameplay/Regions/Divine City of Avalia/Boss Fights/2. Anomaly",
+    "Gameplay/Regions/Lumina/Map.canvas",
+    "_Assets/Pasted image 20240928192500.png",
+    "Untitled.canvas"
+  ]
+}
