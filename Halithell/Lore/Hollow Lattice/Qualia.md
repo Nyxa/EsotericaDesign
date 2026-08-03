@@ -27,7 +27,7 @@ There are 7 different types of **Qualia**, of which 5 are **Natural**, and 2 are
 			- The effect this has is that the passage of time within **Ripples** starts out incredibly fast relative to other **Ripples**, but slows down over the course of billions of years, until all **Ripples** eventually have a similar passage of time.
 		- The **Temporal Field** is created by **Temporum**, but the *information* within it is comprised of **Memorium**.
 	- Governs *causal* connections, which are a component of *energy transfer*.
-		- As an **Attunement** type, it is typically used to *observe* the past, *redefine* causal events, and to *amplify* or *diminish* causal effects.
+		- As an **Attunement** type, it is typically used to *observe* the past, *redefine* causal events, modify *properties*, and to *transfer*, *amplify* and/or *diminish* causal effects.
         - Despite its name, **Temporum** does *not* allow for time manipulation or travel. **Temporum** allows the creation of "moments" and for one moment to produce the next moment. 
         - However, a "moment" within a **Ripple** comprises *more* elements than **Temporum**, as the **Temporal Field** is made of **Temporum** and **Memorium**, and the **Spacetime Field** is made of **Temporum** and **Velocigen**.
         - As **Velocigen** is what cycles the **Spacetime Field** to the next moment, an **Attunement** in *both* types is required to do anything remotely resembling time manipulation.
@@ -60,7 +60,7 @@ There are 7 different types of **Qualia**, of which 5 are **Natural**, and 2 are
 
 
 ### Ethereon
-- **Natural Qualia** of **Concepts**
+- **Natural Qualia** of **Concepts & Fidelity**
 - *Green
 - Creates the **Ethereal Vault**, a unique **Field** within a **Ripple** that contains information about every conceivable *Thing* this **Ripple** supports the existence of.
 - Governs the ability for *objects* to be distinct, discrete *Things*.
@@ -87,7 +87,7 @@ There are 7 different types of **Qualia**, of which 5 are **Natural**, and 2 are
 - It can convert to and from any type of **Natural Qualia**, but is incompatible with **Nihilium.**
 - As an **Attunement**, it is typically used to create objects from nothing, and manipulate these objects. It can also be used to create *homunculi*, and accelerate the *growth* of organisms. Additionally, it has strong *medicinal* properties.
 	- **Nahline Devas** are typically capable of producing **Awakened**-level effects of **Natural Qualia** types, and capable of combining them. This makes them somewhat similar to **Aun**, but combining these **Injectors** is inordinately difficult, and no **Nahline** user has ever, in a near infinite series of **Ripples**, come even remotely close to the capabilities of even an **Aun Deva**.
-- **Aun** in **Nahline Attunement** has never occurred in the history of the [[Hollow Lattice]].
+- **Aun** in **Nahline Attunement** is not possible. **Nahline Attunement** exclusively occurs when a fresh **Nexus** spawns at a time where all **Natural Qualia** within that body are in *complete* and *perfect* equilibrium, whereas **Aun Attunement** requires the **Attuned** elements to be in complete and perfect equilibrium *on top of* being the *greatest* amount of **Qualia** within that body. Therefore, there is no **Aun Nahline** in the [[Hollow Lattice]].
 
 
 ### Nihilium
@@ -108,3 +108,4 @@ There are 7 different types of **Qualia**, of which 5 are **Natural**, and 2 are
 - As an **Attunement**, it is highly unpredictable. A skilled **Nihilium** user is capable of creating **Injectors** that narrow down the set of possibilities, and then learns to respond to each random outcome. 
 	- An unskilled **Nihilium** user may well be seen as a natural disaster waiting to happen.
 - Because of its many negative effects, it has a bad reputation. On top of **Attunements** of it being rare, and usage of it being incredibly difficult; **Nihilium** users are typically seen as evil beings, or as living natural disasters. They are often killed before they can do any meaningful damage as a result.
+- A **Nihilium Attunement** can solely occur when there is **Nihilium present** at a time when a **Nahline Attunement** is formed. This **Nahline Attunement** will then instead become a **Nihilium Attunement**.

@@ -9,9 +9,6 @@ She was fascinated by clockwork technology, ever since her parents gave her a *p
 
 She eventually got a job at **Estrail United** where she primarily repaired *Clockwork Wagons* and railways.
 
-
-
-
 ### Fate of the Last Wave
 After the members of the [[Last Wave Exiles]] decided to split into 2 groups where one would explore beneath the surface, and the other would remain above as lookouts and for the safety of the delving team, the **Annex** seated deep within [Elphira](Gameplay/Regions/Elphira,%20the%20Sunken%20City/1.%20Overview.md) opened and released a massive blast of [Nihilium](Qualia.md#Nihilium), completely scrambling the delving team, leaving them as disfigured, immortal **Meta-Remnants**.
 

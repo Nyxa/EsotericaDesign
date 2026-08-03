@@ -62,7 +62,7 @@ Additional **Veins** may be obtained via items found in the world. These should 
 **Augments**:
 - **Growth Combos** can be **Augmented** if the following conditions have been met:
 	- The initial **Combo** has been unlocked with its **Qualia** cost.
-	- The *same* **Combo** is equipped *at least twice*.
+		- The *same* **Combo** is equipped *at least twice*. 
 	- The **Combo**'s **Augment Challenge** has been completed.
 - **Augments** become visible if the player has equipped the *same* **Growth Combo** *twice*.
 - Once an **Augment Challenge** has been completed, that **Augment** remains permanently available.

@@ -7,7 +7,7 @@ This document details *all* of the combat systems within the game. It does *not*
 The systems in this document are *not* presented in any particular order; however, some care was taken to place more fundamental systems before others.
 
 ### Attributes
-All characters have 3 **Core Attributes**:
+All characters have 4 **Core Attributes**:
 - **Health**
 	- It's literally health
 	- When this reaches zero, the current phase ends.
@@ -78,8 +78,6 @@ There are *at least* three different **Windows** of a **Combat Action**. Certain
 
 ### Remnant Attributes
 **Umbra** has a few special additional **Attributes**, which she shares with other **Remnants**, such as [[Necroxia]]. 
-
-While these will be listed here, they are currently *not* entirely solidified, and *may be subject to change* as we further iterate on the game. 
 
 These **Attributes** are heavily related to [Combat Actions](Combat.md#Combat%20Actions). They may also affect specific abilities **Umbra** has.
 
@@ -181,7 +179,7 @@ Certain enemies do not die upon being defeated. They simply go into an immobiliz
 
 > [!info]
 > After an enemy is granted **Mercy**, it will do *one* of the following:
- > - Start a questline, which *only* becomes available through **Mercy**. 
+ > - Start a questline *exclusive* to **Mercy**. 
  > - Flee, regenerate a portion of their health, and attack you if encountered again.
  > - Immediately regenerate a portion of their health, and attack you again.
  > - Kill themselves.

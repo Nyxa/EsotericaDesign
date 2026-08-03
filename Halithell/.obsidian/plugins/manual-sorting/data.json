@@ -23,7 +23,7 @@
       "_Templates/Dummy.md"
     ],
     "Characters": [
-      "Characters/Altire",
+      "Characters/Alarine",
       "Characters/Esteria",
       "Characters/Maylith",
       "Characters/Niandes",
@@ -32,7 +32,7 @@
       "Characters/Kurotsuchi Akira.md",
       "Characters/Umbra.md"
     ],
-    "Characters/Altire": [],
+    "Characters/Alarine": [],
     "Characters/Esteria": [
       "Characters/Esteria/Ellore Mantell.md",
       "Characters/Esteria/Nemilla Aeltor.md"
@@ -63,6 +63,9 @@
       "Gameplay/Bosses/General Boss Mechanics.md"
     ],
     "Gameplay/Bosses/Anomaly": [
+      "Gameplay/Bosses/Anomaly/Elphira - Erathel ~ Land's Edge.md",
+      "Gameplay/Bosses/Anomaly/Elphira - Neketh ~ Primeval Ophid.md",
+      "Gameplay/Bosses/Anomaly/Elphira - Ophelia ~ Mistress of Puppets.md",
       "Gameplay/Bosses/Anomaly/Veralis - Hakti ~ Silverscale Tempest.md",
       "Gameplay/Bosses/Anomaly/Veralis - Lady Lazuli ~ The Gemspinner.md",
       "Gameplay/Bosses/Anomaly/Veralis - Lochbeast Arketh.md",
@@ -74,9 +77,6 @@
       "Gameplay/Bosses/Anomaly/Edivius - Heart Embers of the Igneous Lord.md",
       "Gameplay/Bosses/Anomaly/Edivius - Remali ~ Frostouch Maiden.md",
       "Gameplay/Bosses/Anomaly/Edivius - The Great Shendala ~ Orator.md",
-      "Gameplay/Bosses/Anomaly/Elvira - Erathel ~ Land's Edge.md",
-      "Gameplay/Bosses/Anomaly/Elvira - Neketh ~ Primeval Ophid.md",
-      "Gameplay/Bosses/Anomaly/Elvira - Ophelia ~ Mistress of Puppets.md",
       "Gameplay/Bosses/Anomaly/Exulas - Aosi ~ Wailing Willow.md",
       "Gameplay/Bosses/Anomaly/Exulas - Callisse ~ Blood Matron.md",
       "Gameplay/Bosses/Anomaly/Exulas - Shed of Many Doors.md",
