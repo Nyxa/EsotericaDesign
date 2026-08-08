@@ -216,8 +216,8 @@
       "Halithell/Gameplay/Systems/Player/Special Combos.md"
     ],
     "Halithell/Lore": [
-      "Halithell/Lore/Eiare",
-      "Halithell/Lore/Hollow Lattice"
+      "Halithell/Lore/The Lattice",
+      "Halithell/Lore/Eiare"
     ],
     "Halithell/Lore/Eiare": [
       "Halithell/Lore/Eiare/Clans",
@@ -232,18 +232,19 @@
       "Halithell/Lore/Eiare/Clans/Niandes Clan.md",
       "Halithell/Lore/Eiare/Clans/Saeris.md"
     ],
-    "Halithell/Lore/Hollow Lattice": [
-      "Halithell/Lore/Hollow Lattice/Attunement Test.md",
-      "Halithell/Lore/Hollow Lattice/Awakening.md",
-      "Halithell/Lore/Hollow Lattice/Ethereal Vault.md",
-      "Halithell/Lore/Hollow Lattice/Hollow Lattice.md",
-      "Halithell/Lore/Hollow Lattice/Hollow Nexus.md",
-      "Halithell/Lore/Hollow Lattice/Injector.md",
-      "Halithell/Lore/Hollow Lattice/Nahla.md",
-      "Halithell/Lore/Hollow Lattice/Nahvael.md",
-      "Halithell/Lore/Hollow Lattice/Qualia.md",
-      "Halithell/Lore/Hollow Lattice/Remnant.md",
-      "Halithell/Lore/Hollow Lattice/Ripple.md"
+    "Halithell/Lore/The Lattice": [
+      "Halithell/Lore/The Lattice/Attunement Test.md",
+      "Halithell/Lore/The Lattice/Awakening.md",
+      "Halithell/Lore/The Lattice/Ethereal Vault.md",
+      "Halithell/Lore/The Lattice/Hollow Lattice.md",
+      "Halithell/Lore/The Lattice/Hollow Nexus.md",
+      "Halithell/Lore/The Lattice/Injector.md",
+      "Halithell/Lore/The Lattice/Nahla.md",
+      "Halithell/Lore/The Lattice/Nahvael.md",
+      "Halithell/Lore/The Lattice/Original Being.md",
+      "Halithell/Lore/The Lattice/Qualia.md",
+      "Halithell/Lore/The Lattice/Remnant.md",
+      "Halithell/Lore/The Lattice/Ripple.md"
     ],
     "Halithell/Meta": [
       "Halithell/Meta/Ideas",
@@ -267,22 +268,12 @@
       "Halithell/Meta/Research/Dummy.md"
     ],
     "Halithell/Narrative": [
-      "Halithell/Narrative/Antithesis",
+      "Halithell/Narrative/Opulent Antithesis",
       "Halithell/Narrative/Daughter of Eiare",
       "Halithell/Narrative/Golden Heart, Azulite Soul",
       "Halithell/Narrative/Little Artificer",
       "Halithell/Narrative/Silverscale Echoes",
       "Halithell/Narrative/The Eighth Sephyr"
-    ],
-    "Halithell/Narrative/Antithesis": [
-      "Halithell/Narrative/Antithesis/Act I ~ Lumina.md",
-      "Halithell/Narrative/Antithesis/Act II ~ Divine City Slums.md",
-      "Halithell/Narrative/Antithesis/Act III ~ Malicis' Miasma.md",
-      "Halithell/Narrative/Antithesis/Act IV ~ Elvira, the Sunken Capital.md",
-      "Halithell/Narrative/Antithesis/Act Nil ~ Orthurys.md",
-      "Halithell/Narrative/Antithesis/Act V ~ Avalia's Pristine Castle.md",
-      "Halithell/Narrative/Antithesis/Act VI ~ Clockwork Château.md",
-      "Halithell/Narrative/Antithesis/Act VII ~ Magnum Opus.md"
     ],
     "Halithell/Narrative/Daughter of Eiare": [
       "Halithell/Narrative/Daughter of Eiare/Act I ~ Divine General.md",
@@ -294,6 +285,16 @@
     ],
     "Halithell/Narrative/Little Artificer": [
       "Halithell/Narrative/Little Artificer/Act I ~ A Bitsy Request.md"
+    ],
+    "Halithell/Narrative/Opulent Antithesis": [
+      "Halithell/Narrative/Opulent Antithesis/Act I ~ Lumina.md",
+      "Halithell/Narrative/Opulent Antithesis/Act II ~ Divine City Slums.md",
+      "Halithell/Narrative/Opulent Antithesis/Act III ~ Malicis' Miasma.md",
+      "Halithell/Narrative/Opulent Antithesis/Act IV ~ Elvira, the Sunken Capital.md",
+      "Halithell/Narrative/Opulent Antithesis/Act Nil ~ Orthurys.md",
+      "Halithell/Narrative/Opulent Antithesis/Act V ~ Avalia's Pristine Castle.md",
+      "Halithell/Narrative/Opulent Antithesis/Act VI ~ Clockwork Château.md",
+      "Halithell/Narrative/Opulent Antithesis/Act VII ~ Magnum Opus.md"
     ],
     "Halithell/Narrative/Silverscale Echoes": [
       "Halithell/Narrative/Silverscale Echoes/Act I ~ The Blind.md"
@@ -324,8 +325,15 @@
       "La Tatuana/Characters/Mr. Californian.md"
     ],
     "La Tatuana/Characters/Alma Santos": [
+      "La Tatuana/Characters/Alma Santos/Injectors",
       "La Tatuana/Characters/Alma Santos/Appearance.md",
       "La Tatuana/Characters/Alma Santos/General.md"
+    ],
+    "La Tatuana/Characters/Alma Santos/Injectors": [
+      "La Tatuana/Characters/Alma Santos/Injectors/Eleven Hands of a Profane Trinity.md",
+      "La Tatuana/Characters/Alma Santos/Injectors/Hand of Antithesis.md",
+      "La Tatuana/Characters/Alma Santos/Injectors/Hand of Reprisal.md",
+      "La Tatuana/Characters/Alma Santos/Injectors/Hand of Serenity.md"
     ],
     "La Tatuana/Lore": [
       "La Tatuana/Lore/Organizations",

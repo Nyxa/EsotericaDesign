@@ -26,12 +26,12 @@ Her final Injector is called Vindicta, and it is an Imbued Fetish of Mikayla's T
 Angelus Mortis sees Alma's abilities greatly enhanced, and it drastically upgrades her other Injectors as well.
 
 - Caerulea will instantly restore her to full health (as aging is a disease, if she were to use this while old, she would turn young again.) This happens once at the moment of activation, after which Caerulea will continue to operate as it usually does.
-- Vespera gains the ability to transform into either a melee or ranged weapon. The melee weapon may be used indefinitely, whilst the ranged weapon is a sawn-off shotgun with limited ammo. The shotgun is completely silent, yet can blow multiple targets to pieces at close to medium range. 
+- Vespera gains the ability to transform into either a melee or ranged weapon. The melee weapon may be used indefinitely, whilst the ranged weapon is a sawn-off shotgun with exactly 7 shots. The shotgun is completely silent, yet can blow multiple targets to pieces at close to medium range. 
     - She may also exchange the ammo for "shadow ordnance."
-- Aurora also gains the ability to transform into either a melee or ranged weapon. The ranged weapon is a pistol with a massive barrel, which may shoot powerful beams of light. Its ammo is also limited.
+- Aurora also gains the ability to transform into either a melee or ranged weapon. The ranged weapon is a pistol with a massive barrel, which may shoot powerful beams of light. It contains exactly 33 shots.
     - She may also exchange the ammo for "light-based ordnance."
 
-Lastly, she also gains access to a special weapon, named Cold Case - a sniper rifle which can see through walls, and which may be fed a single target. Upon being fired, it emits a bullet that can exclusively interact with the target. It will ignore air drag and other physical objects, penetrate its target, and then disappear. It has a range of 33 kilometers, and contains a single bullet.
+Lastly, she also gains access to a special weapon, named Cold Case - a sniper rifle which can see through walls, and which may be fed a single target. Upon being fired, it emits a bullet that can exclusively interact with the target. It will ignore air drag and other physical objects, penetrate its target, and then disappear. It has a range of 33.7 kilometers, and contains a single bullet.
 
 Using Cold Case ends Angelus Mortis immediately. She may also hold onto it even after Angelus Mortis' duration has expired. Activating Angelus Mortis again would not give her another bullet - the previous one would simply be wasted.
 
@@ -119,7 +119,3 @@ After her self-obliteration, Caerulea will restore her in fixed segments:
 - Her nerves restored over 33 hours
 - Her mind restored over 33 minutes
 - Her will restored after 33 seconds.
-
-
-
-

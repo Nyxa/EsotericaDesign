@@ -1,3 +1,4 @@
+
 <h1><center>Awakening </center></h1>
 ***
 **Awakening** describes the progression of an entity's [[Hollow Nexus]], separating it into different *degrees* which describe the following traits and capabilities:

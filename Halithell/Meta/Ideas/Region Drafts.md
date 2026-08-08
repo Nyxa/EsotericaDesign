@@ -2,10 +2,10 @@
 ***
 This document contains some simple descriptions of the visual profile and "overall vibe" of the different regions of Eiare. This is just a quick draft, for referential purposes. More elaborate descriptions go in their appropriate sector.
 
-### Lumina
+### Veralis
    - "Sparkly and shiny, brimming with nature and wonder, with traces of tragedy scattered throughout"
-   - I think Lumina should be this thing that appears to be beautiful and magical at first glance, but when you look deeper, you realize it's the overgrowth of a war-torn land poisoned by corruption. I hope it will inspire a sense of wanting to bring it back to its full, lush glory.
-   - To this end, Oscura serves a fantastic purpose in showing that Lumina is "losing its light."
+   - I think Veralis should be this thing that appears to be beautiful and magical at first glance, but when you look deeper, you realize it's the overgrowth of a war-torn land poisoned by corruption. I hope it will inspire a sense of wanting to bring it back to its full, lush glory.
+   - To this end, Hollowgloam serves a fantastic purpose in showing that Veralis is "losing its light."
 
 ### Avalia 
    - "Regal and elegant, prosperous city invocative of a fantasy version of the Roman Empire and the ancient Greeks, utterly consumed by corruption"
@@ -26,7 +26,7 @@ This document contains some simple descriptions of the visual profile and "overa
    - To compensate for Malicis Miasma being an entire area that gets removed from the game after completion, Malicis itself has to be fairly small and simple. 
    - But we can make use of the shape of the islands to allow this to be a place from where you can view the entirety of the crescent-shaped Avalia.
 
-### Elvira
+### Elphira
    - "An underground technological wasteland. The clear remains of what once was a civilisation far more advanced than whatever could be found on Avalia, actively being consumed by the maw of the seas."
    - Elvira can be distinct by virtue of having Esterian technology, since Elvira was an Esterian city. We can showcase here just how much valuable stuff was lost by the calamities, and it will give players a sense of scale for the damages done.
 

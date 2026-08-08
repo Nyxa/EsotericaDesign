@@ -1,6 +1,6 @@
 <center><h1>Umbra: the Remnant</h1><h4>Touch of the Nullgazer</h4></center>
 ***
-**Touch of the Nullgazer** is a planned **expansion** for the **Umbra: the Remnant** base game.
+**Touch of the Nullgazer** is a planned **expansion** for the **Halithell** base game.
 
 It features three new regions, two of them being within the mysterious [[Calmerra]] that is mentioned in the lore so often in the base game.
 

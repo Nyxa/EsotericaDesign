@@ -16,11 +16,14 @@ Ixchel meets Humberto
 ###### September 3, 2000
 Alma's grandfather is murdered.
 
-###### March 2003
+###### April 2003
 Alma moves to the UK with her father.
 
-###### May 7, 2010
+###### March 3, 2007
 **Mikayla is murdered**.
+
+##### December 2012
+The Schism occurs
 
 ###### September 2013
 Orthurys and Sallerys attach to Eiare.

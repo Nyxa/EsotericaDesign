@@ -9,12 +9,9 @@ Akira teaches Alma that underneath the physics of the world lies an intricate sy
 
 Alma has two primary goals.
 
-First, she wants revenge for her best friend. Initially, she just wants to take out the two guys responsible, but after a very bloody search for the culprits, she finds out that they are already dead. In the midst of her frustration, she is offered a job to work as an assassin 
+First, she wants revenge for her best friend. Initially, she just wants to take out the two guys responsible, but after a very bloody search for the culprits, she finds out that they are already dead. In the midst of her frustration, she is offered a job to work as an assassin for an Italian crime family, **Petrucci**. 
 
-Second, she wants to find her mother Ixchel, who is an extremely low profile criminal who leads the Yaxche Syndicate; headquartered in Totonicapán, Guatemala. Alma knows nothing about her mother; only her first name.
+Second, she wants to find her mother Ixchel, who is an extremely low profile criminal who leads the **Yaxche Syndicate**; headquartered in *Totonicapán, Guatemala*. Alma knows nothing about her mother; only her name. She has a single picture of her mother when she was young, and is the spitting image of her. 
 
+Havushe wants to catch Alma and is afforded a level of resources no Interpol agent prior to her has ever been granted. She vastly outclasses Alma on an intellectual level, even quickly operating under the assumption that the culprit must possess extraordinary technology or supernatural abilities from the get-go. Havushe's strategy primarily revolves around testing and understanding the capabilities of the culprit before truly moving towards an arrest, because she cannot reason about that which she does not understand. 
 
-
-
-
-Havushe wants to catch Alma and is afforded a level of resources no Interpol agent prior to her has ever been granted.

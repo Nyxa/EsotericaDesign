@@ -39,13 +39,13 @@ Awakening: [Aun Deva](Awakening.md)
 	- Comprised of four different "Realms" that trap opponents in environments with specific effects.
 	- These effects are all combinations of abilities of enemies Akira has faced in the past.
 	- Each Realm is named after a Heavenly King:
-		- He Whose Ears Discern All Lies, *Bishamonten* 
+		- **Lightless Rain of the North King** *~* He Whose Ears Discern All Lies, *Bishamonten* 
 			- There is no light. It is raining. Any who dare speak shall drown in their spit.
-		- He Whose Winds Bring Forth All Roots, *Zōjōten* 
+		- **Life-bringing Sword of the South King** *~* He Whose Winds Bring Forth All Roots, *Zōjōten* 
 			- The sky is blue. Winds periodically blow through the realm. When they do, one must stand still, or they will have their feet eaten by the ground, and slowly turn into a plant.
-		- He Whose Strings Uphold The Realm, *Jikokuten* 
+		- **Eternal Dance of the East King** *~* He Whose Strings Uphold The Realm, *Jikokuten* 
 			- Music plays in the realm. One must continuously move. Those that cease moving will go insane, and continuously hallucinate being eaten limb-first by a giant white Buddha, until they die of stress.
-		- He Whose Gaze Sees Through The Veil, *Kōmokuten*
+		- **Red Snake of the West King** *~* He Whose Gaze Sees Through The Veil, *Kōmokuten*
 			- The sky is red. All sound is gone. There is a yellow eye in the sky, shining a beam down unto the ground. Those caught within the beam are immersed in Corvesse's **Flames of Penance**, until they die of sleep deprivation.
 
 - **Susanoo-no-Mikoto**
