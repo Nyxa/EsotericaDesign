@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Halithell/Lore/The Lattice/Awakening.md",
-                "mode": "source",
+                "file": "Halithell/Gameplay/Bosses/Vortex/Carmilla ~ Sanguine Cinder.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Awakening"
+              "title": "Carmilla ~ Sanguine Cinder"
             }
           },
           {
@@ -182,10 +182,19 @@
   },
   "active": "24ce5dab886d7e7a",
   "lastOpenFiles": [
+    "Halithell/Lore/The Lattice/Attunement Test.md",
+    "Halithell/Gameplay/Bosses/Vortex/Alace Vansonia ~ Nightmare of Avalia.md",
+    "Halithell/Gameplay/Bosses/Vortex/AMOS-11 Ashdyr ~ Thousand-Blade Sentinel.md",
+    "Halithell/Gameplay/Bosses/Boss Title Sequence.md",
+    "Halithell/Gameplay/Systems/Player/Special Combos.md",
+    "Halithell/Gameplay/Systems/Player/Exploration.md",
+    "Halithell/Gameplay/Systems/Player/Combat.md",
+    "Halithell/Characters/Umbra.md",
+    "Halithell/Characters/Kayanna Litchi.md",
+    "Halithell/Characters/Kurotsuchi Akira.md",
+    "Halithell/Lore/The Lattice/Awakening.md",
     "Halithell/Lore/The Lattice/Original Being.md",
     "Halithell/Lore/The Lattice/Remnant.md",
-    "Halithell/Characters/Umbra.md",
-    "Halithell/Characters/Kurotsuchi Akira.md",
     "Halithell/Narrative/Opulent Antithesis/Act Nil ~ Orthurys.md",
     "Halithell/Narrative/Opulent Antithesis/Act I ~ Lumina.md",
     "Halithell/Narrative/Opulent Antithesis/Act II ~ Divine City Slums.md",
@@ -197,19 +206,10 @@
     "Halithell/Narrative/Opulent Antithesis",
     "Halithell/Gameplay/Bosses/Demigod/Akira ~ The Demon of Hiraizumi.md",
     "Halithell/Characters/Dance of the Flowing Lily.md",
-    "Halithell/Characters/Kayanna Litchi.md",
     "La Tatuana/Characters/Alma Santos/General.md",
     "Halithell/Gameplay/Regions/Exulas, Gloaming Wastes/2. NPC.md",
     "Halithell/Meta/Workflow.md",
-    "La Tatuana/Characters/Alma Santos/Injectors/Hand of Serenity.md",
-    "La Tatuana/Characters/Alma Santos/Injectors/Hand of Antithesis.md",
-    "La Tatuana/Characters/Alma Santos/Injectors/Hand of Reprisal.md",
-    "La Tatuana/Characters/Alma Santos/Injectors/Eleven Hands of a Profane Trinity.md",
     "La Tatuana/Characters/Alma Santos/Injectors",
-    "La Tatuana/Characters/Alma Santos/Appearance.md",
-    "Gameplay/Bosses/Anomaly/Elphira - Neketh ~ Primeval Ophid.md",
-    "Gameplay/Bosses/Anomaly/Elphira - Erathel ~ Land's Edge.md",
-    "Gameplay/Bosses/Anomaly/Edivius - The Great Shendala ~ Orator.md",
     "Lore/Untitled",
     "Lore/Hollow Lattice",
     "Lore/Eiare",

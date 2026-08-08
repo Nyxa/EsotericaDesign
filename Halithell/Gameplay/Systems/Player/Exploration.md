@@ -1,6 +1,8 @@
 
 <h1><center>Exploration</center></h1>
+
 ***
+
 This document contains all exploration-specific systems available to the player. It does *not* take into account progression order, and instead details the *total* amount of combat systems that will be available throughout the game.
 
 

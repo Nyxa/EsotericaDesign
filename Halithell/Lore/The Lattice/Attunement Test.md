@@ -1,6 +1,7 @@
 
 <h1><center>Attunement Test</center></h1>
-***
+
+---
 Performed by holding a piece of **charcoal** and channeling **Energy** into it. 
 
 Students who are discovering their **Attunement** are told to channel enough Energy into their charcoal to ignite it. 

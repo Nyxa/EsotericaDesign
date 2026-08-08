@@ -1,0 +1,351 @@
+/* ==========================================================================
+   Reading Mode / Live Preview parity patch for the "Obsidianite" theme.
+
+   Root cause: Obsidianite's editor-mode rules are written against the old
+   CodeMirror 5 editor (selectors prefixed with `.cm-s-obsidian` and
+   `.CodeMirror-line`). Current Obsidian uses CodeMirror 6, which never
+   generates those wrapper classes, so every rule scoped under them is dead
+   code — it silently matches nothing. That's why links, hashtags, inline
+   code, highlights, and code-fence colors look styled in Reading Mode but
+   plain/default in Live Preview (Edit Mode).
+
+   This snippet re-implements those same rules with valid CM6 selectors so
+   both modes render the same way. Loads after theme.css (snippets always
+   win), so no need to touch the theme itself.
+   ========================================================================== */
+
+/* ---- Links: restore underline colors + hover state ---- */
+.markdown-source-view.mod-cm6 span.cm-link:not(.cm-formatting-link) .cm-underline,
+.markdown-source-view.mod-cm6 span.cm-hmd-internal-link .cm-underline {
+  color: var(--text-normal);
+  -webkit-text-fill-color: #f4569d;
+  background-position: 0 100%;
+  background-repeat: repeat-x;
+  background-size: 5px 5px;
+  text-decoration: none;
+}
+
+.markdown-source-view.mod-cm6 span.cm-formatting-link {
+  color: var(--text-faint) !important;
+  opacity: 0.25;
+}
+
+.markdown-source-view.mod-cm6 span.cm-link:not(.cm-formatting-link) .cm-underline {
+  background-image: linear-gradient(
+    to bottom,
+    var(--bg-sub-accent-55) 0%,
+    var(--bg-sub-accent-55) 100%
+  );
+}
+
+.markdown-source-view.mod-cm6 span.cm-hmd-internal-link .cm-underline {
+  background-image: linear-gradient(to bottom, var(--bg-accent-55) 0%, var(--bg-accent-55) 100%);
+  transition: background 350ms ease-in-out;
+}
+
+.markdown-source-view.mod-cm6 span.cm-hmd-internal-link .cm-underline:hover {
+  -webkit-text-fill-color: #f72c81c2;
+  color: #fff;
+  background-size: 4px 50px;
+  text-decoration-line: none !important;
+}
+
+.markdown-source-view.mod-cm6 span.cm-link:not(.cm-formatting-link) .cm-underline:hover {
+  -webkit-text-fill-color: #fff;
+  color: #fff;
+  background-size: 4px 50px;
+  text-decoration-line: none !important;
+}
+
+/* ---- Hashtags: restore accent color/italic + pill background ---- */
+.markdown-source-view.mod-cm6 span.cm-hashtag {
+  position: relative;
+  color: var(--text-accent);
+  opacity: 1;
+  font-family: var(--tag-font-family);
+  font-style: italic;
+  text-decoration: none;
+  font-size: 0.86rem;
+  font-weight: 500;
+  background-color: var(--tag-background);
+}
+
+.markdown-source-view.mod-cm6 span.cm-hashtag-begin {
+  padding-left: var(--tag-padding-x);
+  border-top-left-radius: var(--tag-radius);
+  border-bottom-left-radius: var(--tag-radius);
+}
+
+.markdown-source-view.mod-cm6 span.cm-hashtag-end {
+  padding-right: var(--tag-padding-x);
+  border-top-right-radius: var(--tag-radius);
+  border-bottom-right-radius: var(--tag-radius);
+}
+
+.markdown-source-view.mod-cm6 span.cm-hashtag:hover {
+  text-decoration-line: underline;
+  text-decoration-color: var(--text-accent);
+}
+
+.markdown-source-view.mod-cm6 span.cm-formatting-hashtag {
+  color: var(--text-faint);
+  background-color: transparent;
+}
+
+/* ---- Inline code: restore cyan tint ---- */
+.markdown-source-view.mod-cm6
+  span.cm-inline-code:not(.cm-formatting):not(.cm-hmd-indented-code):not(
+    .obsidian-search-match-highlight
+  ) {
+  overflow-wrap: break-word;
+  background-color: rgba(14, 210, 247, 0.05);
+  word-wrap: break-word;
+  padding: 0 5px;
+  border-radius: 0.3rem;
+  color: rgba(14, 210, 247, 0.9) !important;
+}
+
+.markdown-source-view.mod-cm6 span.cm-inline-code.cm-formatting-code {
+  display: inline-flex;
+  min-width: 0.55rem;
+}
+
+/* ---- Highlight (==mark==): restore pink background ---- */
+.markdown-source-view.mod-cm6 span.cm-formatting-highlight,
+.markdown-source-view.mod-cm6 span.cm-highlight {
+  background-image: none !important;
+  background-color: var(--text-highlight-bg);
+  color: #fff;
+  -webkit-text-fill-color: #fff;
+  -webkit-background-clip: initial;
+}
+
+/* ---- List marker + front-matter token colors ---- */
+.markdown-source-view.mod-cm6 span.cm-formatting-list {
+  color: var(--text-accent);
+}
+
+.markdown-source-view.mod-cm6 span.cm-def,
+.markdown-source-view.mod-cm6 span.cm-atom {
+  color: var(--text-faint);
+}
+
+.markdown-source-view.mod-cm6 span.cm-meta {
+  color: var(--text-accent);
+}
+
+.markdown-source-view.mod-cm6 span.cm-string {
+  color: var(--text-sub-accent);
+}
+
+/* ---- Code fence language flair badge ---- */
+.markdown-source-view.mod-cm6 span.code-block-flair:not(:empty) {
+  color: var(--text-accent);
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 0.6rem;
+  background: rgba(16, 14, 23, 0.86);
+  border-radius: 8px;
+  padding: 0.1em 0.8em;
+  margin-top: 0.3rem;
+  margin-right: 0.3rem;
+}
+
+/* ---- Code fence background (match Reading Mode's dark panel) ---- */
+.markdown-source-view.mod-cm6 pre.HyperMD-codeblock {
+  color: var(--text-sub-accent);
+}
+
+.markdown-source-view.mod-cm6 div.HyperMD-codeblock-bg {
+  background-color: #191621;
+}
+
+.markdown-source-view.mod-cm6 div.HyperMD-codeblock-begin-bg {
+  border-top-left-radius: 0.3em;
+  border-top-right-radius: 0.3em;
+  border: none;
+}
+
+.markdown-source-view.mod-cm6 div.HyperMD-codeblock-begin-bg:before {
+  position: absolute;
+  content: '';
+  top: -5%;
+  left: 0;
+  width: 100%;
+  height: 60%;
+  margin-top: 1.5em;
+  border-top-left-radius: 0.3em;
+  border-top-right-radius: 0.3em;
+  background-color: #191621;
+}
+
+.markdown-source-view.mod-cm6 div.HyperMD-codeblock-end-bg {
+  border-bottom-left-radius: 0.3em;
+  border-bottom-right-radius: 0.3em;
+  border: none;
+}
+
+/* ---- Embedded images: match Reading Mode's rounded corners ---- */
+.markdown-source-view.mod-cm6 img {
+  border-radius: 8px;
+}
+
+/* ---- Code fence syntax colors (Dracula palette, matches Reading Mode's Prism theme) ---- */
+.theme-dark .markdown-source-view.mod-cm6 pre.HyperMD-codeblock span.cm-comment {
+  color: #6272a4;
+}
+.theme-dark .markdown-source-view.mod-cm6 pre.HyperMD-codeblock span.cm-string,
+.theme-dark .markdown-source-view.mod-cm6 pre.HyperMD-codeblock span.cm-string-2 {
+  color: #f1fa8c;
+}
+.theme-dark .markdown-source-view.mod-cm6 pre.HyperMD-codeblock span.cm-number {
+  color: #bd93f9;
+}
+.theme-dark .markdown-source-view.mod-cm6 pre.HyperMD-codeblock span.cm-variable {
+  color: #50fa7b;
+}
+.theme-dark .markdown-source-view.mod-cm6 pre.HyperMD-codeblock span.cm-variable-2 {
+  color: white;
+}
+.theme-dark .markdown-source-view.mod-cm6 pre.HyperMD-codeblock span.cm-def {
+  color: #50fa7b;
+}
+.theme-dark .markdown-source-view.mod-cm6 pre.HyperMD-codeblock span.cm-operator,
+.theme-dark .markdown-source-view.mod-cm6 pre.HyperMD-codeblock span.cm-keyword {
+  color: #ff79c6;
+}
+.theme-dark .markdown-source-view.mod-cm6 pre.HyperMD-codeblock span.cm-atom {
+  color: #bd93f9;
+}
+.theme-dark .markdown-source-view.mod-cm6 pre.HyperMD-codeblock span.cm-meta {
+  color: #f8f8f2;
+}
+.theme-dark .markdown-source-view.mod-cm6 pre.HyperMD-codeblock span.cm-tag {
+  color: #ff79c6;
+}
+.theme-dark .markdown-source-view.mod-cm6 pre.HyperMD-codeblock span.cm-attribute,
+.theme-dark .markdown-source-view.mod-cm6 pre.HyperMD-codeblock span.cm-qualifier {
+  color: #50fa7b;
+}
+.theme-dark .markdown-source-view.mod-cm6 pre.HyperMD-codeblock span.cm-property {
+  color: #66d9ef;
+}
+.theme-dark .markdown-source-view.mod-cm6 pre.HyperMD-codeblock span.cm-builtin {
+  color: #50fa7b;
+}
+.theme-dark .markdown-source-view.mod-cm6 pre.HyperMD-codeblock span.cm-variable-3,
+.theme-dark .markdown-source-view.mod-cm6 pre.HyperMD-codeblock span.cm-type {
+  color: #ffb86c;
+}
+
+/* ==========================================================================
+   Heading underline: you like Live Preview's version (a thin line that
+   fades from accent color to nothing) — Reading Mode instead draws a
+   thick, fully-opaque rainbow gradient across the whole width. Bring
+   Reading Mode's h2-h6 underline down to match Live Preview's version
+   instead of the other way around.
+   ========================================================================== */
+.markdown-preview-view h2,
+.markdown-preview-view h3,
+.markdown-preview-view h4,
+.markdown-preview-view h5,
+.markdown-preview-view h6 {
+  border-width: 1px !important;
+  border-image-source: linear-gradient(
+    to right,
+    var(--text-sub-accent),
+    var(--background-primary),
+    var(--background-primary),
+    var(--background-primary)
+  ) !important;
+  /* Reading Mode's theme rule adds margin: 45px 0 20px 0 + padding-bottom: 10px
+     around headings (~75px of total gap). Live Preview's HyperMD-header just
+     uses padding: 20px on the line, so it's far tighter. Match that. */
+  margin: 2.5em 0 1px 0 !important;
+  padding-bottom: 1px !important;
+}
+
+/* Reading Mode renders h2-h6 noticeably larger than Live Preview's
+   .cm-header-N despite theme.css declaring the same px values for both —
+   something with higher priority is inflating it. Force explicit sizes on
+   both so they can't drift apart again. */
+.markdown-preview-view h2,
+.markdown-source-view.mod-cm6 h2 {
+  font-size: 22px !important;
+}
+.markdown-preview-view h3,
+.markdown-source-view.mod-cm6 h3 {
+  font-size: 19px !important;
+}
+.markdown-preview-view h4,
+.markdown-preview-view h5,
+.markdown-preview-view h6,
+.markdown-source-view.mod-cm6 h4,
+.markdown-source-view.mod-cm6 h5,
+.markdown-source-view.mod-cm6 h6 {
+  font-size: 16px !important;
+}
+
+/* Paragraphs themselves carry their own top+bottom margin in Reading Mode
+   (Obsidian core default, not something this theme sets) — that margin
+   stacks with a heading's own margin/padding on both sides of it. Live
+   Preview's .cm-line paragraphs have no such margin, just line-height. Kill
+   the top margin and shrink the bottom margin so paragraph-to-heading and
+   paragraph-to-paragraph gaps stop compounding. */
+.markdown-preview-view p {
+  margin-top: 0.3em !important;
+  margin-bottom: 1.1em !important;
+}
+
+/* The remaining gap after the divider isn't the heading's — it's the top
+   margin Reading Mode puts on whatever block follows (.el-p, .el-ul, etc).
+   Live Preview has no such margin between lines, so zero it out here too. */
+.markdown-preview-view .el-h2 + div,
+.markdown-preview-view .el-h3 + div,
+.markdown-preview-view .el-h4 + div,
+.markdown-preview-view .el-h5 + div,
+.markdown-preview-view .el-h6 + div,
+.markdown-preview-view h2 + p,
+.markdown-preview-view h3 + p,
+.markdown-preview-view h4 + p,
+.markdown-preview-view h5 + p,
+.markdown-preview-view h6 + p {
+  margin-top: 0 !important;
+}
+
+/* ---- Title (h1): Live Preview shows it in the plain default text color
+   because raw <h1> HTML doesn't get the .cm-header-1 color rule. Match
+   Reading Mode's h1 to that plain color instead of the theme's accent cyan.
+   Same story for size: Reading Mode's 34px comes from a rule that only
+   matches markdown-syntax headers, not raw <h1> HTML, so raw titles render
+   at Reading Mode's larger default instead. Pin both modes to one explicit
+   size so raw <h1> titles (used across ~96 notes) match everywhere.
+   Tweak this number if it's still not quite right. ---- */
+.markdown-preview-view h1 {
+  color: var(--text-normal) !important;
+}
+
+.markdown-preview-view h1,
+.markdown-source-view.mod-cm6 h1 {
+  font-size: 28px !important;
+}
+
+/* ==========================================================================
+   Link color: Live Preview's internal/external links render pink (the
+   editor's un-themed default), while Reading Mode's theme override renders
+   them cyan-ish instead. Force Reading Mode's link color to match what you
+   see in Live Preview.
+   ========================================================================== */
+.markdown-preview-view a.internal-link,
+.markdown-preview-view a.external-link {
+  color: var(--text-sub-accent) !important;
+  -webkit-text-fill-color: var(--text-sub-accent) !important;
+}
+
+/* ---- Divider (hr): theme.css already shares this rule between both modes
+   (4em margin top+bottom), so halving it here keeps them in sync. ---- */
+.cm-line hr,
+.markdown-preview-view hr {
+  margin-block-start: 2em !important;
+  margin-block-end: 2em !important;
+}
