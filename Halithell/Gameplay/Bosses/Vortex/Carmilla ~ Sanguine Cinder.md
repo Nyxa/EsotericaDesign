@@ -7,7 +7,7 @@
 **Attunement**: [Oscillium](Qualia.md#**Oscillium**)
 **Class**: [Vortex](General%20Boss%20Mechanics.md#Vortex)
 **Heritage**: [Niandes Clan](Niandes%20Clan.md)
-**Related Clans**: [Akhanti Clan](Akhanti%20Clan.md), [Avalia](Avalia.md), [Esteria](Esteria.md)
+**Related Clans**: [Ictina](Ictina.md), [Avalia](Avalia.md), [Esteria](Esteria.md)
 
 ### Narrative Summary
 **Carmilla** is, in actuality, **Akhanti**, the daughter of **Igneous Lord Niandes** and his wife, **Chelnayah**, both worshiped by the **Niandes** tribe after attaining mythical status over creating their fabled golden **Heartflame**, and azure **Soulflame**, also known as the **Divine Embers**.

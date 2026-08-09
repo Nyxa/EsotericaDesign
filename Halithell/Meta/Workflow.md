@@ -8,7 +8,7 @@
 The **Gameplay** section includes information on gameplay systems & mechanics, boss fights, explorable areas, interactable entities, and useable items. Each of these categories is sorted into their own subdirectory, which each have their own subdirectories and slightly different workflow.
 
 #### Regions
-The **Regions** subsection is divided by subfolders for each explorable region within the game. It does *not* include regions which are part of the lore/history of [[Eiare]] but cannot be visited in-game.
+The **Regions** subsection is divided by subfolders for each explorable region within the game. It does *not* include regions which are part of the lore/history of [[Halithell/Lore/The Lattice/Ripples/Depicted/Eiare/Eiare]] but cannot be visited in-game.
 
 Each **Region** folder has two relevant folders: **Points of Interest** and **Subregions**. They also all contain four different files: **Overview**, **NPC**, **Enemies**, and **Notable Miscellanea**. What each of these are for is outlined below.
 

@@ -17,7 +17,7 @@ It would be cool if, as you progress through the game, your **Qualia** gauge sta
 The **Black Dahlia** is a special kind of [[Nahline]] flower that will react strongly to **Umbra**, rapidly growing large when she interacts with it, and serving as a bed where she can replenish her stats, and reform on death.
 
 >[!info]
->The [[Dahliantis]] is a special type of praying mantis that assumes the form of a **Black Dahlia**. They only exist within [[Eiare]] due to the influence of [[Orthurys]].
+>The [[Dahliantis]] is a special type of praying mantis that assumes the form of a **Black Dahlia**. They only exist within [[Halithell/Lore/The Lattice/Ripples/Depicted/Eiare/Eiare]] due to the influence of [[Orthurys]].
 
 
 ### Qualia Droplets

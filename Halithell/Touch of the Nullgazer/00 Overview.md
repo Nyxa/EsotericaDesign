@@ -4,7 +4,7 @@
 
 It features three new regions, two of them being within the mysterious [[Calmerra]] that is mentioned in the lore so often in the base game.
 
-In **Touch of the Nullgazer**, [Umbra](Umbra.md) is met with an invitation from a servant of [[Entreas]] himself; [[Estrella Vachsy]], a [[Deva]] who was sent to [[Eiare]] to gather the resources that were being generated as a result of **Eiare** being attached to two [[Primordial Ripples]].
+In **Touch of the Nullgazer**, [Umbra](Umbra.md) is met with an invitation from a servant of [[Entreas]] himself; [[Estrella Vachsy]], a [[Deva]] who was sent to [[Halithell/Lore/The Lattice/Ripples/Depicted/Eiare/Eiare]] to gather the resources that were being generated as a result of **Eiare** being attached to two [[Primordial Ripples]].
 
 **Estrella** needs **Umbra** to help her out, because she messed up her duties and accidentally spawned two [[Nullgazers]]; [[Halgeth]] and [[Astrophe]]. These **Nullgazers** have severely distorted the land they occupied, and **Estrella** was forced to contain them within a [[barrier]]. 
 

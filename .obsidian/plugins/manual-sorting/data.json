@@ -216,23 +216,10 @@
       "Halithell/Gameplay/Systems/Player/Special Combos.md"
     ],
     "Halithell/Lore": [
-      "Halithell/Lore/The Lattice",
-      "Halithell/Lore/Eiare"
-    ],
-    "Halithell/Lore/Eiare": [
-      "Halithell/Lore/Eiare/Clans",
-      "Halithell/Lore/Eiare/Artifiction.md",
-      "Halithell/Lore/Eiare/Eiare.md"
-    ],
-    "Halithell/Lore/Eiare/Clans": [
-      "Halithell/Lore/Eiare/Clans/Akhanti Clan.md",
-      "Halithell/Lore/Eiare/Clans/Avalia.md",
-      "Halithell/Lore/Eiare/Clans/Esteria.md",
-      "Halithell/Lore/Eiare/Clans/Maylith.md",
-      "Halithell/Lore/Eiare/Clans/Niandes Clan.md",
-      "Halithell/Lore/Eiare/Clans/Saeris.md"
+      "Halithell/Lore/The Lattice"
     ],
     "Halithell/Lore/The Lattice": [
+      "Halithell/Lore/The Lattice/Ripples",
       "Halithell/Lore/The Lattice/Attunement Test.md",
       "Halithell/Lore/The Lattice/Awakening.md",
       "Halithell/Lore/The Lattice/Ethereal Vault.md",
@@ -243,10 +230,31 @@
       "Halithell/Lore/The Lattice/Nahvael.md",
       "Halithell/Lore/The Lattice/Original Being.md",
       "Halithell/Lore/The Lattice/Qualia.md",
-      "Halithell/Lore/The Lattice/Remnant.md",
-      "Halithell/Lore/The Lattice/Ripple.md"
+      "Halithell/Lore/The Lattice/Remnant.md"
+    ],
+    "Halithell/Lore/The Lattice/Ripples": [
+      "Halithell/Lore/The Lattice/Ripples/Known",
+      "Halithell/Lore/The Lattice/Ripples/Depicted",
+      "Halithell/Lore/The Lattice/Ripples/Traversal.md",
+      "Halithell/Lore/The Lattice/Ripples/Ripple.md"
+    ],
+    "Halithell/Lore/The Lattice/Ripples/Depicted": [
+      "Halithell/Lore/The Lattice/Ripples/Depicted/Stralix.md",
+      "Halithell/Lore/The Lattice/Ripples/Depicted/Solipsis.md",
+      "Halithell/Lore/The Lattice/Ripples/Depicted/Earth.md",
+      "Halithell/Lore/The Lattice/Ripples/Depicted/Altire.md",
+      "Halithell/Lore/The Lattice/Ripples/Depicted/Eiare",
+      "Halithell/Lore/The Lattice/Ripples/Depicted/Eiare.md",
+      "Halithell/Lore/The Lattice/Ripples/Depicted/Orthurys.md",
+      "Halithell/Lore/The Lattice/Ripples/Depicted/Sallerys.md"
+    ],
+    "Halithell/Lore/The Lattice/Ripples/Known": [
+      "Halithell/Lore/The Lattice/Ripples/Known/Asvulrah.md",
+      "Halithell/Lore/The Lattice/Ripples/Known/Kamon.md",
+      "Halithell/Lore/The Lattice/Ripples/Known/Nathwynn.md"
     ],
     "Halithell/Meta": [
+      "Halithell/Meta/Software.md",
       "Halithell/Meta/Ideas",
       "Halithell/Meta/Marketing",
       "Halithell/Meta/References",
@@ -254,6 +262,7 @@
       "Halithell/Meta/Workflow.md"
     ],
     "Halithell/Meta/Ideas": [
+      "Halithell/Meta/Ideas/Names.md",
       "Halithell/Meta/Ideas/Megadump.md",
       "Halithell/Meta/Ideas/Region Drafts.md"
     ],
@@ -262,6 +271,8 @@
       "Halithell/Meta/Marketing/The Plan™.md"
     ],
     "Halithell/Meta/References": [
+      "Halithell/Meta/References/Litchi Animation.md",
+      "Halithell/Meta/References/Study Materials.md",
       "Halithell/Meta/References/Dummy.md"
     ],
     "Halithell/Meta/Research": [
@@ -321,7 +332,11 @@
       "La Tatuana/_Templates/Dummy.md"
     ],
     "La Tatuana/Characters": [
-      "La Tatuana/Characters/Santos Family",
+      "La Tatuana/Characters/Antonio Petrucci.md",
+      "La Tatuana/Characters/Kurotsuchi Akira.md",
+      "La Tatuana/Characters/Havushe Neziri.md",
+      "La Tatuana/Characters/Ixchel Marisol Xicará Mendoza.md",
+      "La Tatuana/Characters/Humberto Santos.md",
       "La Tatuana/Characters/Mateo Sosa.md",
       "La Tatuana/Characters/Alma Santos",
       "La Tatuana/Characters/Mr. Californian.md"
@@ -337,7 +352,6 @@
       "La Tatuana/Characters/Alma Santos/Injectors/Hand of Reprisal.md",
       "La Tatuana/Characters/Alma Santos/Injectors/Hand of Serenity.md"
     ],
-    "La Tatuana/Characters/Santos Family": [],
     "La Tatuana/Lore": [
       "La Tatuana/Lore/Organizations",
       "La Tatuana/Lore/The Directory"
@@ -393,6 +407,19 @@
     ],
     "La Tatuana/Narrative/B-Side - Velum Inane": [
       "La Tatuana/Narrative/B-Side - Velum Inane/- Overview.md"
+    ],
+    "Halithell/Lore/The Lattice/Ripples/Depicted/Eiare": [
+      "Halithell/Lore/The Lattice/Ripples/Depicted/Eiare/Clans",
+      "Halithell/Lore/The Lattice/Ripples/Depicted/Eiare/Artifiction.md",
+      "Halithell/Lore/The Lattice/Ripples/Depicted/Eiare/Eiare.md"
+    ],
+    "Halithell/Lore/The Lattice/Ripples/Depicted/Eiare/Clans": [
+      "Halithell/Lore/The Lattice/Ripples/Depicted/Eiare/Clans/Akhanti Clan.md",
+      "Halithell/Lore/The Lattice/Ripples/Depicted/Eiare/Clans/Avalia.md",
+      "Halithell/Lore/The Lattice/Ripples/Depicted/Eiare/Clans/Esteria.md",
+      "Halithell/Lore/The Lattice/Ripples/Depicted/Eiare/Clans/Maylith.md",
+      "Halithell/Lore/The Lattice/Ripples/Depicted/Eiare/Clans/Niandes Clan.md",
+      "Halithell/Lore/The Lattice/Ripples/Depicted/Eiare/Clans/Saeris.md"
     ]
   },
   "sortOrder": "customOrder",

@@ -2,3 +2,5 @@
 - The Mother stirs in her sleep, and worlds bubble up from her nightmares.
 - 0-0=0
 	- Nothing decaying to nothing remains nothing. Nahla cannot cease to exist, and is therefore the only thing which can persist within the Whitevoid.
+- piddle - small cute creature covered in long blue fur
+- 
