@@ -1,0 +1,37 @@
+Below is a list of potential character names
+
+---
+
+- Vera
+- Roxie
+- Wendel
+- Boris
+- Laszlowe
+- Miki
+- Botan
+- Tatyana
+- Chessie
+- Andrick
+- Ivanowskya
+- Toshi
+- Karlyn
+- Dommi
+- Mireille
+- Keshmre
+- Mirow
+- Zorrah
+- Ebo
+- Jahi/Jammi
+- Musa
+- Nepheru
+- Onuri
+- Omari
+- Kiwa
+- Sera
+- Shu
+- Seth
+- Tau
+- Tai Tse Na
+- Oomi
+- Yaya
+- Naomi

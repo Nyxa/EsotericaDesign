@@ -1,6 +1,7 @@
 
 <h1><center>Boss Mechanics</center></h1>
-***
+
+---
 
 ### Class
 Each boss has a classification. This classification determines how many phases they have, what type of [[death]] they induce upon defeating [[Umbra]], and their [[reward bracket]].

@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b0867d0ecc4005cc",
+        "id": "7061716b3049f40a",
         "type": "tabs",
         "children": [
           {
-            "id": "24ce5dab886d7e7a",
+            "id": "9410175255a9f50f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Halithell/Gameplay/Bosses/Vortex/Carmilla ~ Sanguine Cinder.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Carmilla ~ Sanguine Cinder"
-            }
-          },
-          {
-            "id": "0a928f3647c30a88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Halithell/Gameplay/Bosses/Demigod/Akira ~ The Demon of Hiraizumi.md",
+                "file": "Halithell/Meta/Ideas/Names.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Akira ~ The Demon of Hiraizumi"
+              "title": "Names"
             }
           }
         ]
@@ -180,35 +166,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "24ce5dab886d7e7a",
+  "active": "9410175255a9f50f",
   "lastOpenFiles": [
-    "Halithell/Lore/The Lattice/Attunement Test.md",
-    "Halithell/Gameplay/Bosses/Vortex/Alace Vansonia ~ Nightmare of Avalia.md",
-    "Halithell/Gameplay/Bosses/Vortex/AMOS-11 Ashdyr ~ Thousand-Blade Sentinel.md",
-    "Halithell/Gameplay/Bosses/Boss Title Sequence.md",
-    "Halithell/Gameplay/Systems/Player/Special Combos.md",
-    "Halithell/Gameplay/Systems/Player/Exploration.md",
-    "Halithell/Gameplay/Systems/Player/Combat.md",
-    "Halithell/Characters/Umbra.md",
-    "Halithell/Characters/Kayanna Litchi.md",
-    "Halithell/Characters/Kurotsuchi Akira.md",
-    "Halithell/Lore/The Lattice/Awakening.md",
-    "Halithell/Lore/The Lattice/Original Being.md",
-    "Halithell/Lore/The Lattice/Remnant.md",
-    "Halithell/Narrative/Opulent Antithesis/Act Nil ~ Orthurys.md",
-    "Halithell/Narrative/Opulent Antithesis/Act I ~ Lumina.md",
-    "Halithell/Narrative/Opulent Antithesis/Act II ~ Divine City Slums.md",
-    "Halithell/Narrative/Opulent Antithesis/Act III ~ Malicis' Miasma.md",
-    "Halithell/Narrative/Opulent Antithesis/Act IV ~ Elvira, the Sunken Capital.md",
-    "Halithell/Narrative/Opulent Antithesis/Act V ~ Avalia's Pristine Castle.md",
-    "Halithell/Narrative/Opulent Antithesis/Act VI ~ Clockwork Château.md",
-    "Halithell/Narrative/Opulent Antithesis/Act VII ~ Magnum Opus.md",
-    "Halithell/Narrative/Opulent Antithesis",
+    "Halithell/Meta/Software.md",
+    "Halithell/Meta/Ideas/Names.md",
+    "Halithell/Meta/References/Study Materials.md",
+    "Halithell/Meta/References/Litchi Animation.md",
     "Halithell/Gameplay/Bosses/Demigod/Akira ~ The Demon of Hiraizumi.md",
-    "Halithell/Characters/Dance of the Flowing Lily.md",
+    "Halithell/Meta/References/Dummy.md",
+    "Halithell/Narrative/Silverscale Echoes/Act I ~ The Blind.md",
+    "Halithell/Gameplay/Regions/Veralis, Lustrous Arboreas/Boss Fights/2. Anomaly/Hakti ~ Silverscale Tempest.md",
+    "Halithell/Gameplay/Regions/Veralis, Lustrous Arboreas/Boss Fights/2. Anomaly/Arketh ~ Lochbeast.md",
+    "Halithell/Gameplay/Regions/Veralis, Lustrous Arboreas/Boss Fights/2. Anomaly/Lady Lazuli ~ The Gemspinner.md",
+    "Halithell/Gameplay/Bosses/Anomaly/Veralis - Hakti ~ Silverscale Tempest.md",
+    "La Tatuana/Characters/Antonio Petrucci.md",
     "La Tatuana/Characters/Alma Santos/General.md",
-    "Halithell/Gameplay/Regions/Exulas, Gloaming Wastes/2. NPC.md",
-    "Halithell/Meta/Workflow.md",
+    "La Tatuana/Characters/Kurotsuchi Akira.md",
+    "La Tatuana/Characters/Alma Santos/Appearance.md",
+    "Halithell/Characters/Kurotsuchi Akira.md",
+    "La Tatuana/Narrative/A-Side - Lux Occulta/- Overview.md",
+    "La Tatuana/Characters/Ixchel Marisol Xicará Mendoza.md",
+    "La Tatuana/Characters/Havushe Neziri.md",
+    "La Tatuana/Narrative/A-Side - Lux Occulta/0. Prologue.md",
+    "La Tatuana/Lore/Organizations/Yaxche Syndicate.md",
+    "La Tatuana/Characters/Humberto Santos.md",
+    "La Tatuana/Lore/Organizations/S4.md",
+    "La Tatuana/Characters/Santos Family",
+    "La Tatuana/Lore/Organizations/Los Malandros Perros.md",
+    "La Tatuana/Lore/Organizations/Petrucci Family.md",
+    "La Tatuana/Lore/Organizations/Interpol.md",
+    "Halithell/Narrative/Opulent Antithesis",
     "La Tatuana/Characters/Alma Santos/Injectors",
     "Lore/Untitled",
     "Lore/Hollow Lattice",
@@ -226,7 +213,6 @@
     "Characters/Alarine",
     "Characters/Esteria",
     "Gameplay/Regions/Calmerra, Lands Astray/Boss Fights/2. Anomaly",
-    "Gameplay/Regions/Calmerra, Lands Astray/Boss Fights/1. Chief",
     "Gameplay/Regions/Lumina/Map.canvas",
     "_Assets/Pasted image 20240928192500.png",
     "Untitled.canvas"

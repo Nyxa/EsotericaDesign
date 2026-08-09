@@ -1,1 +1,21 @@
-- Carmilla: Sanguine Cinder
+- Magicka
+    - The idea that magic can be divided into 5 categories:
+        - Arcane
+        - Illusionary
+        - Aura
+        - Manipulation
+        - Elemental
+- Gangstalking
+    - The idea that there are organizations posing as mundane, ordinary people, but are secretly watching your every move
+- Crystal skulls which contain memories
+- Deathworm
+    - Mongolian Deathworm, giant worm which lives in the sands and eats people
+    - (We more or less have something like this with Deadmaw)
+- Vimana
+    - Giant floating palaces
+- Holotropic
+    - Cool word
+- Negative Entropy
+    - The idea that something can be entropic in reverse - meaning that rather than expending energy by performing an action, it gains energy by acting
+- Area Out of Time
+    - An area from the past which can be visited in the present

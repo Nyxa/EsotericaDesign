@@ -1,6 +1,7 @@
 
 <h1><center><i>Ellore Mantell</i></center></h1>
-***
+
+---
 
 ### Life in Esteria
 **Ellore** was an [Esterian](Esteria.md) *Clockwork Technician* who specialized in *Mechanized Rail* for **Esterian** infrastructure. 

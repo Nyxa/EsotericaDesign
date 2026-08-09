@@ -1,5 +1,6 @@
 <h1><center>Gemstone Warden<br>Garnet</center></h1>
-___
+
+---
 
 >[!tip] The Little Big Problem
 >>*UOOOOOOOOAAAHHHGHHHH!*

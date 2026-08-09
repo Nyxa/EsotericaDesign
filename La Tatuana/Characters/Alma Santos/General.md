@@ -1,11 +1,13 @@
 
 <h1><center>Alma Santos<br>La Tatuana</center></h1>
-***
+
+---
 
 ### Names
 Given Name: *Alma Luisa Santos Xicará*
 Alias: *La Tatuana*
 Nicknames: *La Bandolera*, *La Bandida*, *La Parca*, *The Cold Case Killer*, *The Reaper*
+[[Squall]] title: *Ghost*
 
 ### Injectors
 
@@ -43,7 +45,7 @@ Using ammo does not reduce the duration of Angelus Mortis. The only way to do so
 
 ##### Eleven Divine Hands of a Profane Trinity
 **Nex Aeterna**
-A contract which combines the effects of Lacryma Dea, Angelus Mortis and Cruora, producing a completely new form with the combined properties of all three.
+A [[contract]] which combines the effects of Lacryma Dea, Angelus Mortis and Cruora, producing a completely new form with the combined properties of all three.
 
 The cost of this pact is that Alma may only utilize this against a single opponent. Should she inflict harm upon another, or vanquish her opponent, then she will be immediately vaporised, leaving only a single atom of her existence.
 

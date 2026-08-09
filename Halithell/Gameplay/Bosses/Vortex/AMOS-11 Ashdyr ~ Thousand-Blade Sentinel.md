@@ -5,7 +5,7 @@
 
 ### Info
 **Name**: AMOS-11 Ashdyr
-**Full Name**: Aeltor-Magella 
+**Full Name**: Aeltor Magnetic Ordnance Sentinel, Model 11: Ashdyr
 
 **Attunement**: [Velocigen](Qualia.md#Velocigen)
 **Class**: [Vortex](General%20Boss%20Mechanics.md#Vortex)

@@ -321,6 +321,8 @@
       "La Tatuana/_Templates/Dummy.md"
     ],
     "La Tatuana/Characters": [
+      "La Tatuana/Characters/Santos Family",
+      "La Tatuana/Characters/Mateo Sosa.md",
       "La Tatuana/Characters/Alma Santos",
       "La Tatuana/Characters/Mr. Californian.md"
     ],
@@ -335,6 +337,7 @@
       "La Tatuana/Characters/Alma Santos/Injectors/Hand of Reprisal.md",
       "La Tatuana/Characters/Alma Santos/Injectors/Hand of Serenity.md"
     ],
+    "La Tatuana/Characters/Santos Family": [],
     "La Tatuana/Lore": [
       "La Tatuana/Lore/Organizations",
       "La Tatuana/Lore/The Directory"
