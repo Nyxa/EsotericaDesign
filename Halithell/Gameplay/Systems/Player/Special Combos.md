@@ -1,6 +1,7 @@
 
  <h1><center>Special Growth Combos</center></h1>
-***
+
+---
 Below is a list of **Special**-type **Growth Combos** that exist within the game, as well as their passive effects, their **Augments**, and the **Challenges** that unlock those **Augments**.
 
 This list will be sorted by *Primary* **Attribute**. Each heading will be *Primary*, and then each bullet point within that heading will be the associated *Secondary* **Attribute** that induces this **Combo**.

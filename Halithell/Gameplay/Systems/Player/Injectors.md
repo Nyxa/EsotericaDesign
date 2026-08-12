@@ -1,6 +1,7 @@
 
  <h1><center>Injectors</center></h1>
-***
+
+---
 [Injectors](Injector.md) are the means by which [[Qualia]] may be channeled in order to produce a desired result. In gameplay terms, they are the narrative building block for abilities, magical artefacts, progression keys, buffs, and passives.
 
 All entities that use the aforementioned are framed as using **Injectors**, and *must*, in some way, indicate that they are not using a different means of producing effects than [[Umbra]] is.
@@ -25,6 +26,8 @@ In terms of gameplay, **Fetishes** will (in practice) act as either **Stigmata**
 
 
 ### Sutures
+
+
 **Sutures** are small **Injectors** that may be switched *at any time*. In terms of lore, they are smaller **Stigmata** which **Umbra** stitches onto herself from corpses and energy she finds in the world.
 
 **Sutures** are organized as a *skill tree*, however, they do not follow common skill tree conventions. 
@@ -69,5 +72,7 @@ Additional **Veins** may be obtained via items found in the world. These should 
 
 Any specific arrangement of **Sutures** may be saved as a **Suture Loadout**. These may be switched at no cost, at any **Dahlia**.
 
+UI Concept:
+![](Pasted%20image%2020260812152642.png)
 ### Blueprints
 **Blueprints** are items that can be found and acquired by **Umbra** which allow her to immediately learn the layout of a certain **Injector**. In practice, it's how she can acquire a new ability *without* discovering its pattern herself. **Blueprints** allow **Umbra** to create an **Injector** for a **Qualia Cost**. This may involve *any* type of **Injector**.

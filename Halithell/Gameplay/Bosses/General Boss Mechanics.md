@@ -2,11 +2,13 @@
 <h1><center>Boss Mechanics</center></h1>
 
 ---
-
 ### Class
 Each boss has a classification. This classification determines how many phases they have, what type of [[death]] they induce upon defeating [[Umbra]], and their [[reward bracket]].
 
-The classifications are as follows:
+> [!note]
+> Reward classifications (Common ~ Mystic) exist merely for a designer estimate of the quality of the rewards. These classifications do not necessarily have to be depicted to the player in-game.
+
+The boss classifications are as follows:
 
 #### Chief
 - Souped up regular enemies
@@ -14,8 +16,7 @@ The classifications are as follows:
 - Phases: **1** *or* **2**
 - Induces **Reform** death
 - Grants reward(s) from **Common** to **Rare**.
-- All **Chief** bosses are optional, except [[Characters/Maylith/Garnet]], who is a tutorial boss.
-	- **Garnet** may be *moved* to **Anomaly** 
+- All **Chief** bosses are optional, except [Garnet](Garnet.md), who is a tutorial boss.
 
 #### Anomaly
 - Introduced with minor title card, and *minor* animation
@@ -28,7 +29,7 @@ The classifications are as follows:
 	- Defeating [[Aosi]] is a requirement for progressing past the [[Wailing Woods]]
 	- Defeating [Lady Lazuli](Lady%20Lazuli.md) is a requirement for progressing past the [Great Maylith Seal](Great%20Maylith%20Seal) 
 - There are certain [[side stories]] that require battling **Anomalies** in specific ways
-		- Defeating ([Mercy](Combat.md#Mercy)) [[Hakti]] for [[Echoes]]
+		- Defeating ([Mercy](Combat.md#Mercy)) [[Hakti]] for [[Silverscale Echoes]]
 		- Defeating (**Mercy**) [[Shendala]] for [Golden Heart, Azulite Soul (Act I)](Act%20I%20~%20The%20Last%20Orator.md)
 			- Defeating [Heart Embers](Edivius%20-%20Heart%20Embers%20of%20the%20Igneous%20Lord.md) for [[Golden Heart, Azulite Soul (Act II)]]
 		- Defeating [[Erathel]] for [[Daughter of Eiare]]
@@ -48,7 +49,7 @@ The classifications are as follows:
 		- She is also related to **Little Artificer**
 	- [Luscerna](Vortex%20-%20Luscerna%20~%20Ashen%20Echo.md) is a requirement for **Echoes**
 	- [Carmilla](Vortex%20-%20Carmilla%20~%20Sanguine%20Cinder.md) is *strongly* related to **Golden Heart, Azulite Soul**
-		- She is also *strongly* related to, and involved with, **Little Artificer**
+		- She is also *strongly* related to, and involved in, **Little Artificer**
 
 #### Demigod
 - Introduced with cutscene, leading into *unique gimmick* title card
@@ -57,8 +58,8 @@ The classifications are as follows:
 - Grants **Legendary** reward, a unique [Blueprint](Injectors.md#Blueprints), and a [[Cosmetic Override]].
 - All **Demigods**, except one, are *optional* to complete the *main story*
 	- [Necroxia](Necroxia%20~%20Virtuosa%20of%20the%20Void.md) is the final boss, and thus mandatory.
-		- Implicitly, she marks the ending to **Antithesis**.
+		- Implicitly, she marks the ending to [Opulent Antithesis](Act%20I%20~%20Veralis.md).
 - Each **Demigod** marks the *ending* to a specific story.
 	- [Alace ~ Godbeast](Alace%20Vansonia%20~%20Godbeast%20of%20Eiare.md) marks the ending to **Daughter of Eiare**
 	- [Litchi](Kayanna%20Litchi%20~%20Radiant%20Princess%20of%20Altire.md) marks the ending to **Little Artificer**
-	- [Akira](Akira%20~%20The%20Demon%20of%20Hiraizumi.md) marks the ending to **The Eighth Sephyr**
+	- [Akira](Akira%20~%20The%20Demon%20of%20Hiraizumi.md) marks the ending to [The Eighth Sephyr](The%20Eighth%20Sephyr.md)

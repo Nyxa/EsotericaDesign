@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Halithell/Meta/Ideas/Names.md",
+                "file": "Halithell/Gameplay/Systems/Player/Combat.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Combat"
+            }
+          },
+          {
+            "id": "3aedddff7ea39d08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Halithell/Gameplay/Bosses/Demigod/Alace Vansonia ~ Godbeast of Eiare.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Names"
+              "title": "Alace Vansonia ~ Godbeast of Eiare"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -55,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wailing wood",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,14 +181,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9410175255a9f50f",
+  "active": "3aedddff7ea39d08",
   "lastOpenFiles": [
+    "Halithell/Gameplay/Bosses/General Boss Mechanics.md",
+    "Halithell/Narrative/Opulent Antithesis/Act VII ~ Chaotic Opulence.md",
+    "Halithell/Narrative/Opulent Antithesis/Act IV ~ Elphira, the Sunken Capital.md",
+    "Halithell/Narrative/Opulent Antithesis/Act I ~ Veralis.md",
+    "Halithell/Gameplay/Systems/Player/Untitled.md",
+    "Halithell/Gameplay/Systems/Player/Combat.md",
+    "Halithell/Gameplay/Systems/Player/Exploration.md",
+    "Halithell/Gameplay/Systems/Player/Injectors.md",
+    "Halithell/Gameplay/Systems/Player/Special Combos.md",
+    "_Assets/Pasted image 20260812152642.png",
+    "_Assets/Pasted image 20260812152620.png",
+    "_Assets/Pasted image 20260812152600.png",
+    "_Assets",
+    "Halithell/Lore/The Lattice/Ripples/Depicted/Eiare/Eiare.md",
+    "Halithell/Gameplay/Bosses/Anomaly/Edivius - The Great Shendala ~ Orator.md",
+    "Halithell/Gameplay/Regions/Mt. Edivius, Throne of the Heart Embers/1. Overview.md",
+    "Halithell/Gameplay/Regions/Mt. Edivius, Throne of the Heart Embers/2. NPC.md",
+    "Halithell/Gameplay/Regions/Mt. Edivius, Throne of the Heart Embers/3. Enemies.md",
+    "Halithell/Gameplay/Regions/Mt. Edivius, Throne of the Heart Embers/4. Notable Miscellanea.md",
+    "Halithell/Meta/Ideas/Names.md",
     "Halithell/Meta/Ideas/Region Drafts.md",
     "Halithell/Meta/Ideas/Megadump.md",
-    "Halithell/Meta/Ideas/Names.md",
     "Halithell/Lore/The Lattice/Ripples/Depicted/Eiare/Artifiction.md",
     "Halithell/Lore/The Lattice/Ripples/Depicted/Eiare/Clans/Ictina.md",
-    "Halithell/Lore/The Lattice/Ripples/Depicted/Eiare/Eiare.md",
     "Halithell/Lore/The Lattice/Ripples/Depicted/Orthurys.md",
     "Halithell/Lore/The Lattice/Ripples/Depicted/Eiare.md",
     "Halithell/Lore/The Lattice/Ripples/Known/Kamon.md",
@@ -181,22 +214,8 @@
     "Halithell/Lore/The Lattice/Ripples/Known/Nathwynn.md",
     "Halithell/Lore/The Lattice/Ripples/Depicted/Stralix.md",
     "Halithell/Lore/The Lattice/Ripples/Known",
-    "Halithell/Lore/The Lattice/Ripples/Depicted/Solipsis.md",
-    "Halithell/Lore/The Lattice/Ripples/Depicted/Earth.md",
-    "Halithell/Lore/The Lattice/Ripples/Depicted/Altire.md",
-    "Halithell/Lore/The Lattice/Ripples/Depicted/Sallerys.md",
     "Halithell/Lore/The Lattice/Ripples/Depicted",
-    "Halithell/Lore/The Lattice/Ripples/Traversal.md",
-    "Halithell/Lore/The Lattice/Ripples/Ripple.md",
     "Halithell/Lore/The Lattice/Ripples",
-    "Halithell/Meta/Software.md",
-    "Halithell/Meta/References/Study Materials.md",
-    "Halithell/Meta/References/Litchi Animation.md",
-    "Halithell/Gameplay/Bosses/Demigod/Akira ~ The Demon of Hiraizumi.md",
-    "Halithell/Meta/References/Dummy.md",
-    "Halithell/Narrative/Silverscale Echoes/Act I ~ The Blind.md",
-    "Halithell/Gameplay/Regions/Veralis, Lustrous Arboreas/Boss Fights/2. Anomaly/Hakti ~ Silverscale Tempest.md",
-    "Halithell/Gameplay/Regions/Veralis, Lustrous Arboreas/Boss Fights/2. Anomaly/Arketh ~ Lochbeast.md",
     "La Tatuana/Characters/Santos Family",
     "Halithell/Narrative/Opulent Antithesis",
     "La Tatuana/Characters/Alma Santos/Injectors",
@@ -210,11 +229,7 @@
     "_Assets/Pasted image 20250722233816.png",
     "_Assets/0d6b8d5e2f81042ba1d3f04bd19a57071e7a5811ea67787b80fbaa1df5c9be4c-1639879072 1.jpg",
     "_Assets/0d6b8d5e2f81042ba1d3f04bd19a57071e7a5811ea67787b80fbaa1df5c9be4c-1639879072.jpg",
-    "_Assets/Pasted image 20250716041231.png",
-    "_Assets/Pasted image 20250714053735.png",
-    "Characters/Niandes",
     "Gameplay/Regions/Lumina/Map.canvas",
-    "_Assets/Pasted image 20240928192500.png",
     "Untitled.canvas"
   ]
 }
