@@ -1,4 +1,4 @@
-Also called **Nasty William**, he is a broker who can connect big name criminals with each other, and ensure their business operates smoothly. He also engages in "clean-up services," for when business goes south.
+Also called **Filthy William**, he is a broker who can connect big name criminals with each other, and ensure their business operates smoothly. He also engages in "clean-up services," for when business goes south.
 
 His job requires him to have eyes and ears all over the region, making him fairly knowledgeable on all the dealings that happen there.
 

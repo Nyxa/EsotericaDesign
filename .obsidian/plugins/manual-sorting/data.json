@@ -351,15 +351,14 @@
       "La Tatuana/_Templates/Dummy.md"
     ],
     "La Tatuana/Characters": [
+      "La Tatuana/Characters/Alma Santos",
+      "La Tatuana/Characters/Humberto Santos.md",
+      "La Tatuana/Characters/Ixchel Marisol Xicará Mendoza.md",
+      "La Tatuana/Characters/Mateo Sosa.md",
+      "La Tatuana/Characters/Kurotsuchi Akira.md",
       "La Tatuana/Characters/William Redpath.md",
       "La Tatuana/Characters/Antonio Petrucci.md",
-      "La Tatuana/Characters/Kurotsuchi Akira.md",
-      "La Tatuana/Characters/Havushe Neziri.md",
-      "La Tatuana/Characters/Ixchel Marisol Xicará Mendoza.md",
-      "La Tatuana/Characters/Humberto Santos.md",
-      "La Tatuana/Characters/Mateo Sosa.md",
-      "La Tatuana/Characters/Alma Santos",
-      "La Tatuana/Characters/Mr. Californian.md"
+      "La Tatuana/Characters/Havushe Neziri.md"
     ],
     "La Tatuana/Characters/Alma Santos": [
       "La Tatuana/Characters/Alma Santos/Injectors",
@@ -406,6 +405,7 @@
       "La Tatuana/Lore/The Directory/Objects/Incubus.md"
     ],
     "La Tatuana/Lore/The Directory/People": [
+      "La Tatuana/Lore/The Directory/People/Mr. Californian.md",
       "La Tatuana/Lore/The Directory/People/D.B. Cooper.md",
       "La Tatuana/Lore/The Directory/People/Ross Petrucci.md",
       "La Tatuana/Lore/The Directory/People/Thomas Wilkinson.md",
