@@ -1,8 +1,14 @@
 {
   "customOrder": {
     "/": [
+      "_Assets",
       "Halithell",
       "La Tatuana"
+    ],
+    "_Assets": [
+      "_Assets/Pasted image 20260812152600.png",
+      "_Assets/Pasted image 20260812152620.png",
+      "_Assets/Pasted image 20260812152642.png"
     ],
     "Halithell": [
       "Halithell/_Assets",
@@ -210,6 +216,7 @@
       "Halithell/Gameplay/Systems/Player"
     ],
     "Halithell/Gameplay/Systems/Player": [
+      "Halithell/Gameplay/Systems/Player/Untitled.md",
       "Halithell/Gameplay/Systems/Player/Combat.md",
       "Halithell/Gameplay/Systems/Player/Exploration.md",
       "Halithell/Gameplay/Systems/Player/Injectors.md",
@@ -244,9 +251,21 @@
       "Halithell/Lore/The Lattice/Ripples/Depicted/Earth.md",
       "Halithell/Lore/The Lattice/Ripples/Depicted/Altire.md",
       "Halithell/Lore/The Lattice/Ripples/Depicted/Eiare",
-      "Halithell/Lore/The Lattice/Ripples/Depicted/Eiare.md",
       "Halithell/Lore/The Lattice/Ripples/Depicted/Orthurys.md",
       "Halithell/Lore/The Lattice/Ripples/Depicted/Sallerys.md"
+    ],
+    "Halithell/Lore/The Lattice/Ripples/Depicted/Eiare": [
+      "Halithell/Lore/The Lattice/Ripples/Depicted/Eiare/Clans",
+      "Halithell/Lore/The Lattice/Ripples/Depicted/Eiare/Artifiction.md",
+      "Halithell/Lore/The Lattice/Ripples/Depicted/Eiare/Eiare.md"
+    ],
+    "Halithell/Lore/The Lattice/Ripples/Depicted/Eiare/Clans": [
+      "Halithell/Lore/The Lattice/Ripples/Depicted/Eiare/Clans/Ictina.md",
+      "Halithell/Lore/The Lattice/Ripples/Depicted/Eiare/Clans/Avalia.md",
+      "Halithell/Lore/The Lattice/Ripples/Depicted/Eiare/Clans/Esteria.md",
+      "Halithell/Lore/The Lattice/Ripples/Depicted/Eiare/Clans/Maylith.md",
+      "Halithell/Lore/The Lattice/Ripples/Depicted/Eiare/Clans/Niandes Clan.md",
+      "Halithell/Lore/The Lattice/Ripples/Depicted/Eiare/Clans/Saeris.md"
     ],
     "Halithell/Lore/The Lattice/Ripples/Known": [
       "Halithell/Lore/The Lattice/Ripples/Known/Asvulrah.md",
@@ -298,14 +317,14 @@
       "Halithell/Narrative/Little Artificer/Act I ~ A Bitsy Request.md"
     ],
     "Halithell/Narrative/Opulent Antithesis": [
-      "Halithell/Narrative/Opulent Antithesis/Act I ~ Lumina.md",
+      "Halithell/Narrative/Opulent Antithesis/Act I ~ Veralis.md",
+      "Halithell/Narrative/Opulent Antithesis/Act IV ~ Elphira, the Sunken Capital.md",
+      "Halithell/Narrative/Opulent Antithesis/Act VII ~ Chaotic Opulence.md",
       "Halithell/Narrative/Opulent Antithesis/Act II ~ Divine City Slums.md",
       "Halithell/Narrative/Opulent Antithesis/Act III ~ Malicis' Miasma.md",
-      "Halithell/Narrative/Opulent Antithesis/Act IV ~ Elvira, the Sunken Capital.md",
       "Halithell/Narrative/Opulent Antithesis/Act Nil ~ Orthurys.md",
       "Halithell/Narrative/Opulent Antithesis/Act V ~ Avalia's Pristine Castle.md",
-      "Halithell/Narrative/Opulent Antithesis/Act VI ~ Clockwork Château.md",
-      "Halithell/Narrative/Opulent Antithesis/Act VII ~ Magnum Opus.md"
+      "Halithell/Narrative/Opulent Antithesis/Act VI ~ Clockwork Château.md"
     ],
     "Halithell/Narrative/Silverscale Echoes": [
       "Halithell/Narrative/Silverscale Echoes/Act I ~ The Blind.md"
@@ -407,19 +426,6 @@
     ],
     "La Tatuana/Narrative/B-Side - Velum Inane": [
       "La Tatuana/Narrative/B-Side - Velum Inane/- Overview.md"
-    ],
-    "Halithell/Lore/The Lattice/Ripples/Depicted/Eiare": [
-      "Halithell/Lore/The Lattice/Ripples/Depicted/Eiare/Clans",
-      "Halithell/Lore/The Lattice/Ripples/Depicted/Eiare/Artifiction.md",
-      "Halithell/Lore/The Lattice/Ripples/Depicted/Eiare/Eiare.md"
-    ],
-    "Halithell/Lore/The Lattice/Ripples/Depicted/Eiare/Clans": [
-      "Halithell/Lore/The Lattice/Ripples/Depicted/Eiare/Clans/Akhanti Clan.md",
-      "Halithell/Lore/The Lattice/Ripples/Depicted/Eiare/Clans/Avalia.md",
-      "Halithell/Lore/The Lattice/Ripples/Depicted/Eiare/Clans/Esteria.md",
-      "Halithell/Lore/The Lattice/Ripples/Depicted/Eiare/Clans/Maylith.md",
-      "Halithell/Lore/The Lattice/Ripples/Depicted/Eiare/Clans/Niandes Clan.md",
-      "Halithell/Lore/The Lattice/Ripples/Depicted/Eiare/Clans/Saeris.md"
     ]
   },
   "sortOrder": "customOrder",

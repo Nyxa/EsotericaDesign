@@ -45,9 +45,41 @@ Using ammo does not reduce the duration of Angelus Mortis. The only way to do so
 
 ##### Eleven Divine Hands of a Profane Trinity
 **Nex Aeterna**
-A [[contract]] which combines the effects of Lacryma Dea, Angelus Mortis and Cruora, producing a completely new form with the combined properties of all three.
+A [[contract]] which combines the effects of [[Lacryma Dea]], [[Angelus Mortis]] and [[Cruora]], producing a completely new form with the combined properties of all three.
 
 The cost of this pact is that Alma may only utilize this against a single opponent. Should she inflict harm upon another, or vanquish her opponent, then she will be immediately vaporised, leaving only a single atom of her existence.
+
+To activate Nex Aeterna, Alma must completely utter a 7-sentence poem in Latin, whilst having the blood of her target on her tongue:
+
+*Mors, tibi hoc voveo:*
+*Coniunge me cum hoste, et ambos consume.*
+*Animam meam tibi devoveo,*
+*eiusque interitum posco.*
+*Frigido in amplexu tuo nos dormire sine.*
+*Ad finem nos perduc, donec nihil sit*
+*Praeter "Nex Aeterna."*
+
+From the very first word of the poem, the target is restrained from moving. The target remains restrained for the duration of the poem's recitation. Should Alma not finish reciting the poem within 3 minutes and 30 seconds, she will be vaporised to nothing.
+
+With each sentence of the poem, a new binding is formed.
+
+*First*: Her wrists are perforated by burning chains. They are raised into the air, and she is made to hang from them. The bound target is not damaged, but is made to mirror Alma's movements, and thus is suspended in midair.
+
+*Second*: White doves and black crows swarm the area surrounding her. Whenever they fly into each other, they erupt into black flames that drool blood from their center. This continues until all birds have died.
+
+*Third*: The blood on the floor snakes outward in peculiar shapes, forming sigils. Each sigil continues snaking outward to form a complete circle underneath Alma, in the shape of a septagram. Once the septagram is fully formed, the flames extinguish.
+
+*Fourth*: The shadow of an identical septagram forms underneath the target. Once it is fully formed, it illuminates with bright, divine light. At the same time, Alma's septagram ignites into a great scarlet fire. Alma's clothes begin burning away.
+
+*Fifth*: Blood starts seeping from Alma's eyes.
+
+*Sixth*: From the target's septagram, a long, spindly, clawed hand emerges, made of charred flesh and oozing shadows. It darts for Alma's navel and bursts through it, emerging out of the other side through her back.
+
+*Seventh*: Alma utters the name of the form. Upon doing so, the charred hand jams itself through her back, and emerges from her chest, holding her beating heart. It force-feeds this to her as she dies.
+
+Upon fully ingesting the heart, her target is released from its bindings. Divine light shines upon her from above as the flames underneath her turn pitch black, and intensify into a roaring vortex. The vortex fully envelops Alma, crawling its way up along the beam of light, before turning into a cloud of crimson-black vapour.
+
+The cloud spins itself to dissipation, and Alma emerges in her new state.
 
 During this state:
 
@@ -109,8 +141,6 @@ During this state:
     - These Bloodice clouds linger for 3.3 minutes. Alma can freely transport into any Bloodice cloud. 
     - Upon contact with other blood, this blood will infect it. Any being infected by her blood will experience an intense sense of impending doom. They will also hallucinate their worst fear coming true. This hallucination will last 3.3 seconds in the real world, but may last any amount of time from the point of view of the infectee.
 - Drinking even a single drop of her target's blood fully restores all of Alma's injuries immediately.
-
-    
 
 After her self-obliteration, Caerulea will restore her in fixed segments:
 

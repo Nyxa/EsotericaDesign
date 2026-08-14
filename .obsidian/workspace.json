@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Halithell/Gameplay/Systems/Player/Combat.md",
+                "file": "La Tatuana/Characters/Alma Santos/General.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Combat"
+              "title": "General"
             }
           },
           {
@@ -34,9 +34,20 @@
               "icon": "lucide-file",
               "title": "Alace Vansonia ~ Godbeast of Eiare"
             }
+          },
+          {
+            "id": "53a906c7d23f3759",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.7"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "poem",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,14 +192,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3aedddff7ea39d08",
+  "active": "9410175255a9f50f",
   "lastOpenFiles": [
+    "La Tatuana/Characters/Alma Santos/Appearance.md",
+    "La Tatuana/Characters/Alma Santos/General.md",
+    "La Tatuana/Characters/Mr. Californian.md",
+    "Halithell/Gameplay/Systems/Player/Combat.md",
     "Halithell/Gameplay/Bosses/General Boss Mechanics.md",
     "Halithell/Narrative/Opulent Antithesis/Act VII ~ Chaotic Opulence.md",
     "Halithell/Narrative/Opulent Antithesis/Act IV ~ Elphira, the Sunken Capital.md",
     "Halithell/Narrative/Opulent Antithesis/Act I ~ Veralis.md",
     "Halithell/Gameplay/Systems/Player/Untitled.md",
-    "Halithell/Gameplay/Systems/Player/Combat.md",
     "Halithell/Gameplay/Systems/Player/Exploration.md",
     "Halithell/Gameplay/Systems/Player/Injectors.md",
     "Halithell/Gameplay/Systems/Player/Special Combos.md",
@@ -210,9 +224,6 @@
     "Halithell/Lore/The Lattice/Ripples/Depicted/Orthurys.md",
     "Halithell/Lore/The Lattice/Ripples/Depicted/Eiare.md",
     "Halithell/Lore/The Lattice/Ripples/Known/Kamon.md",
-    "Halithell/Lore/The Lattice/Ripples/Known/Asvulrah.md",
-    "Halithell/Lore/The Lattice/Ripples/Known/Nathwynn.md",
-    "Halithell/Lore/The Lattice/Ripples/Depicted/Stralix.md",
     "Halithell/Lore/The Lattice/Ripples/Known",
     "Halithell/Lore/The Lattice/Ripples/Depicted",
     "Halithell/Lore/The Lattice/Ripples",
