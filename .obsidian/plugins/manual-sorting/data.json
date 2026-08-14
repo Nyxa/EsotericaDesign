@@ -351,6 +351,7 @@
       "La Tatuana/_Templates/Dummy.md"
     ],
     "La Tatuana/Characters": [
+      "La Tatuana/Characters/William Redpath.md",
       "La Tatuana/Characters/Antonio Petrucci.md",
       "La Tatuana/Characters/Kurotsuchi Akira.md",
       "La Tatuana/Characters/Havushe Neziri.md",
@@ -384,16 +385,33 @@
       "La Tatuana/Lore/Organizations/Yaxche Syndicate.md"
     ],
     "La Tatuana/Lore/The Directory": [
-      "La Tatuana/Lore/The Directory/Cicada 5.md",
-      "La Tatuana/Lore/The Directory/D.B. Cooper.md",
-      "La Tatuana/Lore/The Directory/Dreadslither.md",
-      "La Tatuana/Lore/The Directory/Grieflok.md",
-      "La Tatuana/Lore/The Directory/Incubus.md",
-      "La Tatuana/Lore/The Directory/Jack The Ripper.md",
-      "La Tatuana/Lore/The Directory/The Dyatlov Marrowgill.md",
-      "La Tatuana/Lore/The Directory/The Flying Dutchman.md",
-      "La Tatuana/Lore/The Directory/The Lake of Blood.md",
-      "La Tatuana/Lore/The Directory/The Rat King.md"
+      "La Tatuana/Lore/The Directory/Numbering.md",
+      "La Tatuana/Lore/The Directory/Objects",
+      "La Tatuana/Lore/The Directory/Groups & Organizations",
+      "La Tatuana/Lore/The Directory/Creatures",
+      "La Tatuana/Lore/The Directory/People"
+    ],
+    "La Tatuana/Lore/The Directory/Creatures": [
+      "La Tatuana/Lore/The Directory/Creatures/Dreadslither.md",
+      "La Tatuana/Lore/The Directory/Creatures/Dyatlov Marrowgill.md",
+      "La Tatuana/Lore/The Directory/Creatures/Lake of Blood.md"
+    ],
+    "La Tatuana/Lore/The Directory/Groups & Organizations": [
+      "La Tatuana/Lore/The Directory/Groups & Organizations/Jack The Ripper.md",
+      "La Tatuana/Lore/The Directory/Groups & Organizations/Rat King.md",
+      "La Tatuana/Lore/The Directory/Groups & Organizations/Cicada 5.md"
+    ],
+    "La Tatuana/Lore/The Directory/Objects": [
+      "La Tatuana/Lore/The Directory/Objects/Grieflok.md",
+      "La Tatuana/Lore/The Directory/Objects/Incubus.md"
+    ],
+    "La Tatuana/Lore/The Directory/People": [
+      "La Tatuana/Lore/The Directory/People/D.B. Cooper.md",
+      "La Tatuana/Lore/The Directory/People/Ross Petrucci.md",
+      "La Tatuana/Lore/The Directory/People/Thomas Wilkinson.md",
+      "La Tatuana/Lore/The Directory/People/Alexei Surkov.md",
+      "La Tatuana/Lore/The Directory/People/Assante Mussa.md",
+      "La Tatuana/Lore/The Directory/People/The Flying Dutchman.md"
     ],
     "La Tatuana/Meta": [
       "La Tatuana/Meta/Ideas",

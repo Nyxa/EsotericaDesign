@@ -1,0 +1,9 @@
+- Former hacker for GCHQ
+- Buff and handsome
+- British accent
+- Parents are from Tanzania
+- Absolute nerd
+- Likes Mushoku Tensei (or whatever)
+- Has a Warhammer collection
+- Afraid of loud noises
+- Platonically smitten with [Alma](General.md)

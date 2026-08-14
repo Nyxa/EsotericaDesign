@@ -1,0 +1,6 @@
+- Gearhead who works for [Alma](General.md)
+- Buff and handsome
+- Russian accent
+- Absolute nerd
+- Likes Kill La Kill (or whatever)
+- Hematophobic (fear of blood)

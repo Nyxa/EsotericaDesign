@@ -1,0 +1,5 @@
+- Agent of MI6
+- Plain guy
+- Uninteresting at first glance
+- Excellent fighter and spy
+- Whole layer of depth uncovered as more time is spent with him
