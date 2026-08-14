@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "La Tatuana/Characters/Alma Santos/General.md",
-                "mode": "preview",
+                "file": "La Tatuana/Narrative/A-Side - Lux Occulta/- Overview.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "General"
+              "title": "- Overview"
             }
           },
           {
@@ -194,8 +194,8 @@
   },
   "active": "9410175255a9f50f",
   "lastOpenFiles": [
-    "La Tatuana/Characters/Alma Santos/Appearance.md",
     "La Tatuana/Characters/Alma Santos/General.md",
+    "La Tatuana/Characters/Alma Santos/Appearance.md",
     "La Tatuana/Characters/Mr. Californian.md",
     "Halithell/Gameplay/Systems/Player/Combat.md",
     "Halithell/Gameplay/Bosses/General Boss Mechanics.md",
